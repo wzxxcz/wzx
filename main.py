@@ -532,7 +532,7 @@ all_lines =  ["更新时间,#genre#"] +[version] + ['\n'] +\
              ["D｜浙江频道,#genre#"] + sorted(set(correct_name_data(corrections_name,zj_lines))) + ['\n'] + \
              ["D｜江苏频道,#genre#"] + sorted(set(correct_name_data(corrections_name,jsu_lines))) + ['\n'] + \
              ["D｜湖南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hn_lines))) + ['\n'] + \
-             ["D｜湖北频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
+             ["D｜湖北频道,#genre#"] + sort_data(hb_dictionary,set(correct_name_data(corrections_name,hb_lines))) + ['\n'] + \
              ["D｜安徽频道,#genre#"] + sorted(set(correct_name_data(corrections_name,ah_lines))) + ['\n'] + \
              ["D｜广东频道,#genre#"] + sorted(set(correct_name_data(corrections_name,gd_lines))) + ['\n'] + \
              ["D｜海南频道,#genre#"] + sorted(set(correct_name_data(corrections_name,hain_lines))) + ['\n'] + \
@@ -594,7 +594,7 @@ def get_logo_by_channel_name(channel_name):
             return url
     return None
 
-output_text = "#EXTM3U x-tvg-url='https://live.fanmingming.com/e.xml'\n"
+output_text = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"\n'
 
 with open(output_file, "r", encoding='utf-8') as file:
     input_text = file.read()
