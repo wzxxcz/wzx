@@ -503,7 +503,7 @@ for whitelist_line in whitelist_auto_lines:
             process_channel_line(",".join(whitelist_parts[1:]))
 
 about_video1="url"
-about_video2="url"
+about_video2="https://gitee.com/wzbdyr/xcz/raw/master/about1080p.mp4"
 version=datetime.now().strftime("%Y%m%d-%H-%M-%S")+","+about_video1
 about="关于本源,"+about_video2
 # 瘦身版
