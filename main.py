@@ -2,7 +2,7 @@ import urllib.request
 from urllib.parse import urlparse
 import re #正则
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 import random
 
 # 执行开始时间
@@ -501,6 +501,13 @@ for whitelist_line in whitelist_auto_lines:
             response_time = 60000  # 单位毫秒，转换失败给个60秒
         if response_time < 2000:  #2s以内的高响应源
             process_channel_line(",".join(whitelist_parts[1:]))
+
+# 获取当前的 UTC 时间
+utc_time = datetime.now(timezone.utc)
+# 北京时间
+beijing_time = utc_time + timedelta(hours=8)
+# 格式化为所需的格式
+formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 
 about_video1="https://gitee.com/wzbdyr/xcz/raw/master/about1080p.mp4"
 about_video2="https://git.acwing.com/xcz/xcz/-/raw/master/about1080p.mp4"
