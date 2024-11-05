@@ -1,4 +1,3 @@
-
 import urllib.request
 from urllib.parse import urlparse
 import re
@@ -29,7 +28,3 @@ urls = [
     # "https://iptv-org.github.io/iptv/countries/us.m3u",
     "https://iptv-org.github.io/iptv/countries/tw.m3u"
         ]
-
-
-
-
