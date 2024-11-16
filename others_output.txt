@@ -454,7 +454,9 @@ CGTN,http://42.48.50.232:9002/tsfile/live/1001_1.m3u8
 
 
 ◆◆◆　http://kxrj.site:567/gggg.nzk
-格兰披治赛车,http://rihou.cc:555/mp4?id=lndjll.mp4
+㋊㏯U15联赛决赛⚽📡,http://rihou.cc:555/mp4?id=lndjll.mp4
+上海申花🆚广州俱乐部,http://rihou.cc:555/mp4?id=lndjj.mp4
+现场直播,https://v.speechless.pw/live/892913462971545_20231101_hdp.m3u8?txSecret=7e35e81d4b73980d448728bc4962352d&txTime=6738B7B9&
 无线直播,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist.m3u8
 广东体育直播,http://159.75.85.63:35455/douyin/137995681287
 澳视澳门直播,http://159.75.85.63:35455/douyin/334939583532
@@ -1005,7 +1007,6 @@ HZTV-贰,http://119.145.76.245:10000/udp/239.77.1.233:5146
 梅州生活,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.flv
 梅州客家,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.flv
 云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
-⚽暂无🆚直播⚽,http://rihou.cc:555/mp4?id=lndjj.mp4
 ⬇️80大地恩情⬇️,https://pan.95boke.com/view.php/a2edaf1d6c0d503f8f7b0b21a3aad670.mp4
 家在珠江粤01,https://vip.ffzy-play.com/20221209/31605_0706f9df/index.m3u8
 家在珠江粤02,https://vip.ffzy-play.com/20221209/31606_96fabe4f/index.m3u8
