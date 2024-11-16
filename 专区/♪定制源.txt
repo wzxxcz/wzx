@@ -154,8 +154,8 @@ Astr剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 动作电影频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
 家庭影院频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
 影迷电影频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
-RTHK-31频陆,p3p://108.181.32.169:25894/64101f330006ab429853d45f7940453b
-RTHK-32频陆,p3p://108.181.32.169:25894/641020b00001b8599859a360613572d7
+RTHK-31频陆,p3p://108.181.32.169.25221/64101f330006ab429853d45f7940453b
+RTHK-32频陆,p3p://108.181.32.169.25221/641020b00001b8599859a360613572d7
 RTHK-33频道,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34频道,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35频道,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
@@ -379,6 +379,390 @@ CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8$
 CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8$可回看
 CCTV16,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8$可回看
 CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$可回看
+东方卫视,http://kxrj.site:8081/8647/mg.php?id=dfws
+吉林卫视,http://kxrj.site:8081/8647/mg.php?id=jlws
+青海卫视,http://kxrj.site:8081/8647/mg.php?id=qhws
+陕西卫视,http://kxrj.site:8081/8647/mg.php?id=sxws
+湖北卫视,http://kxrj.site:8081/8647/mg.php?id=hubws
+江西卫视,http://kxrj.site:8081/8647/mg.php?id=jxws
+江苏卫视,http://kxrj.site:8081/8647/mg.php?id=jsws
+广东卫视,http://kxrj.site:8081/8647/mg.php?id=gdws
+湾区卫视,http://kxrj.site:8081/8647/mg.php?id=dwqws
+海南卫视,http://kxrj.site:8081/8647/mg.php?id=hinws
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+中国教育,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
+四海钓鱼,http://kxrj.site:8081/8647/mg.php?id=shdy
+江苏教育,http://kxrj.site:8081/8647/mg.php?id=jsjy
+山东教育,http://kxrj.site:8081/8647/mg.php?id=sdjy
+游戏风云,http://kxrj.site:8081/8647/mg.php?id=yxfy
+之江纪录,http://kxrj.site:8081/8647/mg.php?id=zjjl
+杭州综合,http://kxrj.site:8081/8647/mg.php?id=hzzh
+杭州明珠,http://kxrj.site:8081/8647/mg.php?id=hzmz
+杭州生活,http://kxrj.site:8081/8647/mg.php?id=hzsh
+杭州影视,http://kxrj.site:8081/8647/mg.php?id=hzys
+杭州少体,http://kxrj.site:8081/8647/mg.php?id=hzse
+嵊泗综合,http://kxrj.site:8081/8647/mg.php?id=ssxwzh
+普陀电视,http://kxrj.site:8081/8647/mg.php?id=ptxwzh
+高清大片,http://kxrj.site:8081/8647/mg.php?id=gqdp
+经典电影,http://kxrj.site:8081/8647/mg.php?id=jdxgdy
+军事大片,http://kxrj.site:8081/8647/mg.php?id=jsdp
+热剧联播,http://kxrj.site:8081/8647/mg.php?id=rjlb
+赛事经典,http://kxrj.site:8081/8647/mg.php?id=sszjd
+体坛名汇,http://kxrj.site:8081/8647/mg.php?id=ttmlh
+新片映厅,http://kxrj.site:8081/8647/mg.php?id=xpfyt
+Y+剧场台,http://kxrj.site:8081/8647/mg.php?id=yjjc
+
+东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
+江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABnJcJqRqI051KXILLz-XtpXbmEXLRGs-Yttth90tUl-tH72dTMSRz5XSe39WHDnCr1uKjzpLzf-XqtGUIa-paJf3cDV1e-mJlqBCGc_ax_4pRulP6_2Jlc_SuTukDjaZs39go_UqkCqJgB8UAhhLbgibqSnuQrBTo4CkvfDCxfpsC0EXRHon4Pev7oJWFEMzDPrhcce4fsv356rgkUiSMuuBAzAw%3D%3D
+广东卫视,https://api.livednow.org/migu/608831231?sign=gAAAAABnJcJqYcJMord5t6sSAZC5m7v96UZ6Ea3WOtse7W_BquKqMmYGSh_UXVG5Wouvctg5Og0WjnXvLEz7Z7KmtqPExzi5EiaSHMY7LuMA8mog-i8BrvjD9r9fikY5LnFg4lU6jvjeDgyzEeziiUxW45I16rki3ib8vwaDTBVvTFX7H3RhkaWBYQbzclSmWhz4TBsBy3jnQxnxhV1KkAQOyQLL2GYhkw%3D%3D
+江西卫视,https://api.livednow.org/migu/783847495?sign=gAAAAABnJcJqSxNO7cIGHJVGiP23aVwddpa5-Uj611uPtb-B59dmlhqB3KvALkxWK9erVikPtvf_CCUy-Au9GrH8x09UkoWAVcBYsPpl04DfI8C5xmP2Ngry7LvN4nkLgM8jrTQCdSw9JqYxvBS4kcEsKcXaalufeTRy0B0gmPvBMYA0qBe5eBDbavp1kUzTq7bdpM9UGmek_DpYICCnOXAceQXch1tdhw%3D%3D
+陕西卫视,https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
+湖北卫视,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
+上海新闻综合,https://api.livednow.org/migu/651632657?sign=gAAAAABnJcJq37wV8HVm7KEZFWnnYZkQUEODG5vdm7IDdbftN_lPqTa7UFvcOUMZAUZMxbj_pqfV9Wqs0QesizLAlM5lm6KE09NV_R1NlWLz64dtw4a2E898ZITJ3Bnpm0doweq_jYVBvHMglvBll2wlTcIgVVXehIUfj6dExG0H9KXwswEkrhKwV6QfZIzWFshncUJwYzjm4RhTuJ_sEEQULUSUOMdQCA%3D%3D
+上海东方影视,https://api.livednow.org/migu/617290047?sign=gAAAAABnJcJqlqz4SRGRy-0QLRhBFIdFTXdLLQdH0p6tckXUs74yY2CWxgWUdtsZFJHkOPYpxwIEAL7XaTYJokRVqggqXVRxCVWF-FobjAc3orPpiX_8bTppoNcktk7k_bGxMeaCONBImD4MYTNG4KGQZDGclrgJei3K95f8s3Q-131kpxK8kMxVGXl-2TTG84EzL6YA-QqrZ8yRDPueQF7N-1mpfhBnKA%3D%3D
+上海纪实人文,https://api.livednow.org/migu/617289997?sign=gAAAAABnJcJqQwPbtkXR0EduHeJNS7Praw2jALICwPtVhDMC5xK6muuZOoLpbovoW69EFsrxTaExrNVMZEA25x60dF_L6kpoaXSELwdqPRTixZpcui0WHswAmzQUEguKVCZk-XWMw5i1ww20u6b5k1Pm9zyLDGhpXXirdhr0O1I3kJPtPXOMY5vr-lqdvwC4ITbkgujskT2hCslBoUn7RC8ToxLRf90Yyw%3D%3D
+SiTV 七彩戏剧,https://api.livednow.org/migu/796071456?sign=gAAAAABnJcJqiyQ0-6AUgL9KrWPfEDD5Ego7qhH3Y9qjflwxIfPoLr_ZFas4hK80-_B_SFK6U54vhgW9b_hGzTvoVU9Zje9nvD4KHl-Qj8xBKZ1Xv48av4hc6AIPmj87OCQdXrnUcnPTmzigGzAsj_O6NvY1kiI3Nv7rPd_WMcr3pKsRCqyEpDzzaLtBzi0lEv3k51tiL0Y9OCD1Du7ngmuSDOmKetuXOA%3D%3D
+SiTV 劲爆体育,https://api.livednow.org/migu/796071336?sign=gAAAAABnJcJqM_HTVabRYY0y1XrkVaxRyUQD0kZEz3VQ3y_m5G88-puxPaYTeeM95vvfLbpAONBNY5IydUY2MsWrBWs4jK885O8HDIs7shB502xQx6f0vQ8TuKxrMXORgONQBsb4X87_7NQJpQ3S8NHmEhlYT7rsDO3yy0U0DjGwpbMiH9AXzspYRIojn1sZlwKdzaQKzsQky9fj4FcWw0muMwKADmu-sQ%3D%3D
+SiTV 魅力足球,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGXuOxwe1Md-XR1vW2Qfvt8UbVbRmGMRw2HCaBotmmxy63qf2FHgoB1vxFJ480IN7nk3fPKKsC14EcSpsIiKAI0k4bTRVRSIM6N0J2Mhr-yHORPlMoC183bY-eRCUBjbWAH5mmWt4aOY1TAiXl6k8v5XlseEvPqOFOHsJbk-s_IR3yRznUz22lTF60_HV6D2H40sColfcl-Ows1xbbBw%3D%3D
+SiTV 法治天地,https://api.livednow.org/migu/790188943?sign=gAAAAABnJcJqJEX_fKL5nS2bHxb3IjyPGVwXvv-VP-6emcjhMuzmhljtP1wDnc8P74PwO69Ohnm1U4AAb3iWvl77tlDJWaSon1GJ9NNXF9OLdItXVUAMa_LSIuqtBK-DuRMQ4MyUT4u26BxLqUjb1JAKWqh4cSf5vehSPi_ognGsboNndvANT2aEhQEE5xPvYqVgScROeT18yJ_AUMCnNoO_FXehLkXFCw%3D%3D
+SiTV 乐游,https://api.livednow.org/migu/796070452?sign=gAAAAABnJcJq8uiIVIP_3bOztrcmJP_15Q1F1bNsjBZzZpOw-EcSXo9kIDmCScBvGMJ8icn_7rkCq3_yaboYbHC5_Vf1cPPIWYeLPIt6NeHmvsYHIu-4otNPovN8ay2dNdXEUqCpx5pzyC3yNCeQb60KQS-23XUsp6CAQ2hR9M4QZ8qo6lT8ehDiGaxyFlx25bG9xGVr0J8Zji_x5k368hqEyUQTHo_8Fw%3D%3D
+SiTV 游戏风云,https://api.livednow.org/migu/790188417?sign=gAAAAABnJcJqAiV-M5WfFq0UgtudCTLeaNsXXRsUcWr-4R5GhpmvkeYQoFVT3vM_SWGM03SpA0C_qgznH13Q4tSjwHccnJoAHrf4gAwSAfzFvHCBIMLBt4IgTcVZJrbPYY52P4d1kqLrg9jlRoSS60ldvUqAaqwn1agGD799Pos54zlNmsvXcNa2zZlgyQ-QNu7euxIGdmXkx9tNXdv4bCiasEdHi4gGIw%3D%3D
+四海钓鱼,https://api.livednow.org/migu/895358641?sign=gAAAAABnJcJq7NZntg3iYconeMQ3mo6Ztn4xsXYNnm5eTqhb3YA4u6WNy5ftjGLhJkGDPTb7JwpPZMbdWYrYxdYXQFZ7mSpReg-VXGuIA3CELLLGnkkdRec6cKXr1cu70bE-YPclPf2qSbNU32auckK86fI56KI0_SH01-gSCK-cqAgTraQDYEVFUutpeRJlg53KqUem6Xou0KcAgppUGPykzhoGfiAtRQ%3D%3D
+CHC 家庭影院,https://api.livednow.org/migu/644368373?sign=gAAAAABnJcJqmc1MsiQush_pxUKZ5OeC8HhfO-CPbiBOF88hW8nkCObTvAyhv11H14Bhk-bFCpsouIhtO3PlCY2ah4IhSGfy05LSMd_KFlBY9L5xbZB7SlCEDLk24QPqmM8gtv7g4796StdogDq4Om3HxXvjrZNas54BY18WZzcB4-YE56gA6xbu36O2c2niJ0WeKWqCks68bT83swV6thf54iuQVybh2w%3D%3D
+欢笑剧场,https://api.livednow.org/migu/790187880?sign=gAAAAABnJcJqeWrL_QFvsI85bXt15-J8e29-OvXFzILf7CrK_6VYKWLAIs3yj1CDwIZsFvGGtETmNphVnDaNoKqktfYv00VCe2V8ZN25r417izzkN59wfTbJ4NQiZwYg3v5r8d83qiWpum-rydGrwJSCQubg4Bd4puRfbEzoXzsDSvVBxjl4KALBnF7FoaoUCy16phoW-OvtFgGp0Y6afwBbwgdOWUKnOg%3D%3D
+#BA 经典,https://api.livednow.org/migu/788815380?sign=gAAAAABnJcJqPyFHQA-Zp600iaXcO2wi3RPQZ5lTFk3FwFUJh4Io8D8IsrJKcctLLuV8h8RqMDSVH7EEcdFcUTRky7BZdCLArlQbcxzCgVW9tMg9ek6CeH-AdrQdumYbDfz9-YXoTJpbwIfPHgOFaMOmgX6qkGEFWb8Eojmwmv_hS3owxCkbbxEi7VeZKIVAGvm3ZQjblZ_K2L6l6yoYUun7gbW5nsMDKQ%3D%3D
+五大联赛经典,https://api.livednow.org/migu/780288994?sign=gAAAAABnJcJqIAQQHsIu4xlmxouu0CGdYPf5NKj5drPyQQGtZFElFsTv2W3ps0xbAknkQgR-jhIoDmcF5vMqm0NTZoIfAFIlXeSYxhoDcUR7nXNr_l-JeaRmxAHjGepYBBCxkPWkpKlnoaDHd9r_JXUUYwQYGhPgnvDpssJJoFkmTs-IJWOOpo5sqLiyXrcMxYeQnWZpuyWENkyr38HaObqwjgK1RJ_iGQ%3D%3D
+CBA 经典,https://api.livednow.org/migu/788813182?sign=gAAAAABnJcJqRYDLpkmsRGB2Sv6qbaUw5Cp3_VbZwMxFwIOGTy41s8kbanJXUWTCHJndS_C5aKQD0GvxIjZXMbR7yZhFUUpq7Cxlk3rHYwhcmFBNrwh9CVtw9VpLAYpzdp7LYyBO1yNcU9HIbt6T36e93U7Nauhs_YfoyTZEATK-wmxPlLaWAjF7U0YF26QK094dJvUAESdaaUaxRRweIast6EbZ_dWBCw%3D%3D
+中国足球风云,https://api.livednow.org/migu/788816794?sign=gAAAAABnJcJqv4lv8Jl2J3xxsbtVmKy7yk-0C_Y_rxpApfeq2z9YorsVyt8vsdeRO_L6cV5e9XBKsDfyQmSVfsh_buJy2ycd_hdyxmPXKp5uM8UJHTmEZL4ROAiWaSQte9BM40VzF8yDrQNPub0YrDF5N1mTHtSnZqGDjweph9KVSVOF-XImZXyXA-Z7Ky0OcF_lqJq_Lc1clNDB6sKCQRa4bUgHCGmwOA%3D%3D
+UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcgS38Fbi7oDn2eOeZzuBFsSEndHEYW9QSGQRxr1rY9wAs5hJmSFj6E0QwA8pcWBou_pjOAMXmQSu7WOnm2tBdA8IMhhz_ZZz2dwAZwi85s0-jZxOsSuL6KhGVL-EOfsN7hdJGsXrpnHbwFA_nUgbPT5aerRC_x-VfR4HlUfiCBA6NZjpJU2xKGvXXGEnu6xXLboc543t__sUNv89Cw%3D%3D
+掼蛋精英赛,https://api.livednow.org/migu/631354620?sign=gAAAAABnJcJqNIywGZ8ozE_htAbG3nkxbrbm55tG7vonMDA9GddAjTREzK-pe0a682YPC6HxNkY29gecqP0na8DPWuAI0sA7mRdBqJ-_wKUY5hd8SuISARxQ62qjgbD1sGsdLbFKNiXfy_Eec0ZrUStKTvgExcF4p5UDXpMr2F93xcTybbLobqENCZ3aCPejaUBIDjZUifLhpRuZZZ3o0zb-kQw-xSl8Dg%3D%3D
+全民乒乓,https://api.livednow.org/migu/788818045?sign=gAAAAABnJcJqHa3wNcpu9JlqDcxZSnBlP4yBXJZawD_spKPBiRnPAzQ3K0lrKIx2HBGjCN7Dnes5XyLkyqDd7xId91O8aMvX05U25yXdC74DV2QiTNWpdZGlJEW451zorjacxDPzyCXuqIuABFjOCEf8l4PMET2xX0U28QsxRjCdA6cxXhO8IhhTOvCibU8zL6fhnBcIoUq8bEtsD40PIu9V6BkYoVRKGQ%3D%3D
+24小时体育台,https://api.livednow.org/migu/654102378?sign=gAAAAABnJcJq_kclB-2uyJ9etLOAbkONr2RGVw9mhAsOWwDxupwhyTdm-IWEkJBMZdR3CeAqiWtfmnHy2hTw2vmsNXZ_I4Nf0MBjbu9M5XKi-Sjcdz9gPtJJQahnHg79b5jkC8Uh04_ADtDeYTcV-tKwhxluwNK11SKDy56-y8xKsk2_gIFaEIAGZhrzMVk_gl0Expecw7WrDOcvE3QoweeChP2-IFEaEQ%3D%3D
+经典香港电影,https://api.livednow.org/migu/625703337?sign=gAAAAABnJcJqeZSl1tY8yKpMaPYxLBiZYY6UFLi5qXIc4HEV83u7bqr-kefr3aQ2W6Fj7slWy0JQjWMxntqvsfTbbYZKmu6QxaKnbruMw7_PT5p8YiWzdMPJrhwosHvxenhe94DSEUwzM8ixhRAFjPuhE4vyuSKCCYPFPSdma03VOaA6yUsCx6qMFH-8fli0ScbqOz1gtK-b76pPSHsRgu8KzeVSBgBSMQ%3D%3D
+军事迷必看大片,https://api.livednow.org/migu/617432318?sign=gAAAAABnJcJqZtaxawC7PMW6HmzSXTDi9wFU6N0ZtJDx7d-0HvL3ZNARP6A0nmwzdAmIkOLyYFxnptA1dfTYG2hp1bM3x9Pq5SRdcTYYVIyrAJ9GzXD7qTvq0NFxAcu-vpaOsRBYDbaA1xiI7iBiMYKxXSTee5hmHfBo3JCySQSlHTbFFmuoGNUMNcdNmDXJuvP150hwC2zukC8EVMZiNIYmMJPi2xKlnQ%3D%3D
+新片放映厅,https://api.livednow.org/migu/619495952?sign=gAAAAABnJcJqrIJgrcoIeFRkKbrfdSiF8jXAy1t1Wa359mOTG18s3DkIUs12M5uMK3jiTG0IHQ3hzG5f-7mK3WtvR55XvoAIqQXO_aujy6A-Rdf3A_PmEpZE6v5U-ZbcUgWSFOQhePE5KDAe5a5vaLoArcoGBUIjI_0vSdP0enIPN4iaLIPzrzwB1q7kDdTRVjaxCIhP_cLQkv5i5gOXLLkZ1tqzfBZkHw%3D%3D
+红色轮播台,https://api.livednow.org/migu/713600957?sign=gAAAAABnJcJqKcv4ZvnpHJq7guH5qfK-E94Lsv-ddDybFBencH4CkKU3hJpBKKEON0HWgQsEEhV7IkEMAMMwu3_p4K3GnowXD08BhsIAr6hI2lNtPgAQSv7o2CVfcBmz4bPbL3r9Mmk0ru7YpxGyVJE2gz0Fh8dVUMCHt7kjs29pnkKlPv58KCfkHPQFiMlSVlScvsOzE6YP80E2uz9MiTJnjAGMMMKT6g%3D%3D
+金色剧场,https://api.livednow.org/migu/713591450?sign=gAAAAABnJcJqoZuZ5rRYv4pGlOm67qauT9QltGRWXDa_LX_fIQ-fpbkoXusrK4uIsZO0J2wYUBZkt__GGJOlujcMBIELmH-YN_mtQidj6uIH8cMBN6-qsM30qPDfeBN24b4QuKrPbWXDh2gmOEwlV4KPfJ0TWwv8efmQDCuHvJHl_jug8JS8Fz3FlFQoQNSJJUvDj2RXRAcp7zmIacN3Ga8cddP9Avf0zw%3D%3D
+
+北京卫视,http://154.9.232.236/mlTW26688.php?id=beijing
+深圳卫视,http://154.9.232.236/mlTW26688.php?id=shenzhen
+广西卫视,http://154.9.232.236/mlTW26688.php?id=guangxi
+湖北卫视,http://154.9.232.236/mlTW26688.php?id=hubei
+东南卫视,http://154.9.232.236/mlTW26688.php?id=fujian
+广东珠江,http://154.9.232.236/mlTW26688.php?id=zhujiang
+
+
+
+
+北京卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265027
+东方卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265018
+江苏卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265030
+浙江卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265031
+湖南卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265024
+广东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265034
+深圳卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265028
+天津卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265026
+安徽卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265025
+东南卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265033
+河北卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000006000040016
+河南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031119
+湖北卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265023
+广西卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031118
+四川卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006119
+重庆卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265017
+贵州卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000025843
+海南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006211
+山东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265019
+江西卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265032
+辽宁卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265022
+青海卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000002000013359
+云南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031120
+甘肃卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031121
+吉林卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031117
+黑龙江视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265029
+华数__4K,http://www.72444165.xyz:5005/itv/wasusyt/6000000003000004748
+纯享__4K,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000011651
+黑莓电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
+黑莓动画,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000021734
+哒啵电竞,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032327
+哒啵赛事,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000003775
+精品综合,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019008
+精品大剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013968
+精品纪录,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013730
+精品体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000014634
+精品萌宠,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032328
+爱情喜剧,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000010
+超级电视,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268003
+超级电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000003000012426
+超级体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000009601
+超级综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268002
+潮妈辣婆,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000018
+东北热剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266013
+动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
+古装剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000024
+欢乐剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266012
+家庭剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000008284
+金牌综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000026167
+惊悚悬疑,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000024282
+军旅剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000014
+军事评论,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000022
+魅力潇湘,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000006197
+明星大片,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000016
+农业致富,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000003
+武博世界,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000007
+炫舞未来,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000000515
+怡伴健康,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266011
+中国功夫,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000009
+iH爱体育,http://www.72444165.xyz:5005/itv/wasusyt/6000000006000290630
+劲爆体育,http://www.72444165.xyz:5005/itv/bestzb/5000000002000029972
+魅力足球,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207
+
+东方卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265018
+江苏卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265030
+浙江卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265031
+广东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265034
+深圳卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265028
+天津卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265026
+安徽卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265025
+东南卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265033
+河北卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000006000040016
+河南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031119
+湖北卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265023
+四川卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006119
+重庆卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265017
+贵州卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000025843
+海南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006211
+山东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265019
+江西卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265032
+青海卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000002000013359
+云南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031120
+甘肃卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031121
+吉林卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031117
+黑龙江视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265029
+华数__4K,http://www.72444165.xyz:5005/itv/wasusyt/6000000003000004748
+纯享__4K,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000011651
+黑莓电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
+黑莓动画,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000021734
+哒啵电竞,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032327
+哒啵赛事,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000003775
+精品综合,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019008
+精品大剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013968
+精品纪录,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013730
+精品体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000014634
+精品萌宠,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032328
+爱情喜剧,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000010
+超级电视,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268003
+超级电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000003000012426
+超级体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000009601
+超级综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268002
+潮妈辣婆,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000018
+东北热剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266013
+动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
+古装剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000024
+欢乐剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266012
+家庭剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000008284
+金牌综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000026167
+惊悚悬疑,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000024282
+军旅剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000014
+军事评论,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000022
+魅力潇湘,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000006197
+明星大片,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000016
+农业致富,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000003
+武博世界,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000007
+炫舞未来,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000000515
+怡伴健康,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266011
+中国功夫,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000009
+iH爱体育,http://www.72444165.xyz:5005/itv/wasusyt/6000000006000290630
+劲爆体育,http://www.72444165.xyz:5005/itv/bestzb/5000000002000029972
+魅力足球,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207
+
+东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
+吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
+江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+
+CCTV1,http://kxrj.site:8081/8647/mg.php?id=cctv1
+CCTV2,http://kxrj.site:8081/8647/mg.php?id=cctv2
+CCTV3,http://kxrj.site:8081/8647/mg.php?id=cctv3
+CCTV4,http://kxrj.site:8081/8647/mg.php?id=cctv4
+CCTV5,http://kxrj.site:8081/8647/mg.php?id=cctv5
+CCTV5+,http://kxrj.site:8081/8647/mg.php?id=cctv5p
+CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV6,http://kxrj.site:8081/8647/mg.php?id=cctv6
+CCTV7,http://kxrj.site:8081/8647/mg.php?id=cctv7
+CCTV8,http://kxrj.site:8081/8647/mg.php?id=cctv8
+CCTV9,http://kxrj.site:8081/8647/mg.php?id=cctv9
+CCTV10,http://kxrj.site:8081/8647/mg.php?id=cctv10
+CCTV11,http://kxrj.site:8081/8647/mg.php?id=cctv11
+CCTV12,http://kxrj.site:8081/8647/mg.php?id=cctv12
+CCTV13,http://kxrj.site:8081/8647/mg.php?id=cctv13
+CCTV14,http://kxrj.site:8081/8647/mg.php?id=cctv14
+CCTV15,http://kxrj.site:8081/8647/mg.php?id=cctv15
+CCTV17,http://kxrj.site:8081/8647/mg.php?id=cctv17
+CT4欧洲,http://kxrj.site:8081/8647/mg.php?id=cctv4o
+CT4美洲,http://kxrj.site:8081/8647/mg.php?id=cctv4a
+CGT纪录,http://kxrj.site:8081/8647/mg.php?id=cgtnjl
+CGT西语,http://kxrj.site:8081/8647/mg.php?id=cgtne
+CGT阿语,http://kxrj.site:8081/8647/mg.php?id=cgtna
+CGT法语,http://kxrj.site:8081/8647/mg.php?id=cgtnf
+CGT俄语,http://kxrj.site:8081/8647/mg.php?id=cgtnr
+家庭影院,http://kxrj.site:8081/8647/mg.php?id=chcjt
+动作电影,http://kxrj.site:8081/8647/mg.php?id=chcdz
+发现之旅,http://kxrj.site:8081/8647/mg.php?id=fxzl
+老故事台,http://kxrj.site:8081/8647/mg.php?id=lgs
+中学生台,http://kxrj.site:8081/8647/mg.php?id=zxs
+东方卫视,http://kxrj.site:8081/8647/mg.php?id=dfws
+吉林卫视,http://kxrj.site:8081/8647/mg.php?id=jlws
+青海卫视,http://kxrj.site:8081/8647/mg.php?id=qhws
+陕西卫视,http://kxrj.site:8081/8647/mg.php?id=sxws
+湖北卫视,http://kxrj.site:8081/8647/mg.php?id=hubws
+江西卫视,http://kxrj.site:8081/8647/mg.php?id=jxws
+江苏卫视,http://kxrj.site:8081/8647/mg.php?id=jsws
+广东卫视,http://kxrj.site:8081/8647/mg.php?id=gdws
+湾区卫视,http://kxrj.site:8081/8647/mg.php?id=dwqws
+海南卫视,http://kxrj.site:8081/8647/mg.php?id=hinws
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+中国教育,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
+四海钓鱼,http://kxrj.site:8081/8647/mg.php?id=shdy
+江苏教育,http://kxrj.site:8081/8647/mg.php?id=jsjy
+山东教育,http://kxrj.site:8081/8647/mg.php?id=sdjy
+游戏风云,http://kxrj.site:8081/8647/mg.php?id=yxfy
+之江纪录,http://kxrj.site:8081/8647/mg.php?id=zjjl
+杭州综合,http://kxrj.site:8081/8647/mg.php?id=hzzh
+杭州明珠,http://kxrj.site:8081/8647/mg.php?id=hzmz
+杭州生活,http://kxrj.site:8081/8647/mg.php?id=hzsh
+杭州影视,http://kxrj.site:8081/8647/mg.php?id=hzys
+杭州少体,http://kxrj.site:8081/8647/mg.php?id=hzse
+嵊泗综合,http://kxrj.site:8081/8647/mg.php?id=ssxwzh
+普陀电视,http://kxrj.site:8081/8647/mg.php?id=ptxwzh
+高清大片,http://kxrj.site:8081/8647/mg.php?id=gqdp
+经典电影,http://kxrj.site:8081/8647/mg.php?id=jdxgdy
+军事大片,http://kxrj.site:8081/8647/mg.php?id=jsdp
+热剧联播,http://kxrj.site:8081/8647/mg.php?id=rjlb
+赛事经典,http://kxrj.site:8081/8647/mg.php?id=sszjd
+体坛名汇,http://kxrj.site:8081/8647/mg.php?id=ttmlh
+新片映厅,http://kxrj.site:8081/8647/mg.php?id=xpfyt
+Y+剧场台,http://kxrj.site:8081/8647/mg.php?id=yjjc
+熊猫频道高清,http://kxrj.site:8081/8647/mg.php?id=xmhd
+熊猫频道1,http://kxrj.site:8081/8647/mg.php?id=xm1
+熊猫频道2,http://kxrj.site:8081/8647/mg.php?id=xm2
+熊猫频道3,http://kxrj.site:8081/8647/mg.php?id=xm3
+熊猫频道4,http://kxrj.site:8081/8647/mg.php?id=xm4
+熊猫频道5,http://kxrj.site:8081/8647/mg.php?id=xm5
+熊猫频道6,http://kxrj.site:8081/8647/mg.php?id=xm6
+熊猫频道7,http://kxrj.site:8081/8647/mg.php?id=xm7
+熊猫频道8,http://kxrj.site:8081/8647/mg.php?id=xm8
+熊猫频道9,http://kxrj.site:8081/8647/mg.php?id=xm9
+熊猫频道10,http://kxrj.site:8081/8647/mg.php?id=xm10
+
+CCTV1,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
+CCTV2,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
+CCTV3,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
+CCTV4,https://api.livednow.org/migu/631780421?sign=gAAAAABnJcJqz7oNO-xridbK_3LKb0rcdjVs_WY_BR-BFoq8eOg8Qvn3RMaRgOohlrGPc3mJhNalk-OevwcUL7y3ObKzAeZuWtWBxqyoXyW34cmtmAnNx9EC9rXDbjauxADNT6Li789Xmb3ezb7EUlD91o2aUf1qh-cxlGyyOjS9aZEyU-1CBA-uJhURtKm5m9k2wQBuSTDlSq_X2EYHz1jXzPXsKoJ7eA%3D%3D
+CCTV5,https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
+CCTV5+,https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
+CCTV6,https://api.livednow.org/migu/624878396?sign=gAAAAABnJcJqCeZPI9pdAJI3zwOoz9SDiYBoZQL2_YxTBPm_gj4SRFhG652Dpip8x7O4oFhlJnHFS7Q4Kf_7eU_C9FrHiwmE9NDcuC5hEnGmyVWm8ntsvjsPsht86e15yA-OlkJj8m8OOe0qL_OVbjhSq3iySwkXSGvcKXQvvn6bYSRHZOe8Fc0EhG8AsW_DtSzMfG2-4VfItHk5oSqULRJ7DuT8Hr-neQ%3D%3D
+CCTV7,https://api.livednow.org/migu/673168121?sign=gAAAAABnJcJqjxuw5GDu1iojWpw4c-mjlefodslPuTvBI0grkKhdH8h_8I3xIavNltrXtbWMtHw2egHRBx-ciorem6WfS3xSWscFzvRmGcIdMlNJzhJ72fhC6f4jukCtJf6F79fYHQr5HfVJPSsBq9qCvVa1xZUsL40rtzOqtvaErO6BDEcA1JD4CyrNUboyvMBD11iNwc58nYXZiV-cubZaPaet8B6Xyg%3D%3D
+CCTV8,https://api.livednow.org/migu/624878356?sign=gAAAAABnJcJqw9dP6jwWUpKtifWTU97cE4kDpJmHWTbZD1ezcD3BLnqA4kJ_aSSQhe-ijrx2Z5Bm-wNBbguJ08avBolBe_yGvaJ1XKsKys_EAvx1QOauipvQfuKV15NrpBtQEMBADkCRzEwhHzbrcugddFVzwBFgmu7RrqSIIe848HA7b03yYseeTrXmOBJr1i1i99vgEUQOlaa1ismbhcTCecoRnyCfpQ%3D%3D
+CCTV9,https://api.livednow.org/migu/673168140?sign=gAAAAABnJcJqdqv3pFhYgBnmgGSIbZzHbX-DBJ-zNXsXFK68-5Wan9QqWYyKUxKv-XaTGYQIel_BUzZGYjzs5NPKiqPSXuul1GUOzl4VFlTGdyR6nNrAKB_lLRVjYzhVt6KX7j3DAzD44tiZocsNItrAhkJX7yIj6OGUq8s_mfXT_nlO_Xmgp4LUF7YnUnrICTc0LNBR-pQ1H2eiQcO2V6TCwrqhcHkABg%3D%3D
+CCTV10,https://api.livednow.org/migu/624878405?sign=gAAAAABnJcJqUD0VJHgW_jpi9fSEDhVqtVpgjlm5l2RFB5crphtq4Lgd1pE-Tc_n_qCmd9kwraXg4RZcc0KxzMy3Ef70prdHPMgkFbuJGwsobC29UUm_Kh7XbBVy-fqPer-IzPfc4oRJ10aPTq5_azxz8u2Qp6Ay2EYOLMg1O-EnQ79eNgaXc-2s1ccgdc5zllFwTrdP0XNkac4cX20eCWKPBULxodi6KQ%3D%3D
+CCTV11,https://api.livednow.org/migu/667987558?sign=gAAAAABnJcJq0uxG3wXdtrtqiIBCWRnKBVOa5nG_MrcR-XE_FxKhhSx7qj7d71b67HWtpFnV2yWlbi0DB4eVSBIi6y6ATRTRy-BAzHYzmANZxHCzKfrpNUunkDnLY0q7rIKTNSg3JuHII5wLmoBSDoeTzc8Tt6xXcUd5Hv-oHFU6L8gBAJjtBl6u0vGjL4NCXzTdg5rTNQf-Lx3S3ew-DiWy1XnrFEc26g%3D%3D
+CCTV12,https://api.livednow.org/migu/673168185?sign=gAAAAABnJcJqfs_3emdJIy9mYYyN6M29-FRfMp5HBvyku5jviEWtan66IU2XguJLoP7tu5be63y71Amc1LQKABsz3w4K4MYcVJZQ2FpXjnYoI80vaFeq2t-GfRY3n-XhzImihJvGiPd8fDG9pEIVWSneLNgmMkomXAfDlza_TggSrlVcSDkpi6DsXXNOBLsIpsHdWRSbJtzbhkX3j0w7KzFZhMevYAkEqg%3D%3D
+CCTV13,https://api.livednow.org/migu/608807423?sign=gAAAAABnJcJqWcv58U6OGzQabwzd_fRQdYIiL56pNYvWDLYx8OqIYIZTaT5ceZHRyt06wODism6P1aOwUkuZhiEfldQ55DPEyxVt51QPQHSDakx6DZ2ucwlxwe6nUNX83Y9VomRK3nxUdOy7T5XXGKyCDKucirezIa1eLScwKqq2ONtkQFwIsf7M2R3c5RDB5YQ6uMRY3eA0hSaiRTacGYQSjA_U1rUG5g%3D%3D
+CCTV14,https://api.livednow.org/migu/624878440?sign=gAAAAABnJcJqbiZjvH8WPpn2MSC9d1plZ1uK5RoepfZ6jSSLDNY5MEkVmC6AeWa4kDMXAhPgpPm331nzJkqByvIwyJ1nvMCSyjAqVA9m3RE7fIRDF80f2H3UCJLesDEifymvAsoH5oyavOgYS4KyiZ0tkA_xHI22m-bhjRbDPbkfrr9U1pLOLTTNKxCBVpne91De96PBMhcK7JpHMEqngGthOBNZS4YfMg%3D%3D
+CCTV15,https://api.livednow.org/migu/673168223?sign=gAAAAABnJcJqidnXewNhy-gri2ybb9iscI03y5nc62Syy1VqIhpbG4NsKVFHcgll52_xUKgwrWb5UR4xUTuxZnXcZ0qybFuneRF7vganvFXXcsbCxEG1p3RlEZw2hsCJ2G64570EsLkHymrjb0T7NBsJQyYJplJRLJFEd2gRpP40XLLJYTwJTmIC9b2eeLAZy4YEIn8-g7uBCctAPZtXqq8lS4vOcoHLSQ%3D%3D
+CCTV17,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp3fHULs5VLTwRm5kvc_YZnCZDZdFCwKXL_yaXA5nFcCZPD0omVJwDapyQUilo6R4kQgEmlWfnDyA0UbxOdEjCzJ9SHIiV_53r4aaArZ0IL_Aq0Mhm7cM6wcQ1EeLovgqiDPnCeUF2j3_KgX74Wh-ZpYuDKkQNsfBaJ1_P09_8SukvS2dsHXG-Tkr2RbVUU9z4qmS7iw%3D%3D
+CCTV4欧洲,https://api.livednow.org/migu/608807419?sign=gAAAAABnJcJqqvN9kTkAiHC8GdaGGmmbLi62YsEYOIuOPI9Lac2D2d4KyQai_cbU9d1Blh-fo0li6MavI-f58Er_gvlCd7t5C35cmlxT7M-_SLOpCAeJgeSr4BD0t2Qt_Lrj7ZNsq8dCuNIPRnB-w0rJUjAiBMu0RFBQJ30fHcImYBrTGcTWrqXF53LpJSl0ymgtMaVrO9Y-HiqIUJkzyN8e6BTQQykZiQ%3D%3D
+CCTV4美洲,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6BlGge9WIDW3Fy0FRiXV5z_xNzVGu8g8B-0qw7tvyNyCVut8pWQCvFvKbhe1hY8cYKFLnYEBy0nIPd9wQZ407ZVV5Ca7zzDKkBo_MoXzKATjpoRRMIpGgGGhNcq4KIeU-5Wtu25PoFpJqE2csWr4hhqYu1_-DhfSOhUE6aePTI8INh7crU01j-d217PMhlw6fqS0cRoIqdQ3Ww%3D%3D
+中国教育电视台1,https://api.livednow.org/migu/923287154?sign=gAAAAABnJcJqVnSXrUUkkYtDWAxHBieXZon2_B2kDSLm9uRif8tufnQMZcjl_RWKY3uwdHLw3clP4ObeP_RJCfjzNqvhDl56kIzLwahI8Rpl8YL2mC2bIKCEwo1CTMP3N7towvh9GjPz2p03gh4qPAFaBTwBczKVxvPMZJuY38uaXlaYqc1ZCAxb6IXrCuhMgtIk47Cy_Xr3f2yZPPNUxvfT_w7Apd4-wA%3D%3D
+中国教育电视台2,https://api.livednow.org/migu/923287211?sign=gAAAAABnJcJqlMwKhypib47dsLMmTDrhIquQSbEM7k3NFiho8sMsjCHT4g572J4Z--cW7zs2z_6Lx0QQN3EtPgKjUeRYzAw_Pefu6uNdTfTWIxiPQBUlDBQAopWhjF5YyomATi-_zP6RZfvDmQL9fGjx83S2vkZBq3CHDShPVmtCSDb_q7lsjHNypuh-YPlAWJsoIfnocfSN3TiN1au-DXXraOO_mvUgDg%3D%3D
+中国教育电视台4,https://api.livednow.org/migu/923287339?sign=gAAAAABnJcJqCVYw9IPx1b6k3F9j_qfxbMCLc7TORXvKiIop_NRc772AulEv8NPpujB0-VnMnhCKtowzqffwqNlNsPZ2NU3FZvye8jB2rjfY5NZegCwzp1GcKgtzhLE4eoO8Mi90IRTg0D8c9ca9KuZg91XnwvBGPb7qr1eiRVTnR5MdNMhWyiI1K_qp3klG-1aJvztKqB-8rlOLOAm6bWHZQuhHJ1B7YQ%3D%3D
+东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
+江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABnJcJqRqI051KXILLz-XtpXbmEXLRGs-Yttth90tUl-tH72dTMSRz5XSe39WHDnCr1uKjzpLzf-XqtGUIa-paJf3cDV1e-mJlqBCGc_ax_4pRulP6_2Jlc_SuTukDjaZs39go_UqkCqJgB8UAhhLbgibqSnuQrBTo4CkvfDCxfpsC0EXRHon4Pev7oJWFEMzDPrhcce4fsv356rgkUiSMuuBAzAw%3D%3D
+广东卫视,https://api.livednow.org/migu/608831231?sign=gAAAAABnJcJqYcJMord5t6sSAZC5m7v96UZ6Ea3WOtse7W_BquKqMmYGSh_UXVG5Wouvctg5Og0WjnXvLEz7Z7KmtqPExzi5EiaSHMY7LuMA8mog-i8BrvjD9r9fikY5LnFg4lU6jvjeDgyzEeziiUxW45I16rki3ib8vwaDTBVvTFX7H3RhkaWBYQbzclSmWhz4TBsBy3jnQxnxhV1KkAQOyQLL2GYhkw%3D%3D
+江西卫视,https://api.livednow.org/migu/783847495?sign=gAAAAABnJcJqSxNO7cIGHJVGiP23aVwddpa5-Uj611uPtb-B59dmlhqB3KvALkxWK9erVikPtvf_CCUy-Au9GrH8x09UkoWAVcBYsPpl04DfI8C5xmP2Ngry7LvN4nkLgM8jrTQCdSw9JqYxvBS4kcEsKcXaalufeTRy0B0gmPvBMYA0qBe5eBDbavp1kUzTq7bdpM9UGmek_DpYICCnOXAceQXch1tdhw%3D%3D
+陕西卫视,https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
+湖北卫视,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
+上海新闻综合,https://api.livednow.org/migu/651632657?sign=gAAAAABnJcJq37wV8HVm7KEZFWnnYZkQUEODG5vdm7IDdbftN_lPqTa7UFvcOUMZAUZMxbj_pqfV9Wqs0QesizLAlM5lm6KE09NV_R1NlWLz64dtw4a2E898ZITJ3Bnpm0doweq_jYVBvHMglvBll2wlTcIgVVXehIUfj6dExG0H9KXwswEkrhKwV6QfZIzWFshncUJwYzjm4RhTuJ_sEEQULUSUOMdQCA%3D%3D
+上海东方影视,https://api.livednow.org/migu/617290047?sign=gAAAAABnJcJqlqz4SRGRy-0QLRhBFIdFTXdLLQdH0p6tckXUs74yY2CWxgWUdtsZFJHkOPYpxwIEAL7XaTYJokRVqggqXVRxCVWF-FobjAc3orPpiX_8bTppoNcktk7k_bGxMeaCONBImD4MYTNG4KGQZDGclrgJei3K95f8s3Q-131kpxK8kMxVGXl-2TTG84EzL6YA-QqrZ8yRDPueQF7N-1mpfhBnKA%3D%3D
+上海纪实人文,https://api.livednow.org/migu/617289997?sign=gAAAAABnJcJqQwPbtkXR0EduHeJNS7Praw2jALICwPtVhDMC5xK6muuZOoLpbovoW69EFsrxTaExrNVMZEA25x60dF_L6kpoaXSELwdqPRTixZpcui0WHswAmzQUEguKVCZk-XWMw5i1ww20u6b5k1Pm9zyLDGhpXXirdhr0O1I3kJPtPXOMY5vr-lqdvwC4ITbkgujskT2hCslBoUn7RC8ToxLRf90Yyw%3D%3D
+SiTV 七彩戏剧,https://api.livednow.org/migu/796071456?sign=gAAAAABnJcJqiyQ0-6AUgL9KrWPfEDD5Ego7qhH3Y9qjflwxIfPoLr_ZFas4hK80-_B_SFK6U54vhgW9b_hGzTvoVU9Zje9nvD4KHl-Qj8xBKZ1Xv48av4hc6AIPmj87OCQdXrnUcnPTmzigGzAsj_O6NvY1kiI3Nv7rPd_WMcr3pKsRCqyEpDzzaLtBzi0lEv3k51tiL0Y9OCD1Du7ngmuSDOmKetuXOA%3D%3D
+SiTV 劲爆体育,https://api.livednow.org/migu/796071336?sign=gAAAAABnJcJqM_HTVabRYY0y1XrkVaxRyUQD0kZEz3VQ3y_m5G88-puxPaYTeeM95vvfLbpAONBNY5IydUY2MsWrBWs4jK885O8HDIs7shB502xQx6f0vQ8TuKxrMXORgONQBsb4X87_7NQJpQ3S8NHmEhlYT7rsDO3yy0U0DjGwpbMiH9AXzspYRIojn1sZlwKdzaQKzsQky9fj4FcWw0muMwKADmu-sQ%3D%3D
+SiTV 魅力足球,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGXuOxwe1Md-XR1vW2Qfvt8UbVbRmGMRw2HCaBotmmxy63qf2FHgoB1vxFJ480IN7nk3fPKKsC14EcSpsIiKAI0k4bTRVRSIM6N0J2Mhr-yHORPlMoC183bY-eRCUBjbWAH5mmWt4aOY1TAiXl6k8v5XlseEvPqOFOHsJbk-s_IR3yRznUz22lTF60_HV6D2H40sColfcl-Ows1xbbBw%3D%3D
+SiTV 法治天地,https://api.livednow.org/migu/790188943?sign=gAAAAABnJcJqJEX_fKL5nS2bHxb3IjyPGVwXvv-VP-6emcjhMuzmhljtP1wDnc8P74PwO69Ohnm1U4AAb3iWvl77tlDJWaSon1GJ9NNXF9OLdItXVUAMa_LSIuqtBK-DuRMQ4MyUT4u26BxLqUjb1JAKWqh4cSf5vehSPi_ognGsboNndvANT2aEhQEE5xPvYqVgScROeT18yJ_AUMCnNoO_FXehLkXFCw%3D%3D
+SiTV 乐游,https://api.livednow.org/migu/796070452?sign=gAAAAABnJcJq8uiIVIP_3bOztrcmJP_15Q1F1bNsjBZzZpOw-EcSXo9kIDmCScBvGMJ8icn_7rkCq3_yaboYbHC5_Vf1cPPIWYeLPIt6NeHmvsYHIu-4otNPovN8ay2dNdXEUqCpx5pzyC3yNCeQb60KQS-23XUsp6CAQ2hR9M4QZ8qo6lT8ehDiGaxyFlx25bG9xGVr0J8Zji_x5k368hqEyUQTHo_8Fw%3D%3D
+SiTV 游戏风云,https://api.livednow.org/migu/790188417?sign=gAAAAABnJcJqAiV-M5WfFq0UgtudCTLeaNsXXRsUcWr-4R5GhpmvkeYQoFVT3vM_SWGM03SpA0C_qgznH13Q4tSjwHccnJoAHrf4gAwSAfzFvHCBIMLBt4IgTcVZJrbPYY52P4d1kqLrg9jlRoSS60ldvUqAaqwn1agGD799Pos54zlNmsvXcNa2zZlgyQ-QNu7euxIGdmXkx9tNXdv4bCiasEdHi4gGIw%3D%3D
+四海钓鱼,https://api.livednow.org/migu/895358641?sign=gAAAAABnJcJq7NZntg3iYconeMQ3mo6Ztn4xsXYNnm5eTqhb3YA4u6WNy5ftjGLhJkGDPTb7JwpPZMbdWYrYxdYXQFZ7mSpReg-VXGuIA3CELLLGnkkdRec6cKXr1cu70bE-YPclPf2qSbNU32auckK86fI56KI0_SH01-gSCK-cqAgTraQDYEVFUutpeRJlg53KqUem6Xou0KcAgppUGPykzhoGfiAtRQ%3D%3D
+CHC 家庭影院,https://api.livednow.org/migu/644368373?sign=gAAAAABnJcJqmc1MsiQush_pxUKZ5OeC8HhfO-CPbiBOF88hW8nkCObTvAyhv11H14Bhk-bFCpsouIhtO3PlCY2ah4IhSGfy05LSMd_KFlBY9L5xbZB7SlCEDLk24QPqmM8gtv7g4796StdogDq4Om3HxXvjrZNas54BY18WZzcB4-YE56gA6xbu36O2c2niJ0WeKWqCks68bT83swV6thf54iuQVybh2w%3D%3D
+欢笑剧场,https://api.livednow.org/migu/790187880?sign=gAAAAABnJcJqeWrL_QFvsI85bXt15-J8e29-OvXFzILf7CrK_6VYKWLAIs3yj1CDwIZsFvGGtETmNphVnDaNoKqktfYv00VCe2V8ZN25r417izzkN59wfTbJ4NQiZwYg3v5r8d83qiWpum-rydGrwJSCQubg4Bd4puRfbEzoXzsDSvVBxjl4KALBnF7FoaoUCy16phoW-OvtFgGp0Y6afwBbwgdOWUKnOg%3D%3D
+#BA 经典,https://api.livednow.org/migu/788815380?sign=gAAAAABnJcJqPyFHQA-Zp600iaXcO2wi3RPQZ5lTFk3FwFUJh4Io8D8IsrJKcctLLuV8h8RqMDSVH7EEcdFcUTRky7BZdCLArlQbcxzCgVW9tMg9ek6CeH-AdrQdumYbDfz9-YXoTJpbwIfPHgOFaMOmgX6qkGEFWb8Eojmwmv_hS3owxCkbbxEi7VeZKIVAGvm3ZQjblZ_K2L6l6yoYUun7gbW5nsMDKQ%3D%3D
+五大联赛经典,https://api.livednow.org/migu/780288994?sign=gAAAAABnJcJqIAQQHsIu4xlmxouu0CGdYPf5NKj5drPyQQGtZFElFsTv2W3ps0xbAknkQgR-jhIoDmcF5vMqm0NTZoIfAFIlXeSYxhoDcUR7nXNr_l-JeaRmxAHjGepYBBCxkPWkpKlnoaDHd9r_JXUUYwQYGhPgnvDpssJJoFkmTs-IJWOOpo5sqLiyXrcMxYeQnWZpuyWENkyr38HaObqwjgK1RJ_iGQ%3D%3D
+CBA 经典,https://api.livednow.org/migu/788813182?sign=gAAAAABnJcJqRYDLpkmsRGB2Sv6qbaUw5Cp3_VbZwMxFwIOGTy41s8kbanJXUWTCHJndS_C5aKQD0GvxIjZXMbR7yZhFUUpq7Cxlk3rHYwhcmFBNrwh9CVtw9VpLAYpzdp7LYyBO1yNcU9HIbt6T36e93U7Nauhs_YfoyTZEATK-wmxPlLaWAjF7U0YF26QK094dJvUAESdaaUaxRRweIast6EbZ_dWBCw%3D%3D
+中国足球风云,https://api.livednow.org/migu/788816794?sign=gAAAAABnJcJqv4lv8Jl2J3xxsbtVmKy7yk-0C_Y_rxpApfeq2z9YorsVyt8vsdeRO_L6cV5e9XBKsDfyQmSVfsh_buJy2ycd_hdyxmPXKp5uM8UJHTmEZL4ROAiWaSQte9BM40VzF8yDrQNPub0YrDF5N1mTHtSnZqGDjweph9KVSVOF-XImZXyXA-Z7Ky0OcF_lqJq_Lc1clNDB6sKCQRa4bUgHCGmwOA%3D%3D
+UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcgS38Fbi7oDn2eOeZzuBFsSEndHEYW9QSGQRxr1rY9wAs5hJmSFj6E0QwA8pcWBou_pjOAMXmQSu7WOnm2tBdA8IMhhz_ZZz2dwAZwi85s0-jZxOsSuL6KhGVL-EOfsN7hdJGsXrpnHbwFA_nUgbPT5aerRC_x-VfR4HlUfiCBA6NZjpJU2xKGvXXGEnu6xXLboc543t__sUNv89Cw%3D%3D
+掼蛋精英赛,https://api.livednow.org/migu/631354620?sign=gAAAAABnJcJqNIywGZ8ozE_htAbG3nkxbrbm55tG7vonMDA9GddAjTREzK-pe0a682YPC6HxNkY29gecqP0na8DPWuAI0sA7mRdBqJ-_wKUY5hd8SuISARxQ62qjgbD1sGsdLbFKNiXfy_Eec0ZrUStKTvgExcF4p5UDXpMr2F93xcTybbLobqENCZ3aCPejaUBIDjZUifLhpRuZZZ3o0zb-kQw-xSl8Dg%3D%3D
+全民乒乓,https://api.livednow.org/migu/788818045?sign=gAAAAABnJcJqHa3wNcpu9JlqDcxZSnBlP4yBXJZawD_spKPBiRnPAzQ3K0lrKIx2HBGjCN7Dnes5XyLkyqDd7xId91O8aMvX05U25yXdC74DV2QiTNWpdZGlJEW451zorjacxDPzyCXuqIuABFjOCEf8l4PMET2xX0U28QsxRjCdA6cxXhO8IhhTOvCibU8zL6fhnBcIoUq8bEtsD40PIu9V6BkYoVRKGQ%3D%3D
+24小时体育台,https://api.livednow.org/migu/654102378?sign=gAAAAABnJcJq_kclB-2uyJ9etLOAbkONr2RGVw9mhAsOWwDxupwhyTdm-IWEkJBMZdR3CeAqiWtfmnHy2hTw2vmsNXZ_I4Nf0MBjbu9M5XKi-Sjcdz9gPtJJQahnHg79b5jkC8Uh04_ADtDeYTcV-tKwhxluwNK11SKDy56-y8xKsk2_gIFaEIAGZhrzMVk_gl0Expecw7WrDOcvE3QoweeChP2-IFEaEQ%3D%3D
+经典香港电影,https://api.livednow.org/migu/625703337?sign=gAAAAABnJcJqeZSl1tY8yKpMaPYxLBiZYY6UFLi5qXIc4HEV83u7bqr-kefr3aQ2W6Fj7slWy0JQjWMxntqvsfTbbYZKmu6QxaKnbruMw7_PT5p8YiWzdMPJrhwosHvxenhe94DSEUwzM8ixhRAFjPuhE4vyuSKCCYPFPSdma03VOaA6yUsCx6qMFH-8fli0ScbqOz1gtK-b76pPSHsRgu8KzeVSBgBSMQ%3D%3D
+军事迷必看大片,https://api.livednow.org/migu/617432318?sign=gAAAAABnJcJqZtaxawC7PMW6HmzSXTDi9wFU6N0ZtJDx7d-0HvL3ZNARP6A0nmwzdAmIkOLyYFxnptA1dfTYG2hp1bM3x9Pq5SRdcTYYVIyrAJ9GzXD7qTvq0NFxAcu-vpaOsRBYDbaA1xiI7iBiMYKxXSTee5hmHfBo3JCySQSlHTbFFmuoGNUMNcdNmDXJuvP150hwC2zukC8EVMZiNIYmMJPi2xKlnQ%3D%3D
+新片放映厅,https://api.livednow.org/migu/619495952?sign=gAAAAABnJcJqrIJgrcoIeFRkKbrfdSiF8jXAy1t1Wa359mOTG18s3DkIUs12M5uMK3jiTG0IHQ3hzG5f-7mK3WtvR55XvoAIqQXO_aujy6A-Rdf3A_PmEpZE6v5U-ZbcUgWSFOQhePE5KDAe5a5vaLoArcoGBUIjI_0vSdP0enIPN4iaLIPzrzwB1q7kDdTRVjaxCIhP_cLQkv5i5gOXLLkZ1tqzfBZkHw%3D%3D
+红色轮播台,https://api.livednow.org/migu/713600957?sign=gAAAAABnJcJqKcv4ZvnpHJq7guH5qfK-E94Lsv-ddDybFBencH4CkKU3hJpBKKEON0HWgQsEEhV7IkEMAMMwu3_p4K3GnowXD08BhsIAr6hI2lNtPgAQSv7o2CVfcBmz4bPbL3r9Mmk0ru7YpxGyVJE2gz0Fh8dVUMCHt7kjs29pnkKlPv58KCfkHPQFiMlSVlScvsOzE6YP80E2uz9MiTJnjAGMMMKT6g%3D%3D
+金色剧场,https://api.livednow.org/migu/713591450?sign=gAAAAABnJcJqoZuZ5rRYv4pGlOm67qauT9QltGRWXDa_LX_fIQ-fpbkoXusrK4uIsZO0J2wYUBZkt__GGJOlujcMBIELmH-YN_mtQidj6uIH8cMBN6-qsM30qPDfeBN24b4QuKrPbWXDh2gmOEwlV4KPfJ0TWwv8efmQDCuHvJHl_jug8JS8Fz3FlFQoQNSJJUvDj2RXRAcp7zmIacN3Ga8cddP9Avf0zw%3D%3D
+CCTV-01咪咕,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
+CCTV-02咪咕,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
+CCTV-03咪咕,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
+CCTV-04咪咕,https://api.livednow.org/migu/631780421?sign=gAAAAABnJcJqz7oNO-xridbK_3LKb0rcdjVs_WY_BR-BFoq8eOg8Qvn3RMaRgOohlrGPc3mJhNalk-OevwcUL7y3ObKzAeZuWtWBxqyoXyW34cmtmAnNx9EC9rXDbjauxADNT6Li789Xmb3ezb7EUlD91o2aUf1qh-cxlGyyOjS9aZEyU-1CBA-uJhURtKm5m9k2wQBuSTDlSq_X2EYHz1jXzPXsKoJ7eA%3D%3D
+CCTV-05咪咕,https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
+CCTV-5+咪咕,https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
+CCTV-06咪咕,https://api.livednow.org/migu/624878396?sign=gAAAAABnJcJqCeZPI9pdAJI3zwOoz9SDiYBoZQL2_YxTBPm_gj4SRFhG652Dpip8x7O4oFhlJnHFS7Q4Kf_7eU_C9FrHiwmE9NDcuC5hEnGmyVWm8ntsvjsPsht86e15yA-OlkJj8m8OOe0qL_OVbjhSq3iySwkXSGvcKXQvvn6bYSRHZOe8Fc0EhG8AsW_DtSzMfG2-4VfItHk5oSqULRJ7DuT8Hr-neQ%3D%3D
+CCTV-07咪咕,https://api.livednow.org/migu/673168121?sign=gAAAAABnJcJqjxuw5GDu1iojWpw4c-mjlefodslPuTvBI0grkKhdH8h_8I3xIavNltrXtbWMtHw2egHRBx-ciorem6WfS3xSWscFzvRmGcIdMlNJzhJ72fhC6f4jukCtJf6F79fYHQr5HfVJPSsBq9qCvVa1xZUsL40rtzOqtvaErO6BDEcA1JD4CyrNUboyvMBD11iNwc58nYXZiV-cubZaPaet8B6Xyg%3D%3D
+CCTV-08咪咕,https://api.livednow.org/migu/624878356?sign=gAAAAABnJcJqw9dP6jwWUpKtifWTU97cE4kDpJmHWTbZD1ezcD3BLnqA4kJ_aSSQhe-ijrx2Z5Bm-wNBbguJ08avBolBe_yGvaJ1XKsKys_EAvx1QOauipvQfuKV15NrpBtQEMBADkCRzEwhHzbrcugddFVzwBFgmu7RrqSIIe848HA7b03yYseeTrXmOBJr1i1i99vgEUQOlaa1ismbhcTCecoRnyCfpQ%3D%3D
+CCTV-09咪咕,https://api.livednow.org/migu/673168140?sign=gAAAAABnJcJqdqv3pFhYgBnmgGSIbZzHbX-DBJ-zNXsXFK68-5Wan9QqWYyKUxKv-XaTGYQIel_BUzZGYjzs5NPKiqPSXuul1GUOzl4VFlTGdyR6nNrAKB_lLRVjYzhVt6KX7j3DAzD44tiZocsNItrAhkJX7yIj6OGUq8s_mfXT_nlO_Xmgp4LUF7YnUnrICTc0LNBR-pQ1H2eiQcO2V6TCwrqhcHkABg%3D%3D
+CCTV-10咪咕,https://api.livednow.org/migu/624878405?sign=gAAAAABnJcJqUD0VJHgW_jpi9fSEDhVqtVpgjlm5l2RFB5crphtq4Lgd1pE-Tc_n_qCmd9kwraXg4RZcc0KxzMy3Ef70prdHPMgkFbuJGwsobC29UUm_Kh7XbBVy-fqPer-IzPfc4oRJ10aPTq5_azxz8u2Qp6Ay2EYOLMg1O-EnQ79eNgaXc-2s1ccgdc5zllFwTrdP0XNkac4cX20eCWKPBULxodi6KQ%3D%3D
+CCTV-11咪咕,https://api.livednow.org/migu/667987558?sign=gAAAAABnJcJq0uxG3wXdtrtqiIBCWRnKBVOa5nG_MrcR-XE_FxKhhSx7qj7d71b67HWtpFnV2yWlbi0DB4eVSBIi6y6ATRTRy-BAzHYzmANZxHCzKfrpNUunkDnLY0q7rIKTNSg3JuHII5wLmoBSDoeTzc8Tt6xXcUd5Hv-oHFU6L8gBAJjtBl6u0vGjL4NCXzTdg5rTNQf-Lx3S3ew-DiWy1XnrFEc26g%3D%3D
+CCTV-12咪咕,https://api.livednow.org/migu/673168185?sign=gAAAAABnJcJqfs_3emdJIy9mYYyN6M29-FRfMp5HBvyku5jviEWtan66IU2XguJLoP7tu5be63y71Amc1LQKABsz3w4K4MYcVJZQ2FpXjnYoI80vaFeq2t-GfRY3n-XhzImihJvGiPd8fDG9pEIVWSneLNgmMkomXAfDlza_TggSrlVcSDkpi6DsXXNOBLsIpsHdWRSbJtzbhkX3j0w7KzFZhMevYAkEqg%3D%3D
+CCTV-13咪咕,https://api.livednow.org/migu/608807423?sign=gAAAAABnJcJqWcv58U6OGzQabwzd_fRQdYIiL56pNYvWDLYx8OqIYIZTaT5ceZHRyt06wODism6P1aOwUkuZhiEfldQ55DPEyxVt51QPQHSDakx6DZ2ucwlxwe6nUNX83Y9VomRK3nxUdOy7T5XXGKyCDKucirezIa1eLScwKqq2ONtkQFwIsf7M2R3c5RDB5YQ6uMRY3eA0hSaiRTacGYQSjA_U1rUG5g%3D%3D
+CCTV-14咪咕,https://api.livednow.org/migu/624878440?sign=gAAAAABnJcJqbiZjvH8WPpn2MSC9d1plZ1uK5RoepfZ6jSSLDNY5MEkVmC6AeWa4kDMXAhPgpPm331nzJkqByvIwyJ1nvMCSyjAqVA9m3RE7fIRDF80f2H3UCJLesDEifymvAsoH5oyavOgYS4KyiZ0tkA_xHI22m-bhjRbDPbkfrr9U1pLOLTTNKxCBVpne91De96PBMhcK7JpHMEqngGthOBNZS4YfMg%3D%3D
+CCTV-15咪咕,https://api.livednow.org/migu/673168223?sign=gAAAAABnJcJqidnXewNhy-gri2ybb9iscI03y5nc62Syy1VqIhpbG4NsKVFHcgll52_xUKgwrWb5UR4xUTuxZnXcZ0qybFuneRF7vganvFXXcsbCxEG1p3RlEZw2hsCJ2G64570EsLkHymrjb0T7NBsJQyYJplJRLJFEd2gRpP40XLLJYTwJTmIC9b2eeLAZy4YEIn8-g7uBCctAPZtXqq8lS4vOcoHLSQ%3D%3D
+CCTV-17咪咕,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp3fHULs5VLTwRm5kvc_YZnCZDZdFCwKXL_yaXA5nFcCZPD0omVJwDapyQUilo6R4kQgEmlWfnDyA0UbxOdEjCzJ9SHIiV_53r4aaArZ0IL_Aq0Mhm7cM6wcQ1EeLovgqiDPnCeUF2j3_KgX74Wh-ZpYuDKkQNsfBaJ1_P09_8SukvS2dsHXG-Tkr2RbVUU9z4qmS7iw%3D%3D
+国际欧洲咪咕,https://api.livednow.org/migu/608807419?sign=gAAAAABnJcJqqvN9kTkAiHC8GdaGGmmbLi62YsEYOIuOPI9Lac2D2d4KyQai_cbU9d1Blh-fo0li6MavI-f58Er_gvlCd7t5C35cmlxT7M-_SLOpCAeJgeSr4BD0t2Qt_Lrj7ZNsq8dCuNIPRnB-w0rJUjAiBMu0RFBQJ30fHcImYBrTGcTWrqXF53LpJSl0ymgtMaVrO9Y-HiqIUJkzyN8e6BTQQykZiQ%3D%3D
+国际美洲咪咕,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6BlGge9WIDW3Fy0FRiXV5z_xNzVGu8g8B-0qw7tvyNyCVut8pWQCvFvKbhe1hY8cYKFLnYEBy0nIPd9wQZ407ZVV5Ca7zzDKkBo_MoXzKATjpoRRMIpGgGGhNcq4KIeU-5Wtu25PoFpJqE2csWr4hhqYu1_-DhfSOhUE6aePTI8INh7crU01j-d217PMhlw6fqS0cRoIqdQ3Ww%3D%3D
+中国教壹咪咕,https://api.livednow.org/migu/923287154?sign=gAAAAABnJcJqVnSXrUUkkYtDWAxHBieXZon2_B2kDSLm9uRif8tufnQMZcjl_RWKY3uwdHLw3clP4ObeP_RJCfjzNqvhDl56kIzLwahI8Rpl8YL2mC2bIKCEwo1CTMP3N7towvh9GjPz2p03gh4qPAFaBTwBczKVxvPMZJuY38uaXlaYqc1ZCAxb6IXrCuhMgtIk47Cy_Xr3f2yZPPNUxvfT_w7Apd4-wA%3D%3D
+中国教贰咪咕,https://api.livednow.org/migu/923287211?sign=gAAAAABnJcJqlMwKhypib47dsLMmTDrhIquQSbEM7k3NFiho8sMsjCHT4g572J4Z--cW7zs2z_6Lx0QQN3EtPgKjUeRYzAw_Pefu6uNdTfTWIxiPQBUlDBQAopWhjF5YyomATi-_zP6RZfvDmQL9fGjx83S2vkZBq3CHDShPVmtCSDb_q7lsjHNypuh-YPlAWJsoIfnocfSN3TiN1au-DXXraOO_mvUgDg%3D%3D
+中国教肆咪咕,https://api.livednow.org/migu/923287339?sign=gAAAAABnJcJqCVYw9IPx1b6k3F9j_qfxbMCLc7TORXvKiIop_NRc772AulEv8NPpujB0-VnMnhCKtowzqffwqNlNsPZ2NU3FZvye8jB2rjfY5NZegCwzp1GcKgtzhLE4eoO8Mi90IRTg0D8c9ca9KuZg91XnwvBGPb7qr1eiRVTnR5MdNMhWyiI1K_qp3klG-1aJvztKqB-8rlOLOAm6bWHZQuhHJ1B7YQ%3D%3D
+东方卫视咪咕,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
+江苏卫视咪咕,https://api.livednow.org/migu/623899368?sign=gAAAAABnJcJqRqI051KXILLz-XtpXbmEXLRGs-Yttth90tUl-tH72dTMSRz5XSe39WHDnCr1uKjzpLzf-XqtGUIa-paJf3cDV1e-mJlqBCGc_ax_4pRulP6_2Jlc_SuTukDjaZs39go_UqkCqJgB8UAhhLbgibqSnuQrBTo4CkvfDCxfpsC0EXRHon4Pev7oJWFEMzDPrhcce4fsv356rgkUiSMuuBAzAw%3D%3D
+广东卫视咪咕,https://api.livednow.org/migu/608831231?sign=gAAAAABnJcJqYcJMord5t6sSAZC5m7v96UZ6Ea3WOtse7W_BquKqMmYGSh_UXVG5Wouvctg5Og0WjnXvLEz7Z7KmtqPExzi5EiaSHMY7LuMA8mog-i8BrvjD9r9fikY5LnFg4lU6jvjeDgyzEeziiUxW45I16rki3ib8vwaDTBVvTFX7H3RhkaWBYQbzclSmWhz4TBsBy3jnQxnxhV1KkAQOyQLL2GYhkw%3D%3D
+江西卫视咪咕,https://api.livednow.org/migu/783847495?sign=gAAAAABnJcJqSxNO7cIGHJVGiP23aVwddpa5-Uj611uPtb-B59dmlhqB3KvALkxWK9erVikPtvf_CCUy-Au9GrH8x09UkoWAVcBYsPpl04DfI8C5xmP2Ngry7LvN4nkLgM8jrTQCdSw9JqYxvBS4kcEsKcXaalufeTRy0B0gmPvBMYA0qBe5eBDbavp1kUzTq7bdpM9UGmek_DpYICCnOXAceQXch1tdhw%3D%3D
+陕西卫视咪咕,https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
+湖北卫视咪咕,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
+劲爆体育咪咕,https://api.livednow.org/migu/796071336?sign=gAAAAABnJcJqM_HTVabRYY0y1XrkVaxRyUQD0kZEz3VQ3y_m5G88-puxPaYTeeM95vvfLbpAONBNY5IydUY2MsWrBWs4jK885O8HDIs7shB502xQx6f0vQ8TuKxrMXORgONQBsb4X87_7NQJpQ3S8NHmEhlYT7rsDO3yy0U0DjGwpbMiH9AXzspYRIojn1sZlwKdzaQKzsQky9fj4FcWw0muMwKADmu-sQ%3D%3D
+魅力足球咪咕,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGXuOxwe1Md-XR1vW2Qfvt8UbVbRmGMRw2HCaBotmmxy63qf2FHgoB1vxFJ480IN7nk3fPKKsC14EcSpsIiKAI0k4bTRVRSIM6N0J2Mhr-yHORPlMoC183bY-eRCUBjbWAH5mmWt4aOY1TAiXl6k8v5XlseEvPqOFOHsJbk-s_IR3yRznUz22lTF60_HV6D2H40sColfcl-Ows1xbbBw%3D%3D
+家庭影院咪咕,https://api.livednow.org/migu/644368373?sign=gAAAAABnJcJqmc1MsiQush_pxUKZ5OeC8HhfO-CPbiBOF88hW8nkCObTvAyhv11H14Bhk-bFCpsouIhtO3PlCY2ah4IhSGfy05LSMd_KFlBY9L5xbZB7SlCEDLk24QPqmM8gtv7g4796StdogDq4Om3HxXvjrZNas54BY18WZzcB4-YE56gA6xbu36O2c2niJ0WeKWqCks68bT83swV6thf54iuQVybh2w%3D%3D
 CCTV-01咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv1
 CCTV-02咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv2
 CCTV-03咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cctv3
@@ -441,37 +825,6 @@ CGT俄语咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=cgtnr
 体坛名汇咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=ttmlh
 新片映厅咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=xpfyt
 Y+剧场台咪咕,http://nn.7x9d.cn/组播8563/咪咕视频.php?id=yjjc
-CCTV-01咪咕,https://api.livednow.org/migu/608807420?sign=gAAAAABnJcJqONXJva4TySqKVwkHLHby6Ne_WRDndhTk_GS6KA-nBZI-nPc8RaYfnLJYnZOi1_gpZX90FSquN6BF0XzcOnsBN41Kfi9k-GihR8VqmFvGDaU3-w7RPpKH_jQp1rc5eqRkG97TL1ZanN0d0KISy_vT_x2wMEchVQyRwJVbcr-5Q8MDl1WIvSdo9b0tlPwCujaaYIRxzFT-4iEr-NoUcuO0hw%3D%3D
-CCTV-02咪咕,https://api.livednow.org/migu/631780532?sign=gAAAAABnJcJqr0fwyjCRZenumPiYq29AgCGZbexK2XyM9exSQfwePDL4rwLxMaYmUy5BI5tmZ3p5Opg3XGESQyj1Myyx8xlfa--CzghtRa5MzC5lgOOROQFokKNIjS1xgPhehkOToP6coFx9T1FJaYtv8R7vSMPYGiBtsqx-CdWfMNReSPjRaDJSSrjZ0WKCW5GajQiFiD1fOBTLjS-S7V-uzyIxCqKWiQ%3D%3D
-CCTV-03咪咕,https://api.livednow.org/migu/624878271?sign=gAAAAABnJcJqBzuFtK_e-R8Y5zzuNWtH9dD5ErIUOw3PaGq-2cUt_ty4tVxaFlKDox0cB51jc5h1UbnYdWwVB34WOYuNc8lg2HAeZSq8eQxhLSx7-W74CNR6KtgxXvTUzW_5zsQ33PZEpqm7sIuxliL32bQtzxcIIdpid2Gub7vsNYzKJWuVjAicsjoVCenU41Q5dMi8XPDUfnmgkYYiwWzmBdMXqP4I5A%3D%3D
-CCTV-04咪咕,https://api.livednow.org/migu/631780421?sign=gAAAAABnJcJqz7oNO-xridbK_3LKb0rcdjVs_WY_BR-BFoq8eOg8Qvn3RMaRgOohlrGPc3mJhNalk-OevwcUL7y3ObKzAeZuWtWBxqyoXyW34cmtmAnNx9EC9rXDbjauxADNT6Li789Xmb3ezb7EUlD91o2aUf1qh-cxlGyyOjS9aZEyU-1CBA-uJhURtKm5m9k2wQBuSTDlSq_X2EYHz1jXzPXsKoJ7eA%3D%3D
-CCTV-05咪咕,https://api.livednow.org/migu/641886683?sign=gAAAAABnJcJq1zvWEm2fLwSljJPThpBYL_E8K7V3Vjqwa1MKKvqUi_E3bRWybwa_x3oX2iF9HH-wEJfMaE_5OvwPzGGu3NicPIuQA4yciDbKNZf7joK5ZUFzK0L36mvXUWWl9JorCKCXbQ62LAhIlbf2kzScSCcb9oUHPKWds9wWjWjam34gaFfwW7rHxvnvlcqRaj88yHfSrWqHJghFI-bLaFvNz1HoPw%3D%3D
-CCTV-5+咪咕,https://api.livednow.org/migu/641886773?sign=gAAAAABnJcJqTze6PuXdG9BEej5eW4BLImQigfoMaUf8uqVsrTWU2XPcpNAQkBcD0muMqEF9LzvxjIx7EBojiQbkHBD5j0Jhgf5-rBwl8jU3IJw5gsTQ2K6WngtWzyYcEmpoNgChlKkREdafyGUHTP8U4-G_ggVp1wP9_OuDXbCnXAQZKWP8e_nvjKVAHWsAfsrkcP2wHVy9aBq_REPOhp0w5W60Na3IcQ%3D%3D
-CCTV-06咪咕,https://api.livednow.org/migu/624878396?sign=gAAAAABnJcJqCeZPI9pdAJI3zwOoz9SDiYBoZQL2_YxTBPm_gj4SRFhG652Dpip8x7O4oFhlJnHFS7Q4Kf_7eU_C9FrHiwmE9NDcuC5hEnGmyVWm8ntsvjsPsht86e15yA-OlkJj8m8OOe0qL_OVbjhSq3iySwkXSGvcKXQvvn6bYSRHZOe8Fc0EhG8AsW_DtSzMfG2-4VfItHk5oSqULRJ7DuT8Hr-neQ%3D%3D
-CCTV-07咪咕,https://api.livednow.org/migu/673168121?sign=gAAAAABnJcJqjxuw5GDu1iojWpw4c-mjlefodslPuTvBI0grkKhdH8h_8I3xIavNltrXtbWMtHw2egHRBx-ciorem6WfS3xSWscFzvRmGcIdMlNJzhJ72fhC6f4jukCtJf6F79fYHQr5HfVJPSsBq9qCvVa1xZUsL40rtzOqtvaErO6BDEcA1JD4CyrNUboyvMBD11iNwc58nYXZiV-cubZaPaet8B6Xyg%3D%3D
-CCTV-08咪咕,https://api.livednow.org/migu/624878356?sign=gAAAAABnJcJqw9dP6jwWUpKtifWTU97cE4kDpJmHWTbZD1ezcD3BLnqA4kJ_aSSQhe-ijrx2Z5Bm-wNBbguJ08avBolBe_yGvaJ1XKsKys_EAvx1QOauipvQfuKV15NrpBtQEMBADkCRzEwhHzbrcugddFVzwBFgmu7RrqSIIe848HA7b03yYseeTrXmOBJr1i1i99vgEUQOlaa1ismbhcTCecoRnyCfpQ%3D%3D
-CCTV-09咪咕,https://api.livednow.org/migu/673168140?sign=gAAAAABnJcJqdqv3pFhYgBnmgGSIbZzHbX-DBJ-zNXsXFK68-5Wan9QqWYyKUxKv-XaTGYQIel_BUzZGYjzs5NPKiqPSXuul1GUOzl4VFlTGdyR6nNrAKB_lLRVjYzhVt6KX7j3DAzD44tiZocsNItrAhkJX7yIj6OGUq8s_mfXT_nlO_Xmgp4LUF7YnUnrICTc0LNBR-pQ1H2eiQcO2V6TCwrqhcHkABg%3D%3D
-CCTV-10咪咕,https://api.livednow.org/migu/624878405?sign=gAAAAABnJcJqUD0VJHgW_jpi9fSEDhVqtVpgjlm5l2RFB5crphtq4Lgd1pE-Tc_n_qCmd9kwraXg4RZcc0KxzMy3Ef70prdHPMgkFbuJGwsobC29UUm_Kh7XbBVy-fqPer-IzPfc4oRJ10aPTq5_azxz8u2Qp6Ay2EYOLMg1O-EnQ79eNgaXc-2s1ccgdc5zllFwTrdP0XNkac4cX20eCWKPBULxodi6KQ%3D%3D
-CCTV-11咪咕,https://api.livednow.org/migu/667987558?sign=gAAAAABnJcJq0uxG3wXdtrtqiIBCWRnKBVOa5nG_MrcR-XE_FxKhhSx7qj7d71b67HWtpFnV2yWlbi0DB4eVSBIi6y6ATRTRy-BAzHYzmANZxHCzKfrpNUunkDnLY0q7rIKTNSg3JuHII5wLmoBSDoeTzc8Tt6xXcUd5Hv-oHFU6L8gBAJjtBl6u0vGjL4NCXzTdg5rTNQf-Lx3S3ew-DiWy1XnrFEc26g%3D%3D
-CCTV-12咪咕,https://api.livednow.org/migu/673168185?sign=gAAAAABnJcJqfs_3emdJIy9mYYyN6M29-FRfMp5HBvyku5jviEWtan66IU2XguJLoP7tu5be63y71Amc1LQKABsz3w4K4MYcVJZQ2FpXjnYoI80vaFeq2t-GfRY3n-XhzImihJvGiPd8fDG9pEIVWSneLNgmMkomXAfDlza_TggSrlVcSDkpi6DsXXNOBLsIpsHdWRSbJtzbhkX3j0w7KzFZhMevYAkEqg%3D%3D
-CCTV-13咪咕,https://api.livednow.org/migu/608807423?sign=gAAAAABnJcJqWcv58U6OGzQabwzd_fRQdYIiL56pNYvWDLYx8OqIYIZTaT5ceZHRyt06wODism6P1aOwUkuZhiEfldQ55DPEyxVt51QPQHSDakx6DZ2ucwlxwe6nUNX83Y9VomRK3nxUdOy7T5XXGKyCDKucirezIa1eLScwKqq2ONtkQFwIsf7M2R3c5RDB5YQ6uMRY3eA0hSaiRTacGYQSjA_U1rUG5g%3D%3D
-CCTV-14咪咕,https://api.livednow.org/migu/624878440?sign=gAAAAABnJcJqbiZjvH8WPpn2MSC9d1plZ1uK5RoepfZ6jSSLDNY5MEkVmC6AeWa4kDMXAhPgpPm331nzJkqByvIwyJ1nvMCSyjAqVA9m3RE7fIRDF80f2H3UCJLesDEifymvAsoH5oyavOgYS4KyiZ0tkA_xHI22m-bhjRbDPbkfrr9U1pLOLTTNKxCBVpne91De96PBMhcK7JpHMEqngGthOBNZS4YfMg%3D%3D
-CCTV-15咪咕,https://api.livednow.org/migu/673168223?sign=gAAAAABnJcJqidnXewNhy-gri2ybb9iscI03y5nc62Syy1VqIhpbG4NsKVFHcgll52_xUKgwrWb5UR4xUTuxZnXcZ0qybFuneRF7vganvFXXcsbCxEG1p3RlEZw2hsCJ2G64570EsLkHymrjb0T7NBsJQyYJplJRLJFEd2gRpP40XLLJYTwJTmIC9b2eeLAZy4YEIn8-g7uBCctAPZtXqq8lS4vOcoHLSQ%3D%3D
-CCTV-17咪咕,https://api.livednow.org/migu/673168256?sign=gAAAAABnJcJqaH7zxsZ2sHzgLIrp3fHULs5VLTwRm5kvc_YZnCZDZdFCwKXL_yaXA5nFcCZPD0omVJwDapyQUilo6R4kQgEmlWfnDyA0UbxOdEjCzJ9SHIiV_53r4aaArZ0IL_Aq0Mhm7cM6wcQ1EeLovgqiDPnCeUF2j3_KgX74Wh-ZpYuDKkQNsfBaJ1_P09_8SukvS2dsHXG-Tkr2RbVUU9z4qmS7iw%3D%3D
-国际欧洲咪咕,https://api.livednow.org/migu/608807419?sign=gAAAAABnJcJqqvN9kTkAiHC8GdaGGmmbLi62YsEYOIuOPI9Lac2D2d4KyQai_cbU9d1Blh-fo0li6MavI-f58Er_gvlCd7t5C35cmlxT7M-_SLOpCAeJgeSr4BD0t2Qt_Lrj7ZNsq8dCuNIPRnB-w0rJUjAiBMu0RFBQJ30fHcImYBrTGcTWrqXF53LpJSl0ymgtMaVrO9Y-HiqIUJkzyN8e6BTQQykZiQ%3D%3D
-国际美洲咪咕,https://api.livednow.org/migu/608807416?sign=gAAAAABnJcJqws7IJW3h6BlGge9WIDW3Fy0FRiXV5z_xNzVGu8g8B-0qw7tvyNyCVut8pWQCvFvKbhe1hY8cYKFLnYEBy0nIPd9wQZ407ZVV5Ca7zzDKkBo_MoXzKATjpoRRMIpGgGGhNcq4KIeU-5Wtu25PoFpJqE2csWr4hhqYu1_-DhfSOhUE6aePTI8INh7crU01j-d217PMhlw6fqS0cRoIqdQ3Ww%3D%3D
-中国教壹咪咕,https://api.livednow.org/migu/923287154?sign=gAAAAABnJcJqVnSXrUUkkYtDWAxHBieXZon2_B2kDSLm9uRif8tufnQMZcjl_RWKY3uwdHLw3clP4ObeP_RJCfjzNqvhDl56kIzLwahI8Rpl8YL2mC2bIKCEwo1CTMP3N7towvh9GjPz2p03gh4qPAFaBTwBczKVxvPMZJuY38uaXlaYqc1ZCAxb6IXrCuhMgtIk47Cy_Xr3f2yZPPNUxvfT_w7Apd4-wA%3D%3D
-中国教贰咪咕,https://api.livednow.org/migu/923287211?sign=gAAAAABnJcJqlMwKhypib47dsLMmTDrhIquQSbEM7k3NFiho8sMsjCHT4g572J4Z--cW7zs2z_6Lx0QQN3EtPgKjUeRYzAw_Pefu6uNdTfTWIxiPQBUlDBQAopWhjF5YyomATi-_zP6RZfvDmQL9fGjx83S2vkZBq3CHDShPVmtCSDb_q7lsjHNypuh-YPlAWJsoIfnocfSN3TiN1au-DXXraOO_mvUgDg%3D%3D
-中国教肆咪咕,https://api.livednow.org/migu/923287339?sign=gAAAAABnJcJqCVYw9IPx1b6k3F9j_qfxbMCLc7TORXvKiIop_NRc772AulEv8NPpujB0-VnMnhCKtowzqffwqNlNsPZ2NU3FZvye8jB2rjfY5NZegCwzp1GcKgtzhLE4eoO8Mi90IRTg0D8c9ca9KuZg91XnwvBGPb7qr1eiRVTnR5MdNMhWyiI1K_qp3klG-1aJvztKqB-8rlOLOAm6bWHZQuhHJ1B7YQ%3D%3D
-东方卫视咪咕,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
-江苏卫视咪咕,https://api.livednow.org/migu/623899368?sign=gAAAAABnJcJqRqI051KXILLz-XtpXbmEXLRGs-Yttth90tUl-tH72dTMSRz5XSe39WHDnCr1uKjzpLzf-XqtGUIa-paJf3cDV1e-mJlqBCGc_ax_4pRulP6_2Jlc_SuTukDjaZs39go_UqkCqJgB8UAhhLbgibqSnuQrBTo4CkvfDCxfpsC0EXRHon4Pev7oJWFEMzDPrhcce4fsv356rgkUiSMuuBAzAw%3D%3D
-广东卫视咪咕,https://api.livednow.org/migu/608831231?sign=gAAAAABnJcJqYcJMord5t6sSAZC5m7v96UZ6Ea3WOtse7W_BquKqMmYGSh_UXVG5Wouvctg5Og0WjnXvLEz7Z7KmtqPExzi5EiaSHMY7LuMA8mog-i8BrvjD9r9fikY5LnFg4lU6jvjeDgyzEeziiUxW45I16rki3ib8vwaDTBVvTFX7H3RhkaWBYQbzclSmWhz4TBsBy3jnQxnxhV1KkAQOyQLL2GYhkw%3D%3D
-江西卫视咪咕,https://api.livednow.org/migu/783847495?sign=gAAAAABnJcJqSxNO7cIGHJVGiP23aVwddpa5-Uj611uPtb-B59dmlhqB3KvALkxWK9erVikPtvf_CCUy-Au9GrH8x09UkoWAVcBYsPpl04DfI8C5xmP2Ngry7LvN4nkLgM8jrTQCdSw9JqYxvBS4kcEsKcXaalufeTRy0B0gmPvBMYA0qBe5eBDbavp1kUzTq7bdpM9UGmek_DpYICCnOXAceQXch1tdhw%3D%3D
-陕西卫视咪咕,https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
-湖北卫视咪咕,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
-劲爆体育咪咕,https://api.livednow.org/migu/796071336?sign=gAAAAABnJcJqM_HTVabRYY0y1XrkVaxRyUQD0kZEz3VQ3y_m5G88-puxPaYTeeM95vvfLbpAONBNY5IydUY2MsWrBWs4jK885O8HDIs7shB502xQx6f0vQ8TuKxrMXORgONQBsb4X87_7NQJpQ3S8NHmEhlYT7rsDO3yy0U0DjGwpbMiH9AXzspYRIojn1sZlwKdzaQKzsQky9fj4FcWw0muMwKADmu-sQ%3D%3D
-魅力足球咪咕,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGXuOxwe1Md-XR1vW2Qfvt8UbVbRmGMRw2HCaBotmmxy63qf2FHgoB1vxFJ480IN7nk3fPKKsC14EcSpsIiKAI0k4bTRVRSIM6N0J2Mhr-yHORPlMoC183bY-eRCUBjbWAH5mmWt4aOY1TAiXl6k8v5XlseEvPqOFOHsJbk-s_IR3yRznUz22lTF60_HV6D2H40sColfcl-Ows1xbbBw%3D%3D
-家庭影院咪咕,https://api.livednow.org/migu/644368373?sign=gAAAAABnJcJqmc1MsiQush_pxUKZ5OeC8HhfO-CPbiBOF88hW8nkCObTvAyhv11H14Bhk-bFCpsouIhtO3PlCY2ah4IhSGfy05LSMd_KFlBY9L5xbZB7SlCEDLk24QPqmM8gtv7g4796StdogDq4Om3HxXvjrZNas54BY18WZzcB4-YE56gA6xbu36O2c2niJ0WeKWqCks68bT83swV6thf54iuQVybh2w%3D%3D
 CCTV-01频道,http://112.102.217.173:9003//hls/13/index.m3u8
 CCTV-02频道,http://112.102.217.173:9003//hls/14/index.m3u8
 CCTV-03频道,http://112.102.217.173:9003//hls/15/index.m3u8
@@ -700,7 +1053,6 @@ CETV4台频道,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u
 吉林卫视频道,http://113.218.187.169:9999/udp/239.76.253.201:9000
 兵团卫视频道,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 黑龙江视频道,http://113.218.187.169:9999/udp/239.76.253.200:9000
-闽南4Gtv,#genre#
 中天新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 东森新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 tvbs新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv072
@@ -791,228 +1143,137 @@ GLO-Bet4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv016
 TRACEU4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv082
 MEZZOl4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 Ginx_TV4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv053
-东方卫视,http://kxrj.site:8081/8647/mg.php?id=dfws
-吉林卫视,http://kxrj.site:8081/8647/mg.php?id=jlws
-青海卫视,http://kxrj.site:8081/8647/mg.php?id=qhws
-陕西卫视,http://kxrj.site:8081/8647/mg.php?id=sxws
-湖北卫视,http://kxrj.site:8081/8647/mg.php?id=hubws
-江西卫视,http://kxrj.site:8081/8647/mg.php?id=jxws
-江苏卫视,http://kxrj.site:8081/8647/mg.php?id=jsws
-广东卫视,http://kxrj.site:8081/8647/mg.php?id=gdws
-湾区卫视,http://kxrj.site:8081/8647/mg.php?id=dwqws
-海南卫视,http://kxrj.site:8081/8647/mg.php?id=hinws
-兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
-中国教育,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022823801/timeshift.m3u8?delay=0&cdn=5202
-四海钓鱼,http://kxrj.site:8081/8647/mg.php?id=shdy
-江苏教育,http://kxrj.site:8081/8647/mg.php?id=jsjy
-山东教育,http://kxrj.site:8081/8647/mg.php?id=sdjy
-游戏风云,http://kxrj.site:8081/8647/mg.php?id=yxfy
-之江纪录,http://kxrj.site:8081/8647/mg.php?id=zjjl
-杭州综合,http://kxrj.site:8081/8647/mg.php?id=hzzh
-杭州明珠,http://kxrj.site:8081/8647/mg.php?id=hzmz
-杭州生活,http://kxrj.site:8081/8647/mg.php?id=hzsh
-杭州影视,http://kxrj.site:8081/8647/mg.php?id=hzys
-杭州少体,http://kxrj.site:8081/8647/mg.php?id=hzse
-嵊泗综合,http://kxrj.site:8081/8647/mg.php?id=ssxwzh
-普陀电视,http://kxrj.site:8081/8647/mg.php?id=ptxwzh
-高清大片,http://kxrj.site:8081/8647/mg.php?id=gqdp
-经典电影,http://kxrj.site:8081/8647/mg.php?id=jdxgdy
-军事大片,http://kxrj.site:8081/8647/mg.php?id=jsdp
-热剧联播,http://kxrj.site:8081/8647/mg.php?id=rjlb
-赛事经典,http://kxrj.site:8081/8647/mg.php?id=sszjd
-体坛名汇,http://kxrj.site:8081/8647/mg.php?id=ttmlh
-新片映厅,http://kxrj.site:8081/8647/mg.php?id=xpfyt
-Y+剧场台,http://kxrj.site:8081/8647/mg.php?id=yjjc
+CCTV1 综合,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
+CCTV2 财经,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
+CCTV3 综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
+CCTV4 中文国际,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8
+CCTV5 体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8
+CCTV5+ 体育赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
+CCTV6 电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8
+CCTV7 国防军事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8
+CCTV8 电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8
+CCTV9 纪录,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010217/1.m3u8
+CCTV 10 科教,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/1.m3u8
+CCTV 11 戏曲,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/1.m3u8
+CCTV 12 社会与法,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010205/1.m3u8
+CCTV 13 新闻,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8
+CCTV 14 少儿,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
+CCTV 15 音乐,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
+CCTV 16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
+CCTV 17 农村农业,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
+CETV 1 中国教育,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
+CETV 2 中国教育,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
 
-东方卫视,https://api.livednow.org/migu/651632648?sign=gAAAAABnJcJqfu_kycy2Gb7eSdGQsamAhYXBlu-AYscNkoPGIfbg7gL756Lncv79Ps4ODzMedp1aFAj7uzaOHkAyBq06sQxNlk9g1nD1262R71fcdc7jvGxJemrvJ0Oak_Z16R_xYQdxRXo1hlbrCfTZO_RJIH10M7lQqOJHy6t68nakZVZ6sWXP2FPgP2hXaVKd9wu8yeDjxau2iqKexh5WBPlQ6hhAFA%3D%3D
-江苏卫视,https://api.livednow.org/migu/623899368?sign=gAAAAABnJcJqRqI051KXILLz-XtpXbmEXLRGs-Yttth90tUl-tH72dTMSRz5XSe39WHDnCr1uKjzpLzf-XqtGUIa-paJf3cDV1e-mJlqBCGc_ax_4pRulP6_2Jlc_SuTukDjaZs39go_UqkCqJgB8UAhhLbgibqSnuQrBTo4CkvfDCxfpsC0EXRHon4Pev7oJWFEMzDPrhcce4fsv356rgkUiSMuuBAzAw%3D%3D
-广东卫视,https://api.livednow.org/migu/608831231?sign=gAAAAABnJcJqYcJMord5t6sSAZC5m7v96UZ6Ea3WOtse7W_BquKqMmYGSh_UXVG5Wouvctg5Og0WjnXvLEz7Z7KmtqPExzi5EiaSHMY7LuMA8mog-i8BrvjD9r9fikY5LnFg4lU6jvjeDgyzEeziiUxW45I16rki3ib8vwaDTBVvTFX7H3RhkaWBYQbzclSmWhz4TBsBy3jnQxnxhV1KkAQOyQLL2GYhkw%3D%3D
-江西卫视,https://api.livednow.org/migu/783847495?sign=gAAAAABnJcJqSxNO7cIGHJVGiP23aVwddpa5-Uj611uPtb-B59dmlhqB3KvALkxWK9erVikPtvf_CCUy-Au9GrH8x09UkoWAVcBYsPpl04DfI8C5xmP2Ngry7LvN4nkLgM8jrTQCdSw9JqYxvBS4kcEsKcXaalufeTRy0B0gmPvBMYA0qBe5eBDbavp1kUzTq7bdpM9UGmek_DpYICCnOXAceQXch1tdhw%3D%3D
-陕西卫视,https://api.livednow.org/migu/738910838?sign=gAAAAABnJcJqOtVCdd8WAn4DUT3VSbQHyfe5YFbUoqjsj_bS5O0aue2z6CSXEwpR856Z7BWlzxU-e48aeBfTOpdvGCnMnnjR8JmShiQd8oXFM-hTre-JgsjlvAzznm1jDoaQZsP8S-DAbqZK_jtrsaKSodpssxZZqCQjAazFU9B7A5GIEqWa9YF3LDLXONSmsFB7J7d9UM0FZx-CpzgBS2AhX8uO40kd0A%3D%3D
-湖北卫视,https://api.livednow.org/migu/738906825?sign=gAAAAABnJcJqKQRd7CS3pk7T0oe-jdNPxgJMyiZoPVRnbmv_IbK9koQZf32EgjFFCiEXqL4IXCnWyIaEuCmqxVNsBOQTIfaHM11IVchAHo4fZfQDVy5O7WNEHwMhK7DKJ5KlnIetRjJM7Emho9soMEYdRhTfzufHG-iUjz7CegJ_e5AKCaTCCYDJttiaZciJOCbCaWjAIMfx_PmomLPvKyNinANdp0vlxg%3D%3D
-上海新闻综合,https://api.livednow.org/migu/651632657?sign=gAAAAABnJcJq37wV8HVm7KEZFWnnYZkQUEODG5vdm7IDdbftN_lPqTa7UFvcOUMZAUZMxbj_pqfV9Wqs0QesizLAlM5lm6KE09NV_R1NlWLz64dtw4a2E898ZITJ3Bnpm0doweq_jYVBvHMglvBll2wlTcIgVVXehIUfj6dExG0H9KXwswEkrhKwV6QfZIzWFshncUJwYzjm4RhTuJ_sEEQULUSUOMdQCA%3D%3D
-上海东方影视,https://api.livednow.org/migu/617290047?sign=gAAAAABnJcJqlqz4SRGRy-0QLRhBFIdFTXdLLQdH0p6tckXUs74yY2CWxgWUdtsZFJHkOPYpxwIEAL7XaTYJokRVqggqXVRxCVWF-FobjAc3orPpiX_8bTppoNcktk7k_bGxMeaCONBImD4MYTNG4KGQZDGclrgJei3K95f8s3Q-131kpxK8kMxVGXl-2TTG84EzL6YA-QqrZ8yRDPueQF7N-1mpfhBnKA%3D%3D
-上海纪实人文,https://api.livednow.org/migu/617289997?sign=gAAAAABnJcJqQwPbtkXR0EduHeJNS7Praw2jALICwPtVhDMC5xK6muuZOoLpbovoW69EFsrxTaExrNVMZEA25x60dF_L6kpoaXSELwdqPRTixZpcui0WHswAmzQUEguKVCZk-XWMw5i1ww20u6b5k1Pm9zyLDGhpXXirdhr0O1I3kJPtPXOMY5vr-lqdvwC4ITbkgujskT2hCslBoUn7RC8ToxLRf90Yyw%3D%3D
-SiTV 七彩戏剧,https://api.livednow.org/migu/796071456?sign=gAAAAABnJcJqiyQ0-6AUgL9KrWPfEDD5Ego7qhH3Y9qjflwxIfPoLr_ZFas4hK80-_B_SFK6U54vhgW9b_hGzTvoVU9Zje9nvD4KHl-Qj8xBKZ1Xv48av4hc6AIPmj87OCQdXrnUcnPTmzigGzAsj_O6NvY1kiI3Nv7rPd_WMcr3pKsRCqyEpDzzaLtBzi0lEv3k51tiL0Y9OCD1Du7ngmuSDOmKetuXOA%3D%3D
-SiTV 劲爆体育,https://api.livednow.org/migu/796071336?sign=gAAAAABnJcJqM_HTVabRYY0y1XrkVaxRyUQD0kZEz3VQ3y_m5G88-puxPaYTeeM95vvfLbpAONBNY5IydUY2MsWrBWs4jK885O8HDIs7shB502xQx6f0vQ8TuKxrMXORgONQBsb4X87_7NQJpQ3S8NHmEhlYT7rsDO3yy0U0DjGwpbMiH9AXzspYRIojn1sZlwKdzaQKzsQky9fj4FcWw0muMwKADmu-sQ%3D%3D
-SiTV 魅力足球,https://api.livednow.org/migu/796070308?sign=gAAAAABnJcJqlrFGXuOxwe1Md-XR1vW2Qfvt8UbVbRmGMRw2HCaBotmmxy63qf2FHgoB1vxFJ480IN7nk3fPKKsC14EcSpsIiKAI0k4bTRVRSIM6N0J2Mhr-yHORPlMoC183bY-eRCUBjbWAH5mmWt4aOY1TAiXl6k8v5XlseEvPqOFOHsJbk-s_IR3yRznUz22lTF60_HV6D2H40sColfcl-Ows1xbbBw%3D%3D
-SiTV 法治天地,https://api.livednow.org/migu/790188943?sign=gAAAAABnJcJqJEX_fKL5nS2bHxb3IjyPGVwXvv-VP-6emcjhMuzmhljtP1wDnc8P74PwO69Ohnm1U4AAb3iWvl77tlDJWaSon1GJ9NNXF9OLdItXVUAMa_LSIuqtBK-DuRMQ4MyUT4u26BxLqUjb1JAKWqh4cSf5vehSPi_ognGsboNndvANT2aEhQEE5xPvYqVgScROeT18yJ_AUMCnNoO_FXehLkXFCw%3D%3D
-SiTV 乐游,https://api.livednow.org/migu/796070452?sign=gAAAAABnJcJq8uiIVIP_3bOztrcmJP_15Q1F1bNsjBZzZpOw-EcSXo9kIDmCScBvGMJ8icn_7rkCq3_yaboYbHC5_Vf1cPPIWYeLPIt6NeHmvsYHIu-4otNPovN8ay2dNdXEUqCpx5pzyC3yNCeQb60KQS-23XUsp6CAQ2hR9M4QZ8qo6lT8ehDiGaxyFlx25bG9xGVr0J8Zji_x5k368hqEyUQTHo_8Fw%3D%3D
-SiTV 游戏风云,https://api.livednow.org/migu/790188417?sign=gAAAAABnJcJqAiV-M5WfFq0UgtudCTLeaNsXXRsUcWr-4R5GhpmvkeYQoFVT3vM_SWGM03SpA0C_qgznH13Q4tSjwHccnJoAHrf4gAwSAfzFvHCBIMLBt4IgTcVZJrbPYY52P4d1kqLrg9jlRoSS60ldvUqAaqwn1agGD799Pos54zlNmsvXcNa2zZlgyQ-QNu7euxIGdmXkx9tNXdv4bCiasEdHi4gGIw%3D%3D
-四海钓鱼,https://api.livednow.org/migu/895358641?sign=gAAAAABnJcJq7NZntg3iYconeMQ3mo6Ztn4xsXYNnm5eTqhb3YA4u6WNy5ftjGLhJkGDPTb7JwpPZMbdWYrYxdYXQFZ7mSpReg-VXGuIA3CELLLGnkkdRec6cKXr1cu70bE-YPclPf2qSbNU32auckK86fI56KI0_SH01-gSCK-cqAgTraQDYEVFUutpeRJlg53KqUem6Xou0KcAgppUGPykzhoGfiAtRQ%3D%3D
-CHC 家庭影院,https://api.livednow.org/migu/644368373?sign=gAAAAABnJcJqmc1MsiQush_pxUKZ5OeC8HhfO-CPbiBOF88hW8nkCObTvAyhv11H14Bhk-bFCpsouIhtO3PlCY2ah4IhSGfy05LSMd_KFlBY9L5xbZB7SlCEDLk24QPqmM8gtv7g4796StdogDq4Om3HxXvjrZNas54BY18WZzcB4-YE56gA6xbu36O2c2niJ0WeKWqCks68bT83swV6thf54iuQVybh2w%3D%3D
-欢笑剧场,https://api.livednow.org/migu/790187880?sign=gAAAAABnJcJqeWrL_QFvsI85bXt15-J8e29-OvXFzILf7CrK_6VYKWLAIs3yj1CDwIZsFvGGtETmNphVnDaNoKqktfYv00VCe2V8ZN25r417izzkN59wfTbJ4NQiZwYg3v5r8d83qiWpum-rydGrwJSCQubg4Bd4puRfbEzoXzsDSvVBxjl4KALBnF7FoaoUCy16phoW-OvtFgGp0Y6afwBbwgdOWUKnOg%3D%3D
-#BA 经典,https://api.livednow.org/migu/788815380?sign=gAAAAABnJcJqPyFHQA-Zp600iaXcO2wi3RPQZ5lTFk3FwFUJh4Io8D8IsrJKcctLLuV8h8RqMDSVH7EEcdFcUTRky7BZdCLArlQbcxzCgVW9tMg9ek6CeH-AdrQdumYbDfz9-YXoTJpbwIfPHgOFaMOmgX6qkGEFWb8Eojmwmv_hS3owxCkbbxEi7VeZKIVAGvm3ZQjblZ_K2L6l6yoYUun7gbW5nsMDKQ%3D%3D
-五大联赛经典,https://api.livednow.org/migu/780288994?sign=gAAAAABnJcJqIAQQHsIu4xlmxouu0CGdYPf5NKj5drPyQQGtZFElFsTv2W3ps0xbAknkQgR-jhIoDmcF5vMqm0NTZoIfAFIlXeSYxhoDcUR7nXNr_l-JeaRmxAHjGepYBBCxkPWkpKlnoaDHd9r_JXUUYwQYGhPgnvDpssJJoFkmTs-IJWOOpo5sqLiyXrcMxYeQnWZpuyWENkyr38HaObqwjgK1RJ_iGQ%3D%3D
-CBA 经典,https://api.livednow.org/migu/788813182?sign=gAAAAABnJcJqRYDLpkmsRGB2Sv6qbaUw5Cp3_VbZwMxFwIOGTy41s8kbanJXUWTCHJndS_C5aKQD0GvxIjZXMbR7yZhFUUpq7Cxlk3rHYwhcmFBNrwh9CVtw9VpLAYpzdp7LYyBO1yNcU9HIbt6T36e93U7Nauhs_YfoyTZEATK-wmxPlLaWAjF7U0YF26QK094dJvUAESdaaUaxRRweIast6EbZ_dWBCw%3D%3D
-中国足球风云,https://api.livednow.org/migu/788816794?sign=gAAAAABnJcJqv4lv8Jl2J3xxsbtVmKy7yk-0C_Y_rxpApfeq2z9YorsVyt8vsdeRO_L6cV5e9XBKsDfyQmSVfsh_buJy2ycd_hdyxmPXKp5uM8UJHTmEZL4ROAiWaSQte9BM40VzF8yDrQNPub0YrDF5N1mTHtSnZqGDjweph9KVSVOF-XImZXyXA-Z7Ky0OcF_lqJq_Lc1clNDB6sKCQRa4bUgHCGmwOA%3D%3D
-UFC 格斗精选,https://api.livednow.org/migu/788818804?sign=gAAAAABnJcJq5jFTcgS38Fbi7oDn2eOeZzuBFsSEndHEYW9QSGQRxr1rY9wAs5hJmSFj6E0QwA8pcWBou_pjOAMXmQSu7WOnm2tBdA8IMhhz_ZZz2dwAZwi85s0-jZxOsSuL6KhGVL-EOfsN7hdJGsXrpnHbwFA_nUgbPT5aerRC_x-VfR4HlUfiCBA6NZjpJU2xKGvXXGEnu6xXLboc543t__sUNv89Cw%3D%3D
-掼蛋精英赛,https://api.livednow.org/migu/631354620?sign=gAAAAABnJcJqNIywGZ8ozE_htAbG3nkxbrbm55tG7vonMDA9GddAjTREzK-pe0a682YPC6HxNkY29gecqP0na8DPWuAI0sA7mRdBqJ-_wKUY5hd8SuISARxQ62qjgbD1sGsdLbFKNiXfy_Eec0ZrUStKTvgExcF4p5UDXpMr2F93xcTybbLobqENCZ3aCPejaUBIDjZUifLhpRuZZZ3o0zb-kQw-xSl8Dg%3D%3D
-全民乒乓,https://api.livednow.org/migu/788818045?sign=gAAAAABnJcJqHa3wNcpu9JlqDcxZSnBlP4yBXJZawD_spKPBiRnPAzQ3K0lrKIx2HBGjCN7Dnes5XyLkyqDd7xId91O8aMvX05U25yXdC74DV2QiTNWpdZGlJEW451zorjacxDPzyCXuqIuABFjOCEf8l4PMET2xX0U28QsxRjCdA6cxXhO8IhhTOvCibU8zL6fhnBcIoUq8bEtsD40PIu9V6BkYoVRKGQ%3D%3D
-24小时体育台,https://api.livednow.org/migu/654102378?sign=gAAAAABnJcJq_kclB-2uyJ9etLOAbkONr2RGVw9mhAsOWwDxupwhyTdm-IWEkJBMZdR3CeAqiWtfmnHy2hTw2vmsNXZ_I4Nf0MBjbu9M5XKi-Sjcdz9gPtJJQahnHg79b5jkC8Uh04_ADtDeYTcV-tKwhxluwNK11SKDy56-y8xKsk2_gIFaEIAGZhrzMVk_gl0Expecw7WrDOcvE3QoweeChP2-IFEaEQ%3D%3D
-经典香港电影,https://api.livednow.org/migu/625703337?sign=gAAAAABnJcJqeZSl1tY8yKpMaPYxLBiZYY6UFLi5qXIc4HEV83u7bqr-kefr3aQ2W6Fj7slWy0JQjWMxntqvsfTbbYZKmu6QxaKnbruMw7_PT5p8YiWzdMPJrhwosHvxenhe94DSEUwzM8ixhRAFjPuhE4vyuSKCCYPFPSdma03VOaA6yUsCx6qMFH-8fli0ScbqOz1gtK-b76pPSHsRgu8KzeVSBgBSMQ%3D%3D
-军事迷必看大片,https://api.livednow.org/migu/617432318?sign=gAAAAABnJcJqZtaxawC7PMW6HmzSXTDi9wFU6N0ZtJDx7d-0HvL3ZNARP6A0nmwzdAmIkOLyYFxnptA1dfTYG2hp1bM3x9Pq5SRdcTYYVIyrAJ9GzXD7qTvq0NFxAcu-vpaOsRBYDbaA1xiI7iBiMYKxXSTee5hmHfBo3JCySQSlHTbFFmuoGNUMNcdNmDXJuvP150hwC2zukC8EVMZiNIYmMJPi2xKlnQ%3D%3D
-新片放映厅,https://api.livednow.org/migu/619495952?sign=gAAAAABnJcJqrIJgrcoIeFRkKbrfdSiF8jXAy1t1Wa359mOTG18s3DkIUs12M5uMK3jiTG0IHQ3hzG5f-7mK3WtvR55XvoAIqQXO_aujy6A-Rdf3A_PmEpZE6v5U-ZbcUgWSFOQhePE5KDAe5a5vaLoArcoGBUIjI_0vSdP0enIPN4iaLIPzrzwB1q7kDdTRVjaxCIhP_cLQkv5i5gOXLLkZ1tqzfBZkHw%3D%3D
-红色轮播台,https://api.livednow.org/migu/713600957?sign=gAAAAABnJcJqKcv4ZvnpHJq7guH5qfK-E94Lsv-ddDybFBencH4CkKU3hJpBKKEON0HWgQsEEhV7IkEMAMMwu3_p4K3GnowXD08BhsIAr6hI2lNtPgAQSv7o2CVfcBmz4bPbL3r9Mmk0ru7YpxGyVJE2gz0Fh8dVUMCHt7kjs29pnkKlPv58KCfkHPQFiMlSVlScvsOzE6YP80E2uz9MiTJnjAGMMMKT6g%3D%3D
-金色剧场,https://api.livednow.org/migu/713591450?sign=gAAAAABnJcJqoZuZ5rRYv4pGlOm67qauT9QltGRWXDa_LX_fIQ-fpbkoXusrK4uIsZO0J2wYUBZkt__GGJOlujcMBIELmH-YN_mtQidj6uIH8cMBN6-qsM30qPDfeBN24b4QuKrPbWXDh2gmOEwlV4KPfJ0TWwv8efmQDCuHvJHl_jug8JS8Fz3FlFQoQNSJJUvDj2RXRAcp7zmIacN3Ga8cddP9Avf0zw%3D%3D
-
-北京卫视,http://154.9.232.236/mlTW26688.php?id=beijing
-深圳卫视,http://154.9.232.236/mlTW26688.php?id=shenzhen
-广西卫视,http://154.9.232.236/mlTW26688.php?id=guangxi
-湖北卫视,http://154.9.232.236/mlTW26688.php?id=hubei
-东南卫视,http://154.9.232.236/mlTW26688.php?id=fujian
-广东珠江,http://154.9.232.236/mlTW26688.php?id=zhujiang
-
-
-
-
-北京卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265027
-东方卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265018
-江苏卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265030
-浙江卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265031
-湖南卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265024
-广东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265034
-深圳卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265028
-天津卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265026
-安徽卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265025
-东南卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265033
-河北卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000006000040016
-河南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031119
-湖北卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265023
-广西卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031118
-四川卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006119
-重庆卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265017
-贵州卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000025843
-海南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006211
-山东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265019
-江西卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265032
-辽宁卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265022
-青海卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000002000013359
-云南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031120
-甘肃卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031121
-吉林卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031117
-黑龙江视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265029
-华数__4K,http://www.72444165.xyz:5005/itv/wasusyt/6000000003000004748
-纯享__4K,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000011651
-黑莓电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
-黑莓动画,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000021734
-哒啵电竞,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032327
-哒啵赛事,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000003775
-精品综合,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019008
-精品大剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013968
-精品纪录,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013730
-精品体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000014634
-精品萌宠,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032328
-爱情喜剧,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000010
-超级电视,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268003
-超级电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000003000012426
-超级体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000009601
-超级综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268002
-潮妈辣婆,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000018
-东北热剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266013
-动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
-古装剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000024
-欢乐剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266012
-家庭剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000008284
-金牌综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000026167
-惊悚悬疑,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000024282
-军旅剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000014
-军事评论,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000022
-魅力潇湘,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000006197
-明星大片,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000016
-农业致富,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000003
-武博世界,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000007
-炫舞未来,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000000515
-怡伴健康,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266011
-中国功夫,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000009
-iH爱体育,http://www.72444165.xyz:5005/itv/wasusyt/6000000006000290630
-劲爆体育,http://www.72444165.xyz:5005/itv/bestzb/5000000002000029972
-魅力足球,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207
-
-东方卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265018
-江苏卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265030
-浙江卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265031
-广东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265034
-深圳卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265028
-天津卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265026
-安徽卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265025
-东南卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265033
-河北卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000006000040016
-河南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031119
-湖北卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265023
-四川卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006119
-重庆卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265017
-贵州卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000025843
-海南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000004000006211
-山东卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265019
-江西卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265032
-青海卫视,http://www.72444165.xyz:5005/itv/ystenlive/1000000002000013359
-云南卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031120
-甘肃卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031121
-吉林卫视,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031117
-黑龙江视,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000265029
-华数__4K,http://www.72444165.xyz:5005/itv/wasusyt/6000000003000004748
-纯享__4K,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000011651
-黑莓电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019624
-黑莓动画,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000021734
-哒啵电竞,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032327
-哒啵赛事,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000003775
-精品综合,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000019008
-精品大剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013968
-精品纪录,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000013730
-精品体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000014634
-精品萌宠,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000032328
-爱情喜剧,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000010
-超级电视,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268003
-超级电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000003000012426
-超级体育,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000009601
-超级综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000006000268002
-潮妈辣婆,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000018
-东北热剧,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266013
-动作电影,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653
-古装剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000024
-欢乐剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266012
-家庭剧场,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000008284
-金牌综艺,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000026167
-惊悚悬疑,http://www.72444165.xyz:5005/itv/ystenlive/1000000004000024282
-军旅剧场,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000014
-军事评论,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000022
-魅力潇湘,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000006197
-明星大片,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000016
-农业致富,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000003
-武博世界,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000007
-炫舞未来,http://www.72444165.xyz:5005/itv/ystenlive/1000000001000000515
-怡伴健康,http://www.72444165.xyz:5005/itv/ystenlive/1000000005000266011
-中国功夫,http://www.72444165.xyz:5005/itv/hnbblive/2000000003000000009
-iH爱体育,http://www.72444165.xyz:5005/itv/wasusyt/6000000006000290630
-劲爆体育,http://www.72444165.xyz:5005/itv/bestzb/5000000002000029972
-魅力足球,http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207
-
-东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
-海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
-重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+💝卫视频道👉IPV6,#genre#
+广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
+大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
+湖南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/1.m3u8
+浙江卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
+江苏卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010225/1.m3u8
+东方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010219/1.m3u8
+北京卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8
+广东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/1.m3u8
+重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010218/1.m3u8
+深圳卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8
+四川卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010115/1.m3u8
+广西卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/1.m3u8
+天津卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8
+安徽卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010041/1.m3u8
+山东卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010066/1.m3u8
+江西卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8
+河北卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/1.m3u8
+河南卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000017925/index.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3
+海南卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+东南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8
+湖北卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010223/1.m3u8
+贵州卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/1.m3u8
+辽宁卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010061/1.m3u8
+吉林卫视,http://[2409:8087:5e08:24::8]:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
+黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010222/1.m3u8
+云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
+甘肃卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
+青海卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
+NewTV 哒啵电竞,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+NewTV 哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
+NewTV 黑莓动画,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
+NewTV 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
+NewTV 超级电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8
+NewTV 超级电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
+NewTV 超级体育,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+NewTV 超级综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
+NewTV 金牌综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
+NewTV 魅力潇湘,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+NewTV 东北热剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8
+NewTV 古装剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
+NewTV 欢乐剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8
+NewTV 怡伴健康,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
+NewTV 潮妈辣婆,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010005/1.m3u8
+NewTV 军旅剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010079/1.m3u8
+NewTV 军事评论,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010080/1.m3u8
+NewTV 中国功夫,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8
+NewTV 农业致富,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010085/1.m3u8
+NewTV 动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
+NewTV 家庭剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
+NewTV 惊悚悬疑,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8
+NewTV 炫舞未来,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
+NewTV 精品萌宠,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010146/1.m3u8
+NewTV 精品体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
+NewTV 精品大剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8
+NewTV 精品记录,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
+iHOT 爱喜剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱科幻,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱院线,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱浪漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱悬疑,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱谍战,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOY 爱历史,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱玩具,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱赛车,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱旅行,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱奇谈,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+iHOT 爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+HOT 爱体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+广东珠江,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+东方财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+东方影视,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+上海都市,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+上海新闻,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+ICS,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
+海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
+海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
+海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
+海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
+中国天气,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
+纪实人文,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
+纪实科教,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
+求索纪录,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+求索生活,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+求索动物,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+求索科学,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+魅力足球,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+精彩影视,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 劲爆体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 欢笑剧场,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 法治天地,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 七彩戏剧,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 乐游,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 动漫秀场,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 游戏风云,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 生活时尚,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 都市剧场,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 金色学堂,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+SiTV 第一财经,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+哈哈炫动,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
+金鹰卡通,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+金鹰纪实,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
+茶频道,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
+快乐垂钓,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
+晴彩青少,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
+JJ斗地主赛事,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+纯享·4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+华数·4K,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+欢笑剧场·4K,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
