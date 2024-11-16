@@ -8,19 +8,16 @@
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-6.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.ctv
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-9.ctv
-湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8
-湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
-湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
-湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
+湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8
+湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
 湖北经视,http://www.furymax.top:85/rtp/239.69.1.41:9886
 湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-湖北经视,http://111.175.164.168:8888/rtp/239.69.1.41:9886$组播源|1920x1080
-湖北经视,http://119.98.70.144:4022/udp/239.69.1.41:9886$订阅源|1920x1080
 湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8$订阅源
 湖北经视,http://58.51.111.46:1111/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8$订阅源
 湖北经视,http://119.98.51.196:4022/rtp/239.69.1.41:9886$LR•IPV4『线路1』
 湖北经视,http://111.175.166.209:8686/rtp/239.69.1.41:9886$LR•IPV4『线路2』
 湖北经视,http://111.175.164.168:8888/rtp/239.69.1.41:9886$LR•IPV4『线路3』
@@ -604,7 +601,6 @@ iH爱体育,http://www.72444165.xyz:5005/itv/wasusyt/6000000006000290630
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
-
 CCTV1,http://kxrj.site:8081/8647/mg.php?id=cctv1
 CCTV2,http://kxrj.site:8081/8647/mg.php?id=cctv2
 CCTV3,http://kxrj.site:8081/8647/mg.php?id=cctv3
@@ -1163,7 +1159,6 @@ CCTV 16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898
 CCTV 17 农村农业,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
 CETV 1 中国教育,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
 CETV 2 中国教育,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
 湖南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/1.m3u8
@@ -1276,3 +1271,4 @@ JJ斗地主赛事,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000
 纯享·4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 华数·4K,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 欢笑剧场·4K,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
+
