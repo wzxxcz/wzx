@@ -357,7 +357,6 @@ CETV4台频道,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u
 吉林卫视频道,http://118.249.23.85:8989/udp/239.76.253.201:9000
 兵团卫视频道,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 黑龙江视频道,http://118.249.23.85:8989/udp/239.76.253.200:9000
-闽南4Gtv,#genre#
 中天新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 东森新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 tvbs新闻4Gtv,http://litv.zapi.us.kg/?id=4gtv-4gtv072
