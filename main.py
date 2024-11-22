@@ -576,7 +576,7 @@ formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 about_video1="https://gitee.com/wzbdyr/xcz/raw/master/about1080p.mp4"
 about_video2="https://git.acwing.com/xcz/xcz/-/raw/master/about1080p.mp4"
 version=formatted_time+","+about_video1
-about="关于本源(iptv365.org),"+about_video2
+about="关于本源(小橙子电视),"+about_video2
 # 瘦身版
 # 
 all_lines_simple =  ["更新时间,#genre#"] +[version] +[about] +[daily_mtv]+ ['\n'] +\
