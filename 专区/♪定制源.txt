@@ -11,6 +11,7 @@
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-12.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-14.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-13.m3u8
+[VGA]湖北经视[geo-blocked],https://stream1.freetv.fun/hu-bei-jing-shi-17.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.ctv
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
@@ -21,54 +22,58 @@
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-12.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-14.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-13.m3u8
+[VGA]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-17.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.ctv
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-18.ctv
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-19.ctv
 [VGA]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-20.m3u8
+湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
-湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8
 湖北经视,http://58.53.152.61:9901/tsfile/live/1017_1.m3u8
-湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
+湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
-湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://58.53.152.61:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://113.57.20.158:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
-湖北经视,http://p.hzzzz530.com:4022/rtp/239.69.1.41:9886$湖北cmc3+
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 湖北经视,http://www.furymax.top:85/rtp/239.69.1.41:9886$组播源
 湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8$订阅源
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv$订阅源
-湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8$LR•IPV4『线路1』
-湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8$LR•IPV4『线路2』
+湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8$LR•IPV4『线路1』
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8$LR•IPV4『线路2』
 湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8$LR•IPV4『线路3』
-湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路4』
-湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8$LR•IPV4『线路4』
+湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路5』
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
 湖北经视,http://www.furymax.top:85/rtp/239.69.1.41:9886
+湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
+湖北经视,http://58.53.152.61:9901/tsfile/live/1017_1.m3u8
+湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv
-湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-13.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-24.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-19.ctv
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-12.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.ctv
+
 
 星空卫视,http://114.105.187.77:9901/tsfile/live/0117_1.m3u8
 星空卫视,http://114.105.187.47:9901/tsfile/live/0117_1.m3u8
@@ -136,6 +141,7 @@ HBO(粤),p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 凤凰卫视,p3p://167.114.175.6:55331/602c73500002f4d29c90fa1270f21160
 凤凰香港,p3p://167.114.175.6:55331/5fe0b82c000cac9774c17f262e43314d
 
+
 28 AI 智慧賽馬,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
@@ -170,6 +176,7 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
