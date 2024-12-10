@@ -2,45 +2,48 @@
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-14.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-13.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.ctv
+[BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
+[BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-18.ctv
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-19.ctv
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-24.m3u8
-[VGA]湖北经视[geo-blocked],https://stream1.freetv.fun/hu-bei-jing-shi-12.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-14.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-13.m3u8
 [VGA]湖北经视[geo-blocked],https://stream1.freetv.fun/hu-bei-jing-shi-17.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.ctv
-[VGA]湖北经视[geo-blocked],https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8
+[BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
-[VGA]湖北经视[geo-blocked],https://stream1.freetv.fun/hu-bei-jing-shi-18.ctv
+[BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-18.ctv
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-19.ctv
 [VGA]湖北经视[geo-blocked],https://stream1.freetv.fun/hu-bei-jing-shi-20.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-24.m3u8
-[VGA]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-12.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-14.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-13.m3u8
 [VGA]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-17.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.ctv
-[VGA]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8
+[BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-11.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
-[VGA]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-18.ctv
+[BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-18.ctv
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-19.ctv
 [VGA]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-20.m3u8
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
 湖北经视,http://58.53.152.61:9901/tsfile/live/1017_1.m3u8
-湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8
+湖北经视,http://58.53.152.101:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
-湖北经视,http://58.53.152.61:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8
-湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8
-湖北经视,http://58.53.152.101:9901/tsfile/live/1017_1.m3u8
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
+湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
 湖北经视,http://58.53.152.61:9901/tsfile/live/1017_1.m3u8
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
+湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
+湖北经视,http://183.94.1.118:8801/tsfile/live/1017_1.m3u8
 湖北经视,http://113.57.20.158:9901/tsfile/live/1017_1.m3u8
-湖北经视,http://p.hzzzz530.com:4022/rtp/239.69.1.41:9886$湖北cmc3+
+湖北经视,http://58.53.152.101:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
 湖北经视,http://113.57.20.158:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
@@ -54,8 +57,8 @@
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8$LR•IPV4『线路1』
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8$LR•IPV4『线路2』
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8$LR•IPV4『线路3』
-湖北经视,http://58.53.152.61:9901/tsfile/live/1017_1.m3u8$LR•IPV4『线路4』
-湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8$LR•IPV4『线路5』
+湖北经视,http://59.173.183.242:9901/tsfile/live/1000_1.m3u8$LR•IPV4『线路4』
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8$LR•IPV4『线路5』
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
@@ -65,13 +68,12 @@
 湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,http://58.53.152.61:9901/tsfile/live/1017_1.m3u8
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-13.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-24.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-19.ctv
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-12.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.ctv
 
 
@@ -178,13 +180,16 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
 Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
 Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv2/zoomoo/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+Astro AOD,http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
 DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
