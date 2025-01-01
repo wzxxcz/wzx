@@ -1,4 +1,9 @@
 湖北|湖北经视,http://59.173.110.238:808/udp/239.3.3.204:10001$湖北电信酒店
+湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
+湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
+湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-24.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-22.m3u8
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-14.m3u8
@@ -43,32 +48,10 @@
 [BD]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-18.ctv
 [VGA]湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-20.m3u8
 湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
-湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8
-湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
-湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
-湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
-湖北经视,http://183.94.1.118:8801/tsfile/live/1017_1.m3u8$LR•IPV4『线路1』
-湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8$LR•IPV4『线路2』
-湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8$LR•IPV4『线路3』
-湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8$LR•IPV4『线路4』
-湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8$LR•IPV4『线路5』
-湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
 湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
-湖北经视,http://183.94.1.118:8801/tsfile/live/1017_1.m3u8
-湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
-湖北经视,http://183.94.1.118:8801/tsfile/live/1017_1.m3u8$订阅源-1920x1080
-湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8$订阅源-1920x1080
-湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8$订阅源-1920x1080
-湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv$订阅源-1920x1080
-湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8$订阅源-1920x1080
-湖北经视,http://113.57.20.158:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源-1920x1080
-湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8$订阅源
-湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
-湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8$订阅源
 湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8$LR•IPV4『线路1』
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8$LR•IPV4『线路2』
 湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8$LR•IPV4『线路3』
@@ -76,18 +59,37 @@
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8$LR•IPV4『线路5』
 湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8
-湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
+湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
 湖北经视,http://183.94.1.118:8801/tsfile/live/1017_1.m3u8
+湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
+湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8$订阅源-1920x1080
+湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8$订阅源-1920x1080
+湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv$订阅源-1920x1080
+湖北经视,http://113.57.20.158:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源-1920x1080
+湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8$订阅源-1920x1080
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8$订阅源
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$湖北酒店源
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8$订阅源
+湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8$LR•IPV4『线路1』
+湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8$LR•IPV4『线路2』
+湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8$LR•IPV4『线路3』
+湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8$LR•IPV4『线路4』
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8$LR•IPV4『线路5』
+湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8
+湖北经视,http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
+湖北经视,http://58.53.152.198:9901/tsfile/live/1017_1.m3u8
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8
+湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8
+湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://119.36.148.115:59901/tsfile/live/1004_1.m3u8?key=txiptv
 湖北经视,http://59.173.243.210:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8
 湖北经视,http://220.249.114.102:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北经视,http://113.57.93.165:9900/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-24.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-14.m3u8
-湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-20.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-17.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-22.m3u8
 
@@ -177,7 +179,6 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -197,8 +198,6 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
 Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
 viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
@@ -221,4 +220,3 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
