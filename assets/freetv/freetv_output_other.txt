@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250131 07:49:21,url
+20250201 07:49:16,url
 
 
 freetv_other,#genre#
@@ -14,6 +14,7 @@ CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-23.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-24.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-27.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-29.m3u8
+CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-3.ctv
 CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-4.ctv
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-10.m3u8
 CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-12.m3u8
@@ -90,6 +91,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 上虞新商都,https://stream1.freetv.fun/shang-yu-xin-shang-du-4.m3u8
 上虞综合,https://stream1.freetv.fun/shang-yu-zong-he-1.m3u8
 东南卫视高清,https://stream1.freetv.fun/dong-nan-wei-shi-gao-qing-2.m3u8
+东方影视,https://stream1.freetv.fun/dong-fang-ying-shi-6.ctv
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-5.m3u8
 东森美洲,https://stream1.freetv.fun/dong-sen-mei-zhou-3.m3u8
 东森美洲,https://stream1.freetv.fun/dong-sen-mei-zhou-4.m3u8
@@ -172,6 +174,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-1.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-16.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-18.m3u8
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-21.ctv
@@ -306,6 +309,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-7.m3u8
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-2.m3u8
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-4.m3u8
+山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-5.m3u8
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-8.m3u8
 山东少儿,https://stream1.freetv.fun/shan-dong-shao-er-9.m3u8
 山东影视,https://stream1.freetv.fun/shan-dong-ying-shi-2.m3u8
@@ -324,7 +328,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 平湖新闻综合频道,https://stream1.freetv.fun/ping-hu-xin-wen-zong-he-3.m3u8
 平舆新闻综合频道,https://stream1.freetv.fun/ping-yu-xin-wen-zong-he-1.m3u8
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-10.ctv
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-11.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-12.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.ctv
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv
@@ -353,6 +356,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-5.m3u8
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-6.ctv
 广东少儿,https://stream1.freetv.fun/yan-dong-shao-er-7.m3u8
+广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-1.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-10.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-13.ctv
 广东影视,https://stream1.freetv.fun/yan-dong-ying-shi-15.ctv
@@ -392,7 +396,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 广东民生,https://stream1.freetv.fun/yan-dong-min-sheng-9.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-10.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-12.m3u8
-广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-13.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-14.m3u8
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-17.ctv
 广东珠江,https://stream1.freetv.fun/yan-dong-zhu-jiang-23.ctv
@@ -411,7 +414,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-11.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-13.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-3.ctv
-广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-4.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-6.ctv
 广东经济科教,https://stream1.freetv.fun/yan-dong-jing-ji-ke-jiao-9.ctv
 广东综艺,https://stream1.freetv.fun/yan-dong-zong-yi-11.ctv
@@ -475,6 +477,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-7.ctv
 广州新闻,https://stream1.freetv.fun/yan-zhou-xin-wen-8.m3u8
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-1.ctv
+广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-13.ctv
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-2.m3u8
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-3.ctv
 广州法治,https://stream1.freetv.fun/yan-zhou-fa-zhi-5.ctv
@@ -719,7 +722,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-10.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-2.ctv
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-3.m3u8
-浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-4.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-5.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-6.m3u8
 浙江新闻,https://stream1.freetv.fun/zhe-jiang-xin-wen-8.m3u8
@@ -744,6 +746,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 海峡卫视,https://stream1.freetv.fun/hai-xia-wei-shi-9.m3u8
 淘电影,https://stream1.freetv.fun/tao-dian-ying-10.ctv
 淘电影,https://stream1.freetv.fun/tao-dian-ying-15.ctv
+淘电影,https://stream1.freetv.fun/tao-dian-ying-3.ctv
 淘电影,https://stream1.freetv.fun/tao-dian-ying-8.ctv
 深圳少儿,https://stream1.freetv.fun/shen-zhen-shao-er-1.m3u8
 深圳少儿,https://stream1.freetv.fun/shen-zhen-shao-er-2.ctv
@@ -756,6 +759,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-6.ctv
 深圳都市,https://stream1.freetv.fun/shen-zhen-du-shi-8.ctv
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-1.m3u8
+湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-10.m3u8
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-12.m3u8
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-13.m3u8
 湖北公共,https://stream1.freetv.fun/hu-bei-gong-gong-3.m3u8
@@ -797,9 +801,11 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-16.ctv
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-19.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-22.m3u8
+湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-23.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-3.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-7.m3u8
 湖北经视,https://stream1.freetv.fun/hu-bei-jing-shi-9.m3u8
+湖北综合,https://stream1.freetv.fun/hu-bei-zong-he-7.m3u8
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-2.ctv
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-3.m3u8
 湖南公共,https://stream1.freetv.fun/hu-nan-gong-gong-4.m3u8
@@ -842,11 +848,9 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-4.m3u8
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-9.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-10.m3u8
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-11.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-12.ctv
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-13.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-6.ctv
-湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-7.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-8.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-9.m3u8
 湖南都市,https://stream1.freetv.fun/hu-nan-du-shi-gao-qing-1.m3u8
@@ -861,6 +865,7 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 生命電視台,https://stream1.freetv.fun/sheng-ming-dian-shi-3.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-1.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-10.ctv
+生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-11.m3u8
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-13.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-14.ctv
 生活时尚,https://stream1.freetv.fun/sheng-huo-shi-shang-2.ctv
@@ -874,7 +879,6 @@ tvb星河,https://stream1.freetv.fun/tvbxing-he-7.ctv
 电影,https://stream1.freetv.fun/dian-ying-66.ctv
 电影,https://stream1.freetv.fun/dian-ying-84.ctv
 电影01,https://stream1.freetv.fun/dian-ying-01-1.m3u8
-电影4,https://stream1.freetv.fun/dian-ying-4-1.m3u8
 登封新闻综合频道,https://stream1.freetv.fun/deng-feng-xin-wen-zong-he-1.m3u8
 石家庄娱乐,https://stream1.freetv.fun/shi-jia-zhuang-yu-le-6.ctv
 石家庄新闻综合,https://stream1.freetv.fun/shi-jia-zhuang-xin-wen-zong-he-2.ctv
