@@ -210,7 +210,7 @@ def clean_url(url):
 
 # 添加channel_name前剔除部分特定字符
 removal_list = ["_电信", "电信", "高清", "频道", "（HD）", "-HD","英陆","_ITV","(北美)","(HK)","AKtv","「IPV4」","「IPV6」",
-                "频陆","备陆","壹陆","贰陆","叁陆","肆陆","伍陆","陆陆","柒陆", "频晴","频粤","[超清]","高清","超清","斯特",
+                "频陆","备陆","壹陆","贰陆","叁陆","肆陆","伍陆","陆陆","柒陆", "频晴","频粤","[超清]","高清","超清","标清","斯特",
                 "粤陆", "国陆","肆柒","频英","频特","频国","频壹","频贰","肆贰","频测","咪咕"]
 def clean_channel_name(channel_name, removal_list):
     for item in removal_list:
@@ -574,7 +574,7 @@ beijing_time = utc_time + timedelta(hours=8)
 formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 
 about_video1="https://gitee.com/wzbdyr/xcz/raw/master/about1080p.mp4"
-about_video2="https://github.com/kimwang1978/xcz/raw/main/about1080p.mp4"
+about_video2="https://git.acwing.com/xcz/xcz/-/raw/master/about1080p.mp4"
 version=formatted_time+","+about_video1
 about="关于本源(小橙子电视),"+about_video2
 # 瘦身版
