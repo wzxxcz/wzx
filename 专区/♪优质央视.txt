@@ -40,6 +40,9 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 江西卫视,http://148.135.93.213:81/live.php?id=江西卫视
 广东卫视,http://148.135.93.213:81/live.php?id=广东卫视
 东方卫视,http://148.135.93.213:81/live.php?id=东方卫视
+西藏卫视,http://148.135.93.213:81/live.php?id=西藏卫视
+新疆卫视,http://148.135.93.213:81/live.php?id=新疆卫视
+青海卫视,http://148.135.93.213:81/live.php?id=青海卫视
 东南卫视,http://148.135.93.213:81/live.php?id=东南卫视
 吉林卫视,http://148.135.93.213:81/live.php?id=吉林卫视
 四川卫视,http://148.135.93.213:81/live.php?id=四川卫视
@@ -58,7 +61,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 黑龙江卫视,http://148.135.93.213:81/live.php?id=黑龙江卫视
 海南卫视,http://148.135.93.213:81/live.php?id=海南卫视
 大湾区卫视,http://148.135.93.213:81/live.php?id=大湾区卫视
-西藏卫视,http://148.135.93.213:81/live.php?id=西藏卫视
 CCTV4K,http://148.135.93.213:81/live.php?id=CCTV4K-av3a
 CCTV16-4K,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a
 CCTV8K,http://148.135.93.213:81/live.php?id=CCTV8K-av3a
