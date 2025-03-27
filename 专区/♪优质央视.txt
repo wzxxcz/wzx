@@ -26,7 +26,6 @@ CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
-测试视频 7.1.4 12声道,https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
 五星体育,http://148.135.93.213/live.php?id=五星体育
 凤凰资讯,http://148.135.93.213/phenix.php?id=fhzx
 凤凰中文,http://148.135.93.213/phenix.php?id=fhzw
@@ -62,6 +61,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 黑龙江卫视,http://148.135.93.213/live.php?id=黑龙江卫视
 海南卫视,http://148.135.93.213/live.php?id=海南卫视
 大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
+测试视频 7.1.4 12声道,https://mos-vod-drcn.dbankcdn.cn/P_VT/video_injection/3282D63676C3EAC291CFD5D891CB5D3A8C52A5B9AA8EBEF72D0BEF0A34EAEFC0134D9B0/v3/M2040549141360156160/chunjianghuayueyevivid.mp4
 春晚1983,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
 春晚1984,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 春晚1985,https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
