@@ -574,7 +574,7 @@ beijing_time = utc_time + timedelta(hours=8)
 formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 
 about_video1="https://gitee.com/wzbdyr/xcz/raw/master/about1080p.mp4"
-about_video2="https://gh-proxy.com/https://raw.githubusercontent.com/kimwang1978/xcz/refs/heads/main/about1080p.mp4"
+about_video2="http://my.djian.top/wzx/xcz/raw/branch/master/about1080p.mp4"
 version=formatted_time+","+about_video1
 about="关于本源(小橙子电视),"+about_video2
 # 瘦身版
