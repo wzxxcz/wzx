@@ -3906,60 +3906,54 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「西甲」00:20 联赛 皇家贝蒂斯 vs 比利亚雷亚尔 孙雨轩,https://tv.iill.top/FB/OYOFFk
-「法甲」02:35 联赛 欧塞尔 vs 里昂 鹿中原,https://tv.iill.top/FB/R1sNDU
-「意甲」02:30 联赛 拉齐奥 vs 罗马 鲁靖明 李彦,https://tv.iill.top/FB/QXbYqT
-「意甲」02:30 联赛 拉齐奥 vs 罗马 鲁靖明 李彦,https://tv.iill.top/FB/FB3c0H
-「西甲」02:50 联赛 毕尔巴鄂竞技 vs 巴列卡诺 张天翼,https://tv.iill.top/FB/z8WUoV
-「NBA」00:55 常规赛 步行者VS骑士 张浩岳,https://tv.iill.top/NBA/YSGQT7
-「NBA」00:55 常规赛 公牛VS76人 王琰博,https://tv.iill.top/NBA/OXxYla
-「NBA」00:55 常规赛 魔术VS老鹰 董倡硕,https://tv.iill.top/NBA/D2Y4Xl
-「NBA」00:55 常规赛 奇才VS热火 徐秦威,https://tv.iill.top/NBA/MMehOp
-「NBA」00:55 常规赛 尼克斯VS篮网 张泽欣,https://tv.iill.top/NBA/9zw7VH
-「NBA」00:55 常规赛 活塞VS雄鹿 王润陶,https://tv.iill.top/NBA/e482gr
-「NBA」00:55 常规赛 黄蜂VS凯尔特人 蔡凯臣,https://tv.iill.top/NBA/qieGEp
-「NBA」03:15 常规赛 湖人VS开拓者 孙博 马健 佳依,https://tv.iill.top/NBA/G7sZ4j
-「NBA」03:25 常规赛 掘金VS火箭 陈鑫隆 周鹏,https://tv.iill.top/NBA/awQh2A
-「NBA」03:15 常规赛 快船VS勇士 连睿 闫宇峰 小七,https://tv.iill.top/NBA/dk7GuD
-「NBA」03:25 常规赛 快船VS勇士 拜月宁,https://tv.iill.top/NBA/xIHHuU
-「NBA」03:25 常规赛 太阳VS国王 王冠证,https://tv.iill.top/NBA/d2l8gY
-「NBA」03:25 常规赛 爵士VS森林狼 邢晨,https://tv.iill.top/NBA/Xjf5AD
-「NBA」03:25 常规赛 雷霆VS鹈鹕 罗森,https://tv.iill.top/NBA/1oB31Q
-「NBA」03:25 常规赛 猛龙VS马刺 王晓晨,https://tv.iill.top/NBA/zAvDVk
-「NBA」03:25 常规赛 独行侠VS灰熊 姜帆,https://tv.iill.top/NBA/i0MXnT
-「NBA」12:00 《我的赛场》常规赛收官特别节目 《我的赛场》常规赛收官特别节目 秋童 李根 周鹏,https://tv.iill.top/NBA/FKwlTI
-「国际乒联澳门单打世界杯」08:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 训练馆,https://tv.iill.top/Migu/4YFTIX
-「国际乒联澳门单打世界杯」09:00 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 候场区,https://tv.iill.top/Migu/nDW1NS
-「国际乒联澳门单打世界杯」09:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 马特 周泽昊,https://tv.iill.top/Migu/MU850N
-「国际乒联澳门单打世界杯」09:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 周冠达 侯英超,https://tv.iill.top/Migu/HTGuCW
-「国际乒联澳门单打世界杯」09:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 男子单打,https://tv.iill.top/Migu/CHqYhI
-「国际乒联澳门单打世界杯」09:30 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 女子单打,https://tv.iill.top/Migu/0EyVtx
-「国际乒联澳门单打世界杯」09:50 00后小将黄友政迎大赛首秀 00后小将黄友政迎大赛首秀 混采区,https://tv.iill.top/Migu/Z7U7tQ
-「LPL」16:30 RNG vs UP RNG vs UP 官方解说,https://tv.iill.top/Migu/yhDRV8
-「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 1号桌,https://tv.iill.top/Migu/Cp0ZLW
-「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 2号桌,https://tv.iill.top/Migu/fA9kAS
-「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 3号桌,https://tv.iill.top/Migu/CXUzdG
-「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 4号桌,https://tv.iill.top/Migu/mynlJN
-「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 5号桌,https://tv.iill.top/Migu/puKvjl
-「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 6号桌,https://tv.iill.top/Migu/RcLGFC
-「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 7号桌,https://tv.iill.top/Migu/w63IR7
-「斯诺克」17:00 吴宜泽PK江俊 雷佩凡出战 吴宜泽PK江俊 雷佩凡出战 8号桌,https://tv.iill.top/Migu/cPLXL9
-「国际乒联澳门单打世界杯」16:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 训练馆,https://tv.iill.top/Migu/YaXuNJ
-「国际乒联澳门单打世界杯」16:30 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 候场区,https://tv.iill.top/Migu/RnQ3d9
-「国际乒联澳门单打世界杯」17:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 周冠达 侯英超,https://tv.iill.top/Migu/ZAzjyU
-「国际乒联澳门单打世界杯」17:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 马特 周泽昊,https://tv.iill.top/Migu/k0s28a
-「国际乒联澳门单打世界杯」17:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 男子单打,https://tv.iill.top/Migu/4uqqyH
-「国际乒联澳门单打世界杯」17:00 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 女子单打,https://tv.iill.top/Migu/XKytC2
-「国际乒联澳门单打世界杯」17:20 奥恰洛夫vs陈梓贤 黄镇廷压台登场 奥恰洛夫vs陈梓贤 黄镇廷压台登场 混采区,https://tv.iill.top/Migu/5u7Hnx
-「LPL」19:00 JDG vs FPX JDG vs FPX 官方解说,https://tv.iill.top/Migu/sSbG0W
-「CBA」18:30 季后赛1/4决赛 北京北汽vs北京控股 邵化谦 季孟年 杨健,https://tv.iill.top/Migu/0aow2l
-「CBA」19:25 季后赛1/4决赛 北京北汽vs北京控股 谭成国,https://tv.iill.top/Migu/ITy947
-「CBA」19:25 季后赛1/4决赛 北京北汽vs北京控股 周赫,https://tv.iill.top/Migu/9LRUC8
-「CBA」19:25 季后赛1/4决赛 北京北汽vs北京控股 现场原声,https://tv.iill.top/Migu/zLaLfh
-「CBA」18:30 季后赛1/4决赛 山西汾酒vs广东东阳光 庄宁宇 陈正昊 魏欣怡,https://tv.iill.top/Migu/bstp9R
-「CBA」19:25 季后赛1/4决赛 山西汾酒vs广东东阳光 石楷文,https://tv.iill.top/Migu/gj5u9M
-「CBA」19:25 季后赛1/4决赛 山西汾酒vs广东东阳光 翻译小余,https://tv.iill.top/Migu/VHelf2
-「CBA」19:25 季后赛1/4决赛 山西汾酒vs广东东阳光 现场原声,https://tv.iill.top/Migu/1dpqUG
+「意甲」02:35 联赛 那不勒斯 vs 恩波利 石庆圣,https://tv.iill.top/FB/TyUlen
+「西甲」02:45 联赛 马德里竞技 vs 巴拉多利德 涂远 梁祥宇,https://tv.iill.top/FB/zUIyDG
+「西甲」02:45 联赛 马德里竞技 vs 巴拉多利德 涂远 梁祥宇,https://tv.iill.top/FB/KjpIZ3
+「英超」02:50 联赛 伯恩茅斯 vs 富勒姆 刘焕,https://tv.iill.top/FB/Movwgs
+「中超」18:15 联赛 青岛西海岸 vs 山东泰山 石庆圣 李彦,https://tv.iill.top/FB/uE4LJb
+「中超」18:15 联赛 青岛西海岸 vs 山东泰山 赛场原声,https://tv.iill.top/FB/nopZi5
+「中超」19:00 联赛 武汉三镇 vs 北京国安 苏东 黄健翔 郭小仙儿,https://tv.iill.top/FB/AkKOtv
+「中超」19:20 联赛 武汉三镇 vs 北京国安 赛场原声,https://tv.iill.top/FB/I4R5uU
+「中超」19:45 联赛 深圳新鹏城 vs 长春亚泰 张昊泽 徐云龙,https://tv.iill.top/FB/ja5GO8
+「中超」19:45 联赛 深圳新鹏城 vs 长春亚泰 赛场原声,https://tv.iill.top/FB/Iqs9IM
+「亚冠二级」23:50 半决赛 沙亚赫 vs 布赖代合作 鹿中原,https://tv.iill.top/FB/gIOwkz
+「国际乒联澳门单打世界杯」08:30 陈幸同迎首秀 王楚钦压台出战 陈幸同迎首秀 王楚钦压台出战 训练馆,https://tv.iill.top/Migu/p7s55a
+「国际乒联澳门单打世界杯」09:00 陈幸同迎首秀 王楚钦压台出战 陈幸同迎首秀 王楚钦压台出战 候场区,https://tv.iill.top/Migu/ujPotH
+「国际乒联澳门单打世界杯」09:30 陈幸同迎首秀 王楚钦压台出战 陈幸同迎首秀 王楚钦压台出战 马特 周泽昊,https://tv.iill.top/Migu/ZJ7Cln
+「国际乒联澳门单打世界杯」09:30 陈幸同迎首秀 王楚钦压台出战 陈幸同迎首秀 王楚钦压台出战 周冠达 杨硕,https://tv.iill.top/Migu/FARIOW
+「国际乒联澳门单打世界杯」09:30 陈幸同迎首秀 王楚钦压台出战 陈幸同迎首秀 王楚钦压台出战 男子单打,https://tv.iill.top/Migu/vGx3Ko
+「国际乒联澳门单打世界杯」09:30 陈幸同迎首秀 王楚钦压台出战 陈幸同迎首秀 王楚钦压台出战 女子单打,https://tv.iill.top/Migu/iHGo0i
+「国际乒联澳门单打世界杯」09:50 陈幸同迎首秀 王楚钦压台出战 陈幸同迎首秀 王楚钦压台出战 混采区,https://tv.iill.top/Migu/mkUxFd
+「LPL」16:30 AL vs TT AL vs TT 官方解说,https://tv.iill.top/Migu/UBrM1b
+「国际乒联澳门单打世界杯」16:00 世一出战！林诗栋、孙颖莎登场 世一出战！林诗栋、孙颖莎登场 训练馆,https://tv.iill.top/Migu/Ujgjzb
+「国际乒联澳门单打世界杯」16:30 世一出战！林诗栋、孙颖莎登场 世一出战！林诗栋、孙颖莎登场 候场区,https://tv.iill.top/Migu/lAZBh8
+「国际乒联澳门单打世界杯」17:00 世一出战！林诗栋、孙颖莎登场 世一出战！林诗栋、孙颖莎登场 周冠达 程靖淇,https://tv.iill.top/Migu/dZ2Byr
+「国际乒联澳门单打世界杯」17:00 世一出战！林诗栋、孙颖莎登场 世一出战！林诗栋、孙颖莎登场 马特 周泽昊,https://tv.iill.top/Migu/YRf25J
+「国际乒联澳门单打世界杯」17:00 世一出战！林诗栋、孙颖莎登场 世一出战！林诗栋、孙颖莎登场 男子单打,https://tv.iill.top/Migu/icuDAs
+「国际乒联澳门单打世界杯」17:00 世一出战！林诗栋、孙颖莎登场 世一出战！林诗栋、孙颖莎登场 女子单打,https://tv.iill.top/Migu/C3mGrg
+「国际乒联澳门单打世界杯」17:20 世一出战！林诗栋、孙颖莎登场 世一出战！林诗栋、孙颖莎登场 混采区,https://tv.iill.top/Migu/YkI08P
+「斯诺克」18:00 审判日！赵心童出战 周跃龙PK袁思俊 审判日！赵心童出战 周跃龙PK袁思俊 1号桌,https://tv.iill.top/Migu/ZWhpB5
+「斯诺克」18:00 审判日！赵心童出战 周跃龙PK袁思俊 审判日！赵心童出战 周跃龙PK袁思俊 2号桌,https://tv.iill.top/Migu/3lGKdD
+「斯诺克」18:00 审判日！赵心童出战 周跃龙PK袁思俊 审判日！赵心童出战 周跃龙PK袁思俊 4号桌,https://tv.iill.top/Migu/MYV9rE
+「斯诺克」18:00 审判日！赵心童出战 周跃龙PK袁思俊 审判日！赵心童出战 周跃龙PK袁思俊 5号桌,https://tv.iill.top/Migu/410vQ8
+「斯诺克」18:00 审判日！赵心童出战 周跃龙PK袁思俊 审判日！赵心童出战 周跃龙PK袁思俊 6号桌,https://tv.iill.top/Migu/DeM5Qc
+「斯诺克」18:00 审判日！赵心童出战 周跃龙PK袁思俊 审判日！赵心童出战 周跃龙PK袁思俊 3号桌,https://tv.iill.top/Migu/ZKFLgg
+「斯诺克」18:00 审判日！赵心童出战 周跃龙PK袁思俊 审判日！赵心童出战 周跃龙PK袁思俊 7号桌,https://tv.iill.top/Migu/jquFwQ
+「斯诺克」18:00 审判日！赵心童出战 周跃龙PK袁思俊 审判日！赵心童出战 周跃龙PK袁思俊 8号桌,https://tv.iill.top/Migu/cpS8Ne
+「CBA」18:30 辽宁vs新疆赛前训练 辽宁vs新疆赛前训练 哈秋,https://tv.iill.top/Migu/jyCp6Z
+「CBA」18:30 辽宁vs新疆赛前训练 辽宁vs新疆赛前训练 盛哲,https://tv.iill.top/Migu/Hgv0rh
+「LPL」19:00 NIP vs IG NIP vs IG 官方解说,https://tv.iill.top/Migu/rpUXb8
+「CBA」18:30 季后赛1/4决赛 辽宁本钢vs新疆伊力特 孙博 曾令旭 焦健,https://tv.iill.top/Migu/0tb61b
+「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 哈秋,https://tv.iill.top/Migu/U0H3o6
+「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 盛哲,https://tv.iill.top/Migu/DVANf8
+「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 现场原声,https://tv.iill.top/Migu/u4y7Bj
+「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 明星机位1,https://tv.iill.top/Migu/tZRf67
+「CBA」19:25 季后赛1/4决赛 辽宁本钢vs新疆伊力特 明星机位2,https://tv.iill.top/Migu/fE2dHT
+「CBA」18:30 季后赛1/4决赛 浙江方兴渡vs青岛国信制药 吕程 周鹏 殳海,https://tv.iill.top/Migu/9H7apz
+「CBA」19:25 季后赛1/4决赛 浙江方兴渡vs青岛国信制药 郭知昊,https://tv.iill.top/Migu/uLIoOL
+「CBA」19:25 季后赛1/4决赛 浙江方兴渡vs青岛国信制药 刘沛元,https://tv.iill.top/Migu/Dch3Ue
+「CBA」19:25 季后赛1/4决赛 浙江方兴渡vs青岛国信制药 现场原声,https://tv.iill.top/Migu/ZzmnXg
+「WTA」23:00 WTA斯图加特站第二日 WTA斯图加特站第二日 清流播出,https://tv.iill.top/Migu/fLjbtd
 鳳凰衛視·中文「限UA」,http://dns.yiandrive.com:15907/phenix/fhzw
 鳳凰衛視·資訊「限UA」,http://dns.yiandrive.com:15907/phenix/fhzx
 鳳凰衛視·香港「限UA」,http://dns.yiandrive.com:15907/phenix/fhhk
