@@ -1,49 +1,3 @@
-凤凰资讯,http://148.135.93.213/phenix.php?id=fhzx
-凤凰中文,http://148.135.93.213/phenix.php?id=fhzw
-凤凰香港,http://148.135.93.213/phenix.php?id=fhhk
-香港卫视,http://148.135.93.213/live.php?id=香港卫视
-北京卫视,http://148.135.93.213/live.php?id=北京卫视
-浙江卫视,http://148.135.93.213/live.php?id=浙江卫视
-江苏卫视,http://148.135.93.213/live.php?id=江苏卫视
-陕西卫视,http://148.135.93.213/live.php?id=陕西卫视
-湖北卫视,http://148.135.93.213/live.php?id=湖北卫视
-内蒙古卫视,http://148.135.93.213/live.php?id=内蒙古卫视
-江西卫视,http://148.135.93.213/live.php?id=江西卫视
-广东卫视,http://148.135.93.213/live.php?id=广东卫视
-东方卫视,http://148.135.93.213/live.php?id=东方卫视
-西藏卫视,http://148.135.93.213/live.php?id=西藏卫视
-新疆卫视,http://148.135.93.213/live.php?id=新疆卫视
-青海卫视,http://148.135.93.213/live.php?id=青海卫视
-东南卫视,http://148.135.93.213/live.php?id=东南卫视
-吉林卫视,http://148.135.93.213/live.php?id=吉林卫视
-四川卫视,http://148.135.93.213/live.php?id=四川卫视
-天津卫视,http://148.135.93.213/live.php?id=天津卫视
-安徽卫视,http://148.135.93.213/live.php?id=安徽卫视
-山东卫视,http://148.135.93.213/live.php?id=山东卫视
-山西卫视,http://148.135.93.213/live.php?id=山西卫视
-广西卫视,http://148.135.93.213/live.php?id=广西卫视
-河北卫视,http://148.135.93.213/live.php?id=河北卫视
-河南卫视,http://148.135.93.213/live.php?id=河南卫视
-深圳卫视,http://148.135.93.213/live.php?id=深圳卫视
-甘肃卫视,http://148.135.93.213/live.php?id=甘肃卫视
-贵州卫视,http://148.135.93.213/live.php?id=贵州卫视
-辽宁卫视,http://148.135.93.213/live.php?id=辽宁卫视
-重庆卫视,http://148.135.93.213/live.php?id=重庆卫视
-黑龙江卫视,http://148.135.93.213/live.php?id=黑龙江卫视
-海南卫视,http://148.135.93.213/live.php?id=海南卫视
-大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
-
-
-
-
-
-
-
-
-
-
-
-
 湖南卫视,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873458.m3u8
 浙江卫视,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873464.m3u8
 江苏卫视,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873461.m3u8
@@ -184,6 +138,31 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 电影_变形金刚,http://home.kuaidi521.com:35455/huya/21059596
 电影_怪兽系列,http://home.kuaidi521.com:35455/huya/21059554
 搞笑_陈翔六点半,http://home.kuaidi521.com:35455/huya/11274154
+测试频道,#genre#
+CCTV1,http://39.137.75.234/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
+CCTV4,http://39.137.75.234/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no
+CCTV5+,http://39.137.75.234/000000001000/reallive-cctv5plus/index.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=no
+CCTV7,http://39.137.75.234/000000001000/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=no
+CCTV9,http://39.137.75.234/000000001000/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=no
+CCTV12,http://39.137.75.234/000000001000/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=no
+CCTV14,http://39.137.75.234/000000001000/1000000001000021349/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=no
+CCTV15,http://39.137.75.234/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no
+CCTV17,http://39.137.75.234/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=no
+湖南卫视,http://39.137.75.234/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=no
+安徽卫视,http://39.137.75.234/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=no
+甘肃卫视,http://39.137.75.234/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=no
+贵州卫视,http://39.137.75.234/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=no
+河北卫视,http://39.137.75.234/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=no
+内蒙古卫视,http://39.137.75.234/000000001000/1000000002000014080/index.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=no
+山西卫视,http://39.137.75.234/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=no
+深圳卫视,http://39.137.75.234/000000001000/1000000005000265028/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=no
+四川卫视,http://39.137.75.234/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=no
+厦门卫视,http://39.137.75.234/000000001000/1000000005000266006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=no
+重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
+宁夏卫视,http://39.137.75.234/000000001000/1000000002000031451/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=no
+青海卫视,http://39.137.75.234/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=no
+NewTV超级综艺,http://39.137.75.234/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=no
+湖南金鹰卡通,http://39.137.75.234/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=no
 咪视通,#genre#
 咪视通-1,http://home.kuaidi521.com:35455/itv/3000000001000005308.m3u8
 咪视通-2,http://home.kuaidi521.com:35455/itv/3000000001000005969.m3u8
@@ -231,29 +210,30 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 咪视通-44,http://home.kuaidi521.com:35455/itv/3000000010000027691.m3u8
 咪视通-45,http://home.kuaidi521.com:35455/itv/3000000010000031669.m3u8
 咪咕体育,#genre#
-[意甲]00:00 -联赛-都灵 vs 国际米兰-刘腾 贺宇,https://migu.188766.xyz/play?migutoken=587d257052340bf8e94b0e5debea507a&id=ossvXyEq3xwWmhIfvC%2FpSRxJZu%2F5arVFQf2TT0y8MMrMVqx5%2FPEKGqS1lsghCD26&name=9wdmZE4yXM3Zh8U5XuksiehIs%2BGqKQGisBYIe%2BQRRdVjCzOMxFnX0YO28gTS7R4iHpJqt7jHyneBAbRIpTYbEVzIKi8LL4%2BX14nSEi8Ak9c%3D
-[西甲]00:30 -联赛-毕尔巴鄂竞技 vs 阿拉维斯-涂远 刘畅,https://migu.188766.xyz/play?migutoken=5196f92bb3f2287bc3d3351628a60e56&id=nsY2uZJ6zQ%2BkxL0ER9ZbTRqrYuXsPWczpC46Lez93MFFwEaM3swoScOkGiFSSqMw&name=bOIbjsxopoAN9zstdF0w0tOe3fqlohv%2FZ7P7ysD%2Bk6RKQXuxmsWSvRfry8yJAO8HOT61ox%2FbcSO3zRxA0x3RmaMYf4UamO8Q199ualX%2FO2J%2FtQO2pyo%2FVSiDVFA5zgYC
-[德甲]01:30 -联赛-斯图加特 vs 奥格斯堡-周楚雄,https://migu.188766.xyz/play?migutoken=61afa7a03c193a0381d12448ec42098f&id=5EuaBvZQQgH5IWvBGVyvRRhwakX%2FT2XYoZit8D3EhyNKjrxdIC%2B%2Fi0ByYIPabvbJ&name=Bgjo3jbHYjcTb2ePNJV8LIHhRN7n3cddVoZJy0IFPxslzYPJRmqmDyLr57WtjF7QIDsUMBxVDtG6VP0F3jZxEP7XShZb2SGNdXlJlfkKBLQ%3D
-[意甲]02:45 -联赛-那不勒斯 vs 热那亚-石庆圣 李彦,https://migu.188766.xyz/play?migutoken=f1af76f1456d00a9e4760d6d5ac4b10e&id=ExD2NJiuKXhhB8czCUzLZu%2BEpZ2FH%2FImjwlbr%2BuN5SvVOexITBO%2F48eAHlUDqVPY&name=YtZUUGtsbv9Gn%2B0hOXSjuBwbzeH1rKiu41R%2B3Vx%2F%2BgLMLPzYPHtPM5D6%2FGuY4Tidpz5teaqDvwmasuuBgQIIomq2loIQN0epjWxEfRGlfOjc2lIDFCrpWLtY5eHkwIWt
-[意甲]02:45 -联赛-那不勒斯 vs 热那亚-石庆圣 李彦,https://migu.188766.xyz/play?migutoken=9b2fef1fc3de5b16742206624e5c6777&id=zv0tLLvcOJGZXi006wyhGNE281PUWkQDxKPmldzwU80Rp6ShsqCyJv%2FKaQgmc5b6&name=RWtzipcQEIiYFnLnscXyFTC2zENoET%2FljpnubgqYzR%2BdpaCzfxgl%2BziPo4yNU9hP3UFFoixIBC%2FzTefpNWNBN9PDGzzPfIE26CzQdkPP6zEwbEJnuvwOH8vPZRdAQgvx
-[西甲]03:00 -联赛-皇家贝蒂斯 vs 奥萨苏纳-兰子非,https://migu.188766.xyz/play?migutoken=0b8a499bca23cd1ddb999c4d2a0c0580&id=r%2Fhst6EXhLqFo2pjHQwyvxDxM3U4JCaIAQQk5jUsBxr2aFbhPNJ5E0uVBiX5RJqM&name=SGxcnLLx9i2Oh7yVCP6FAdmFRsyuOAJeCxx0rsjoEMOhBPIUH0ErLsGVtOM6fAZdWCwKTPLjbReBaKZBF65jQI2ci1Of113fGpZ0Vkvh3VQ%3D
-[NBA]03:30 -季后赛-雷霆VS掘金-孙博 孔德昕,https://migu.188766.xyz/play?migutoken=6199230e4c70f719dda9d87a72ce58d6&id=z9ymh4wzIg5B4APcAR0f7TicQaEqGnonFprehhFdDr%2Fl%2FrSBiGyCZ7CEYRqCyplb&name=WQAPlEQDTdfTJd2JuYqAqxkgJd%2FZ6mWLY%2FxgoTnJ3kPjT6XDnVoO2tRd%2BajDq5SqH%2FK287y3jHR5%2BC82Q5%2Bm62q9kY3ZjZUvKgTqWYi0fBg%3D
-[NBA]03:30 -季后赛-雷霆VS掘金-英文原声,https://migu.188766.xyz/play?migutoken=0df176392cb28f869613fc3fb507e389&id=2Lr8SVWvCNxZxfUaatFjcg%2BjC7jKwGNGoqQm8wSZVyPgmIQDkJRBwTon0qvWBl92&name=AePBXHB7D8k5ZXZ4gUrh3P6X%2BdnzBCYjZ%2BDSrI%2FMmsn9%2F3Nman6mmNiokKZO8ZZQqBSNycwp%2FlFU5yK9o2D8nl08cWTKIAbqhFbUHm8BIkE%3D
-[NBA]08:00 -季后赛-骑士VS步行者-姜帆 李根 闫宇峰,https://migu.188766.xyz/play?migutoken=695cabedddace980d3e637d40a68d302&id=6vRndaCFkHzuTlmOs4gKm%2Bw6t5UELfnjswzUPvloafh2ql8NdONQzlsuXzazUbZQ&name=3b9CYwosFqGusYaFVWk3UyP66hCHTljJaZDFrVTqFJ7sxzgRIyNLiluQJV1v0KFiVu4HQK6SiBlFxyG%2FfKlItIQg7xhUV6mgZiNTDAXHsEo%3D
-[NBA]08:00 -季后赛-骑士VS步行者-英文原声,https://migu.188766.xyz/play?migutoken=3850801b005e1b7e48b47c2e63e82118&id=03xPvE9%2FBl1B%2BilQRQSzVzWuISoZnEtG7GcpsyO6xuZPS7y0MbWOW7JuL46pyzWT&name=aFZrajkf0N4x84%2BSRCa8S83I3fA%2BX8d20zZU8%2Fk6dVRRkFTSfibiy62Gzb7yg%2BXPobyS53RWQa5w5mkBS0u2qlUmaa3QZK0tIu27FVNF%2FAY%3D
-[WTA]00:30 -WTA罗马站第六日：萨巴惊险晋级 郑钦文PK弗莱彻-萨巴惊险晋级 郑钦文PK弗莱彻-李宁,https://migu.188766.xyz/play?migutoken=607271e72bfac034ddf5f9682aa7b8c8&id=huZ9pdoMK6YGjGZftj6Cti1skIFWNc%2BL6kCVyvmxej%2B8yVQ2m65FXCtXeyZ8LN%2FW&name=20l026kTJT4sTpCyD1WhS03AetybjHgr%2BFoZ377U0VoG0xB4aXmm%2BmdSnscPP4cTTe1uUkX2eTY2xT9NLyhhEw5AMnpzP2OYhZipwTborAFgQOG4UbkbtSyztzUpTaQbttXGFuK%2Ffur8XQQZTtlks1RCCTxCAHmbE3iVShLsLK%2FSeqmYnWapFXSmIR6UCCGp
-[WTA]00:30 -WTA罗马站第六日：萨巴惊险晋级 郑钦文PK弗莱彻-萨巴惊险晋级 郑钦文PK弗莱彻-清流,https://migu.188766.xyz/play?migutoken=1f339cea41034b9352ba4ff18ed6539b&id=BMIV8x%2FQAcNdVVX3N1wwQdOyWUyedmDT1%2BHhISg4Hz2dLIJfEFmjY62rQhL88hpE&name=prPrWBCGorhhPgLwfIRkrKLd3ppEpVTqEErRTYRy05St36xWFgbPKoPe%2BUgBo3SSMyoyfEJ2fX006jptO67YTudVqm3D%2BzOo3KdAIENijUROo4MZ0fgq%2Fz778KWRdRRqDqxYU%2Fovk12fxheyfeS1s1OdXMcGAaQa%2F7LXxzfVJOGc1a2TiWgYCQs0b0pJW3Vk
-[WTA]00:30 -WTA罗马站第六日：萨巴惊险晋级 郑钦文PK弗莱彻-萨巴惊险晋级 郑钦文PK弗莱彻-清流播出,https://migu.188766.xyz/play?migutoken=8ea8eb8af7799e7f030ab8b73e694566&id=zJGXqCD9iF%2BcLraInXf5s3fVEYXjwmjTTy3MCnNDS5iCJJ5QhLLsywTxLanxoZqw&name=puJIOAVxGTk3D%2FLZH%2FHxx%2FXaON5WpkJP6QG8j%2BQtXWCjgSg0sdb%2BsUPwNBpLHUud1JCgbpKtcCmqPHxKlmK8184EJufD50nBiv4adta12s%2BSUplTSrWa8qWQ%2BCQJLfMVsiBJJJDzSsJwysr%2Bnij%2Fm6pzzTRwxQTqhZyy1RBqbPU4VvJnc%2Bzi6PdMyBODKAzlqQcCvUIRC9gtZGfeq5k5wQ%3D%3D
-[多哈世乒赛]12:00 -【重温经典】世乒赛拾忆盲盒-重温世乒赛经典：复仇日-重温经典,https://migu.188766.xyz/play?migutoken=30cea497d1605eac65e1418da71fb9f8&id=gFmIJib71OEmkh9p0TXyNGUtHwubkRVC1F7zzYLohxDnxPE5zHpJ2dHXiBstqo0n&name=IugwNcKnZcVKtU7uIYTbkPtQDCh4O7pW%2FcI20FesVNRurknGl2KK4LlCqr3vmrnLq%2Fxg24xYBKCb%2BOgNnbpclUFV5aCbH5p12zhrc9ExvOMfT2kHKL2nDXE6mRe3T%2FIcY46Hk%2Buss4MOHL5jIp1JBUrk%2BiJJ7uesPT96CDHOej0%3D
-[LPL]16:30 -TT vs AL-TT vs AL-官方解说,https://migu.188766.xyz/play?migutoken=3fa1a37f3cf6fc9707834a7cd3d60e71&id=yK3dazGGjyd4VYc3SXlZ0QcPmq15LJi2zVeBKp%2BXv4vhtAyBP5SFY2r6LuwDiJXV&name=mcQ4Z5d%2BXPeqEQiypnZ0YkjfJimmN5wX96IIK4O3QwlVeVa9Pb88BAx2ZBLzEEuZmzXwqJjGmpE8wmkXZdJQuQ%3D%3D
-[WTA]17:00 -WTA罗马站第七日-WTA罗马站第七日-清流播出,https://migu.188766.xyz/play?migutoken=c39ad4956ac84845c73c6c0b52070cd9&id=5P4l%2BKfmqDG3DAEvhYAjbJOBvgBnsB2yjVXpuJRaKNtoH3xyR6DT9WKjriZ45TkT&name=3gmsLGYhb8Ty2K6Fio69ah%2B5dB7r8v0UMKLgQ1%2BJb366wN2%2F%2BLe1G9KlEPKZXQUSmraDOuu3yjRQ7MEUwPbNsZ7BmdDj0OsJrgf4qjPXt3MLiMfkNfJIIo5R1oVBE%2B2N
-[WTA]17:00 -WTA罗马站第七日-WTA罗马站第七日-单文强,https://migu.188766.xyz/play?migutoken=aeea9722b350d9c2f33cd9612825454e&id=H3%2BMegnK8OpwFLB%2Btk6HnD0KbHjheabqldggRr90%2FOHvQriKpBb9FbgVewvVvAxa&name=0Elrdk2bjUVePAHDJtZS5kOILcMwdNVBv0i3BRSnpwmQZVyic9%2FfXjkLvLEnVj8BwMnqaXmrYf%2BAHxBzLj8juVGSiwNYOZWyfEwG%2BQX%2FPfQcgHtlpnSlaIfrypOrNMeb
-[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-李天宇 刘炜 陈正昊,https://migu.188766.xyz/play?migutoken=7723a563ef64beb6d839db7cb381b952&id=dVA3PiZxUvohcqMshuGMExV%2Bhd3scEPK3383QIo36cCB%2FpajEdOCJqGdDJ27y9PN&name=JkHeItwkWYFzCANWa5OoCzbdqmmpiFalCWgs%2F%2FK2nkQwMHsvu5K0ZgvS0PFaALHezZQlFlGaecdJL0cYY52iV%2Btmc1l2cTbMWcwJj%2BSqOz55zBmKbqD6HY7Jw1WwM5I3
-[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-杨健 韩硕 曾令旭,https://migu.188766.xyz/play?migutoken=3f46dd8c559185c224c0d7a4ea606008&id=pRR3dmNt4QgXJnfrFyRzXua0W9O29kRtxzDadrApKV4lPRsS4LMvsOC8nyRGiu6B&name=5O3C9je0QW2fyavGgY5atAXgBw3rdOhlEHgB7VXJ0hfsF6zqOyQffcihq8stOdLY3RDvNj8%2FESAquVaeoQRP1W2JlPMWUp2xh4PBNV9icU0%2FuaLkKqV6vjMBpqwIEAbX
-[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-谭成国,https://migu.188766.xyz/play?migutoken=b9d0be72fbd3c0bf0ec1cf99790588fd&id=gybnGLl%2FXyIxiCzxH5fc%2F5PcslnTpnYr5OYZI4F1GwB2yawTD1nJ16k5eVSR5mEg&name=5gg6doN4TMZmiC1jRIRSesCHdIFwMrcGyV3DJ2Os0WrUDY9ozaUsaXDPAlyUfOs4BLDbR7aL0Mwi0dyZlxXoi3VNjmhnW9LXQRZjRsH872Q%3D
-[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-郭知昊,https://migu.188766.xyz/play?migutoken=8ac135864fa674ab36e125ae3b77cb22&id=E2czJwlesD8XeyOxlUJ5%2FlOV8G4BN0Bo73WNVwnzYmvQpHTaVo25FCWb8TQgATid&name=hy015Y2kJgOANTBFDzF65l9w9k0KxiBzTEPorXzkcdK6uokmV4Z%2FEb5Ry%2FAW5baYfVgEPPn5YD4J5cnEjY8esjagi7GWYI81oHcSs9bwxcY%3D
-[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-现场原声,https://migu.188766.xyz/play?migutoken=f24a976d302ab6c1e4eafb24d2b49d58&id=%2BBkGCFMrL0X6vR3H%2Bip4OIZnhMi14o8JBWz6HmN4JXzSegzCqu8NfcIglWe%2BnsFM&name=d288sbOFQ%2Fg5r%2FtynRJjH59ljOEO%2Bydb%2Bu8s0JJRu6hRmgakgfdRPd5TeL3KwaxuvG7tIWVKHElT%2FardZV%2BCvYpLUl5JV9m1BEPZ5d8as7kbBUnrfVm9Rqu2QYYRiio%2B
-[LPL]20:00 -NIP vs FPX-NIP vs FPX-官方解说,https://migu.188766.xyz/play?migutoken=8a080344a680ed5b7b36e54404ecb246&id=ln6hXf%2FnORaChVf%2Bdnpnro%2FOjEHsBeMKKPx501BqofJCp4OBe%2Firpf3kDfdXrymB&name=hyIL9Bo8XvCTqeOme4r3gNul8M38RexHMK1ql3c1turopYQxR7%2Bj%2B9FEY6ahFq028SjVFrUMaHsW8b8kTD%2Fvtw%3D%3D
+[意甲]00:00 -联赛-都灵 vs 国际米兰-刘腾 贺宇,https://migu.188766.xyz/play?migutoken=587d257052340bf8e94b0e5debea507a&id=LX0GnaFvMfCzH0AZ9O55bOItGlT34HtI%2BLdvD16Pfnep7Pw4uTGvM6wa7aG%2FqEqk&name=RcQUedVTtIPcLuvHU5z%2BiyMP3KaVBZlY9x4OugcjrXKeSBPOzqxJikGEpJvOb2zrh8vOxSCgvi58bBcEfrpmud3%2FivuhbZBJQwDwfnbRVew%3D
+[西甲]00:30 -联赛-毕尔巴鄂竞技 vs 阿拉维斯-涂远 刘畅,https://migu.188766.xyz/play?migutoken=5196f92bb3f2287bc3d3351628a60e56&id=2Q6JlfHnDpWRzkG8lPL29hWMlOd0WW69euj%2FeqIaKoJPwpBlwbzbr77xuDIV4%2FKq&name=Ek4NZHv2FTyHiIUw9omGcWWnTIqZeEGS%2BmGklxR40MN0RVhV0x0doBOlbUhM3XQ5jslYPtd6NQWDhEytTRBBM599EVZqp3ogx26XuzYjWe1r%2B0hEuI5hRl%2FTpiLCNmzO
+[德甲]01:30 -联赛-斯图加特 vs 奥格斯堡-周楚雄,https://migu.188766.xyz/play?migutoken=61afa7a03c193a0381d12448ec42098f&id=yIx9HyzkJ479Igatq6QZUVKTNir%2FNtneHEawqmKdtjpxriqmDMoFRCAUbXchpCp1&name=5Jn0keNHf6D89OMa%2BIS2Tt9kcit6tCTe1NDnkZCwwWYVTD%2F8uy3vBbj0RnWOzBAEpTzPk19PIj8%2FurlHJ8uUjqhADeVs5KtbpGzl3KUVer8%3D
+[意甲]02:45 -联赛-那不勒斯 vs 热那亚-石庆圣 李彦,https://migu.188766.xyz/play?migutoken=f1af76f1456d00a9e4760d6d5ac4b10e&id=WIwW0p9kyMsvkcd%2FyOoyRVwwBH3gOPXYjAhJSU9Sen03I1%2BtntT0n3ltw%2F5rW3zS&name=qUH%2B%2BhLvPWQEfpfSxbmBa4uvHnZYporcpHEpo5X56Q5V6EsRjXYQu%2F7Du08Bu87iTgDfIkKkH0pcjaXm9mzjutybgObvG1AmNnCS%2FcoPyOKlYL%2Brch0gm22Kzr5haQIN
+[意甲]02:45 -联赛-那不勒斯 vs 热那亚-石庆圣 李彦,https://migu.188766.xyz/play?migutoken=9b2fef1fc3de5b16742206624e5c6777&id=X9EqD6CHHsrk6ROv75cNy3XEFU5Sh%2BAL%2Ba%2BeHDIUyTj9ABQy8CXv%2FovSqqOD7xDi&name=9u1T1RD01x7NchMYc1OhEnHpa5c1tVRXANfUdWBkiG%2ByUfAvwalgeSm1%2BN0N6D0xQpvN8Xdjeenqp%2BsCZVwBwGxXZNaxD02%2FZDEe5dtjHOFsV39YIA%2BgsJKzoFNww2Ka
+[西甲]03:00 -联赛-皇家贝蒂斯 vs 奥萨苏纳-兰子非,https://migu.188766.xyz/play?migutoken=0b8a499bca23cd1ddb999c4d2a0c0580&id=SZZHSYMdEmbDPiJ%2FdSQoSvGvYYLS%2FiAWzLBfxtCINq8DjuDqxO68RvAkG0654UYs&name=O6XrW7vSBMcTXSk8VyXRFFOxof6oU22IkmG2xruXoQFKqoLMedbo%2FxQmPDtaWgIXl2S%2BSVek4Z6ixggCv0mGOemJef0nuATaO5o6emibgR8%3D
+[NBA]03:30 -季后赛-雷霆VS掘金-孙博 孔德昕,https://migu.188766.xyz/play?migutoken=6199230e4c70f719dda9d87a72ce58d6&id=eW3eH2m7grIMmC%2Bh2nyZIIR%2F0Nsx4HoRCeZcfu%2FgmuF3012qVeFjaUMxO0%2FVOE9o&name=QYVUT%2FnDnQT%2BxCdYnZALIIqniuyYm36m1HUhHylWS4RqhtfZDvI8f4H8yaxYVikcAHliursUrM9WpD8inQ03IY6cIADEa8IIP5v4zgDGXT8%3D
+[NBA]03:30 -季后赛-雷霆VS掘金-英文原声,https://migu.188766.xyz/play?migutoken=0df176392cb28f869613fc3fb507e389&id=94s%2FyE5It4jM1cuEjUMgc4kVEvKKYzEHkSENL3atgaxn2nb8xx5XEhpng1z6tuBE&name=L4sjGHTiPo2N%2Bdp5sUJ795ncQKXqFbPg%2BSHL9NuQdBnrbnDFhO%2BItPyDgwDFqi6rFCgcIhZopZt1aDkV6OCxFyfDQ81qGo13dTwkTP%2BJjQk%3D
+[NBA]08:00 -季后赛-骑士VS步行者-24/25赛季季后赛全场集锦：骑士109:129步行者（20250512）,https://migu.188766.xyz/play?migutoken=695cabedddace980d3e637d40a68d302&id=MkiQeilMtRIDaGtubTRi0F6L39hCfYv2uNoIMfOqm5VDLzRw1NM4obJOgdLtlZHY&name=e3AflB8Y00uOp9lzyVUzN8ZagWSTUmmrWnWmfphk9na%2FNi4KRLtkSZPg1Yrq1uwjQU%2Br9Rao9KkKChnNSV1N7gGYEX6Zn0K73U8g6%2BjVHVzcQomkGEJa2IreLueQ8xa4m%2BcMwAq1iR2uJwiLzG7Lt4BIJxVhc9RaVuJQxU8ymP4%3D
+[NBA]08:00 -季后赛-骑士VS步行者-姜帆 李根 闫宇峰,https://migu.188766.xyz/play?migutoken=3850801b005e1b7e48b47c2e63e82118&id=aKBEKOjBKNF0Is6cddVopXQCrT68ucsXb4L2XVcXKu1FSRjKRSwtlvbxzA%2Fa6xHP&name=yEFMxwOiK71Q%2FtSZMuWmy4ABSdPGqTqyPoOWpvIMnoa32jQLlY%2FArlFWvj9HMwx5zbu%2BGOyaco7g1YD3H5aDVp%2FD1lrnWv2s5c2GKaQgQS0%3D
+[NBA]08:00 -季后赛-骑士VS步行者-英文原声,https://migu.188766.xyz/play?migutoken=607271e72bfac034ddf5f9682aa7b8c8&id=%2BQIVQSpAwi%2BHetTMCbT73yk30igX4lje2ASbV0NW5Isu8hh8H7WobMyxj5gUny7s&name=KGn3yYLyf%2FZvYLWHMrLCzVYt1lpa5b0Pdtw7xIdqfTOu6waPsNgZ0vHVL9W73AY9KfbXaTovxHj4ZQykBeBHgkKQbwN8i1k8rBGCho2IKCs%3D
+[WTA]00:30 -WTA罗马站第六日：萨巴惊险晋级 郑钦文2-0弗莱彻-萨巴惊险晋级 郑钦文2-0弗莱彻-清流播出,https://migu.188766.xyz/play?migutoken=1f339cea41034b9352ba4ff18ed6539b&id=%2BNx1PFtItNqn%2F6EIUU%2FY7DUbD7PhTVKTjD%2BPtqrJm2d%2FKfDkceQQGdOsGsZqa1a9&name=43He6SFYs3q7JzZWWMqI0FK%2FMVRqjsK5VfNbihXLEvvK9uuYflpmu1u1%2BSf1cqyQP5SynS4eT4xpY45P%2ByUA9Yg6RCl%2BCl02MbJ0TiIgDZ%2FwP7dMwVMBPkhBgliNpdxyJXFrOBS3ggk7qSDymIrzorN0SfcLCpdqqm3%2FpqFP4PXPjiAQ2sKpql3iFKgKYwRYN8mmIRx6%2FjLTd3ZBCYyYRQ%3D%3D
+[多哈世乒赛]12:00 -【重温经典】世乒赛拾忆盲盒-重温世乒赛经典：复仇日-重温经典,https://migu.188766.xyz/play?migutoken=8ea8eb8af7799e7f030ab8b73e694566&id=u%2FCFUisWi8VVfzFfHRCAtYgvApnZTYDkxwlac8UVD1HXr%2BIm1FuQ4iOTFCQMF%2FvO&name=Oad8%2BUwMxfiYTaOphb5qU6GKUCnmargtecHgLiAZEs2oPZOqSRF1faz7WrvfacZdbF7pIgjADptKNJyO5NwrpP0iYbVCn%2BRONaqiZv0%2FVK87ZTYVAR03Di73L7iiLZvtHW0F913SM7rwB%2BgqabyBC4MyqXc23IumsZPWQC0UV2o%3D
+[LPL]16:30 -TT vs AL-TT vs AL-官方解说,https://migu.188766.xyz/play?migutoken=30cea497d1605eac65e1418da71fb9f8&id=ZjKBaFAmoati1J8kz0lqNkqb8GdydkEFSqZxzkxuy3cM46TrQ2CfnRzs3kTc48hp&name=WTJ0EgY4%2FokHUizcuM0563RjzALPDxc9ZLz6MI9rWxCp0isr4FkUXq0aVLzOkTNGFoXP%2Bxc6HTsuMLbuwSFj2w%3D%3D
+[WTA]17:00 -WTA罗马站第七日：郑钦文、萨巴伦卡领衔冲8强-郑钦文、萨巴伦卡领衔冲8强-清流播出,https://migu.188766.xyz/play?migutoken=3fa1a37f3cf6fc9707834a7cd3d60e71&id=pNghQfGBzefHJl2Yi0Y6O4OfiuQD2qra2vTA5pTR6rgXXvl%2BmI9E7UWApXR2OeSw&name=GpDWk7rAG52CXUDK06He3wgF3FI4GQok17hgsOwF2AsXcYVCdsv24STkZLoTeUphIcHqvAMOzfBBEI5Zhc3DgugUb9I%2BSWxsKpT1wIU0WAnxpVl%2FVtCLI6rinhLl1iaLmpcpyCs2t23H0OxNYnwxyTSw35j5kJxNK5K5C1HKQpbnON672SxRkFIAQhmJBFWD
+[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-李天宇 刘炜 陈正昊,https://migu.188766.xyz/play?migutoken=c39ad4956ac84845c73c6c0b52070cd9&id=Pvw0EQ%2FBjJp9dM%2FGk9tFsAkrimsAVXWGHCEXlK2ylZ%2FkB%2B54BrlG0ENRi7ei0LuK&name=rRRstwnjUOuKOF8YPTIRcPJMHtJZCgBpkaMgLUGRhKz%2Br07n%2BSoYzWtufDvW2hc5i%2FYHuMI5s5w6Xmi05JexbmOoLYT7aIonps5O548EPkMqLBFyVYSMrF6r53v0070f
+[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-杨健 韩硕 曾令旭,https://migu.188766.xyz/play?migutoken=aeea9722b350d9c2f33cd9612825454e&id=RrbmcDPSe9wxVOX8DOUBSwGWA69hypMM9imCKRGMDIAjI4OWgaxWEnQhIViW6U0S&name=h0lFjA%2BFUpRuMZjNJSelaznem4VT0Kxj3CJzXr5AVfFJBz%2BRFMawtPpaF69eSTwI9oU4AHvgyjM0u7VWwxPYLZ%2FrE%2Flnt55j58NOlHwVN4m0SH1kdxdpysh6YEalN%2FS9
+[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-谭成国,https://migu.188766.xyz/play?migutoken=7723a563ef64beb6d839db7cb381b952&id=ZCpKD5HRZ6b7l14BFIlLElQkOK00jCTXYRP4mVlYCwpdZnCt9VbayAkNqPirecx7&name=EAqiR6rDCpVuVQm7520Xb4Y5gPSxYWUGbp0Zy9EjClU9MID4zcL3leoc%2FPmd7gs2AGJlVY%2FSfqMK232BBNDCQbseSF%2BP7RxwRrLKBNlVAmA%3D
+[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-郭知昊,https://migu.188766.xyz/play?migutoken=3f46dd8c559185c224c0d7a4ea606008&id=U%2FIYSOPPKJj%2FfH9z26HRctOP%2FupbzKCrOAnu4RJQkGLc%2B%2Fs92LIXOFI8i55AdnK3&name=GcjUiaFB02CM5t9%2BQBgvuS6OLvwhMr24ebwYJJajnNgdtNlToci%2FaLjFhhhtadNWNHl4B3harzBpsaKp0ciLhayyj%2FHNCQDoX07pvdZ0t9o%3D
+[CBA]19:35 -总决赛-北京北汽vs浙江方兴渡-现场原声,https://migu.188766.xyz/play?migutoken=b9d0be72fbd3c0bf0ec1cf99790588fd&id=%2FgbT%2FuHlibTrV5ztGJgOxd1TnIkTuxbP2AD62iJGgo1pvAC0kPlnp0Oyk%2BB%2F%2B2uB&name=RZ8AaXhLR%2BDFM8bcvej6dsZBczEs%2B%2FgVteS%2Fowx86SFB9%2Bnwiory7MoOdqqhNqNXvgUclSAjTR3x5vuklGw95Z3bo0SK7mbf1ZMFBliITh8VbtGVduxW3DnRWhhEMg1S
+[LPL]20:00 -NIP vs FPX-NIP vs FPX-官方解说,https://migu.188766.xyz/play?migutoken=8ac135864fa674ab36e125ae3b77cb22&id=fCjMCsaJsSltUjCdf%2FnHAM5fBtobGy8mHFhm5HNOP%2FDcukP4B%2Fx84YP4varC5Guy&name=cLinzLmS%2F3ApMztUAVqPevp0uiMr4xkUQDlVoiWCOwg%2BWk59mYOS40Yk83RYpzUtAv0T43Y5Ov0Fo%2B8%2FOmzRLQ%3D%3D
+
+
+
 
 
 
@@ -275,6 +255,18 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
 湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
+
+东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江苏卫视,http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+广东卫视,http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+江西卫视,http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+河南卫视,http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+陕西卫视,http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+湖北卫视,http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+吉林卫视,http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
+海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 东方卫视,http://39.165.196.149:9003//hls/39/index.m3u8
 浙江卫视,http://39.165.196.149:9003//hls/28/index.m3u8
