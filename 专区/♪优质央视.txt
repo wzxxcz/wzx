@@ -16,8 +16,8 @@ CCTV-14 少儿,http://home.kuaidi521.com:35455/bptv/1000010000000005000000000387
 CCTV-15 音乐,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870757.m3u8
 CCTV-16 奥林匹克,http://home.kuaidi521.com:35455/bptv/10000100000000050000000004972604.m3u8
 CCTV-17 农业农村,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870758.m3u8
-CCTV-4 中文国际 欧洲,https://migu1.188766.xyz/?migutoken=889f5e1c6b39b38f3d948498ee978533&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
-CCTV-4 中文国际 美洲,https://migu1.188766.xyz/?migutoken=536ea2884e0960fe99afdd786ae06d96&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+CCTV-4 中文国际 欧洲,https://migu1.188766.xyz/?migutoken=1e00282131ec2f7fde60f737e1fb885a&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+CCTV-4 中文国际 美洲,https://migu1.188766.xyz/?migutoken=a352e7bcbfc211a01f7700b0eddb65af&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 
 
 
