@@ -3912,53 +3912,63 @@ mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h
 Love Nature 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe 4K「视觉」,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 上视东方影视,https://tv.iill.top/migu/shys
-「英超」03:00 -联赛-布莱顿 vs 利物浦-苏东 徐阳,https://tv.iill.top/FB/28Bc38
-「英超」03:00 -联赛-布莱顿 vs 利物浦-苏东 徐阳,https://tv.iill.top/FB/TLT833
-「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：男子100米自由泳、男子200米混合泳等-潘展乐出战男子100米自由泳-现场解说,https://tv.iill.top/Migu/zqbxoA
-「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：男子100米自由泳、男子200米混合泳等-潘展乐出战男子100米自由泳-赛场原声,https://tv.iill.top/Migu/99NFKo
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子个人全能决赛-女子个人全能决赛-综合信号,https://tv.iill.top/Migu/3Waehs
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子个人全能决赛-女子个人全能决赛-跳马,https://tv.iill.top/Migu/JeuTaa
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子个人全能决赛-女子个人全能决赛-高低杠,https://tv.iill.top/Migu/FRIy6e
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子个人全能决赛-女子个人全能决赛-平衡木,https://tv.iill.top/Migu/tyXD9l
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子个人全能决赛-女子个人全能决赛-自由操,https://tv.iill.top/Migu/axBUgV
-「全国体操锦标赛」15:00 -全国体操锦标赛：女子个人全能决赛-女子个人全能决赛-明星机位,https://tv.iill.top/Migu/qhPP9O
-「足协杯」15:30 -足协杯第三轮比赛-广州蒲公英 vs 浙江-梁祥宇,https://tv.iill.top/Migu/FkOLr0
-「足协杯」15:30 -足协杯第三轮比赛-陕西联合 vs 武汉三镇-张昊泽,https://tv.iill.top/Migu/DJqVHC
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-侯英超 程靖淇 周冠达 小马哥,https://tv.iill.top/Migu/mqUwC0
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-侯英超,https://tv.iill.top/Migu/KRDlwm
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-程靖淇,https://tv.iill.top/Migu/W8zti7
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-周冠达,https://tv.iill.top/Migu/LI02Bs
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-小马哥,https://tv.iill.top/Migu/aqUU7q
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-训练馆,https://tv.iill.top/Migu/hlHRiJ
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-候场区,https://tv.iill.top/Migu/stu6nO
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-1号桌,https://tv.iill.top/Migu/9ixM4M
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-2号桌,https://tv.iill.top/Migu/5MANZi
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-3号桌,https://tv.iill.top/Migu/SVCB5J
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-4号桌,https://tv.iill.top/Migu/9OpeqW
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-5号桌,https://tv.iill.top/Migu/qeaZh3
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-6号桌,https://tv.iill.top/Migu/E4RUly
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-7号桌,https://tv.iill.top/Migu/l2wDCa
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-8号桌,https://tv.iill.top/Migu/6f0mkC
-「多哈世乒赛」16:00 -多哈世乒赛：混双1/8决赛、单打1/32决赛-动漫冲八强 对手退赛莎头直接晋级-1号桌英文解说,https://tv.iill.top/Migu/KXe6aB
-「LPL」16:30 -FPX vs IG-FPX vs IG-官方解说,https://tv.iill.top/Migu/1gfvuO
-「足协杯」17:00 -足协杯第三轮比赛-广西恒宸 vs 梅州客家-清流播出,https://tv.iill.top/Migu/aaSQMM
-「WTA」17:00 -斯特拉斯堡站第四日-斯特拉斯堡站第四日-赛场原声,https://tv.iill.top/Migu/ZnTuzB
-「CBA」19:35 -总决赛-北京北汽vs浙江方兴渡-杨健 郭艾伦 金佳悦,https://tv.iill.top/Migu/KuvtRn
-「CBA」19:35 -总决赛-北京北汽vs浙江方兴渡-孙博 李根 陈正昊,https://tv.iill.top/Migu/UNyShW
-「CBA」19:35 -总决赛-北京北汽vs浙江方兴渡-谭成国,https://tv.iill.top/Migu/w9O0bT
-「CBA」19:35 -总决赛-北京北汽vs浙江方兴渡-郭知昊,https://tv.iill.top/Migu/PIwELi
-「CBA」19:35 -总决赛-北京北汽vs浙江方兴渡-现场原声,https://tv.iill.top/Migu/JMQx7H
-「LPL」20:00 -TES vs BLG-TES vs BLG-官方解说,https://tv.iill.top/Migu/T67kjp
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-侯英超 程靖淇 周冠达 小马哥,https://tv.iill.top/Migu/xBPFO6
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-周雨,https://tv.iill.top/Migu/WtyuXL
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-杨硕,https://tv.iill.top/Migu/A9xIde
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-训练馆,https://tv.iill.top/Migu/BFmpA8
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-候场区,https://tv.iill.top/Migu/qxWHEl
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-1号桌,https://tv.iill.top/Migu/1cMbHH
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-2号桌,https://tv.iill.top/Migu/vyciiL
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-3号桌,https://tv.iill.top/Migu/rOt0h3
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-4号桌,https://tv.iill.top/Migu/ONm2IC
-「多哈世乒赛」21:00 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-1号桌英文解说,https://tv.iill.top/Migu/njcdyo
+「英超」03:00 -联赛-水晶宫 vs 狼队-刘焕,https://tv.iill.top/FB/GUApsN
+「英超」03:00 -联赛-水晶宫 vs 狼队-刘焕,https://tv.iill.top/FB/Fxw3Kt
+「英超」03:00 -联赛-曼城 vs 伯恩茅斯-刘畅 颜强,https://tv.iill.top/FB/T2eqAJ
+「NBA」08:30 -季后赛-森林狼VS雷霆-蔡凯臣 李根 马健,https://tv.iill.top/NBA/Se2mMz
+「NBA」08:30 -季后赛-森林狼VS雷霆-邢晨,https://tv.iill.top/NBA/Qs8uQL
+「NBA」08:30 -季后赛-森林狼VS雷霆-罗森,https://tv.iill.top/NBA/KpyS9B
+「NBA」08:30 -季后赛-森林狼VS雷霆-英文原声,https://tv.iill.top/NBA/pyPESJ
+「NBA」08:30 -季后赛-森林狼VS雷霆-VIP前排视角,https://tv.iill.top/NBA/dSXuEf
+「NBA」08:30 -季后赛-森林狼VS雷霆-球场十倍镜,https://tv.iill.top/NBA/TALwvi
+「UFC精英之路」08:50 -UFC精英之路第四季第一比赛日称重仪式-RTU首轮第1比赛日称重：李凯文领衔中国军团-陈瑞阳,https://tv.iill.top/Migu/vFUICz
+「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：女子100米自由泳、男子200米蛙泳等-张雨霏、覃海洋、徐嘉余领衔出战-现场解说,https://tv.iill.top/Migu/hM3WP2
+「全国游泳冠军赛」09:00 -2025全国游泳冠军赛：女子100米自由泳、男子200米蛙泳等-张雨霏、覃海洋、徐嘉余领衔出战-赛场原声,https://tv.iill.top/Migu/Pc2zbc
+「足协杯」15:00 -足协杯第三轮比赛-深圳青年人 vs 大连英博-张天翼,https://tv.iill.top/Migu/VUTu0r
+「足协杯」15:00 -足协杯第三轮比赛-延边龙鼎 vs 青岛西海岸-清流播出,https://tv.iill.top/Migu/omIDUQ
+「全国体操锦标赛」15:00 -全国体操锦标赛：单项决赛-单项决赛-综合信号,https://tv.iill.top/Migu/stNKuf
+「全国体操锦标赛」15:00 -全国体操锦标赛：单项决赛-单项决赛-明星机位,https://tv.iill.top/Migu/MWCEvr
+「足协杯」15:30 -足协杯第三轮比赛-定南赣联 vs 云南玉昆-清流播出,https://tv.iill.top/Migu/5R3FpF
+「足协杯」15:30 -足协杯第三轮比赛-无锡吴钩 vs 上海申花-涂远,https://tv.iill.top/Migu/5YK691
+「多哈世乒赛」16:00 -多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛-动漫组合冲半决赛 张本兄妹出战-周雨 程靖淇 周冠达 小马哥,https://tv.iill.top/Migu/8m1c1A
+「多哈世乒赛」16:00 -多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛-动漫组合冲半决赛 张本兄妹出战-周冠达 程靖淇,https://tv.iill.top/Migu/cPN62N
+「多哈世乒赛」16:00 -多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛-动漫组合冲半决赛 张本兄妹出战-小马哥 周雨,https://tv.iill.top/Migu/RWYULn
+「多哈世乒赛」16:00 -多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛-动漫组合冲半决赛 张本兄妹出战-训练馆,https://tv.iill.top/Migu/NWv5r1
+「多哈世乒赛」16:00 -多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛-动漫组合冲半决赛 张本兄妹出战-候场区,https://tv.iill.top/Migu/cWUJn3
+「多哈世乒赛」16:00 -多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛-动漫组合冲半决赛 张本兄妹出战-混采区,https://tv.iill.top/Migu/W61SkL
+「多哈世乒赛」16:00 -多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛-动漫组合冲半决赛 张本兄妹出战-1号桌,https://tv.iill.top/Migu/8tX1Su
+「多哈世乒赛」16:00 -多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛-动漫组合冲半决赛 张本兄妹出战-2号桌,https://tv.iill.top/Migu/uYorH5
+「多哈世乒赛」16:00 -多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛-动漫组合冲半决赛 张本兄妹出战-1号桌英文解说,https://tv.iill.top/Migu/I2mtnt
+「斯诺克」16:00 -欧洲Q-School第一站第一轮-陈志春、廖予生冲击职业资格-1号桌,https://tv.iill.top/Migu/baFpSg
+「斯诺克」16:00 -欧洲Q-School第一站第一轮-陈志春、廖予生冲击职业资格-2号桌,https://tv.iill.top/Migu/iqHtqb
+「斯诺克」16:00 -欧洲Q-School第一站第一轮-陈志春、廖予生冲击职业资格-3号桌,https://tv.iill.top/Migu/KlSHc5
+「斯诺克」16:00 -欧洲Q-School第一站第一轮-陈志春、廖予生冲击职业资格-4号桌,https://tv.iill.top/Migu/qNzTTg
+「斯诺克」16:00 -欧洲Q-School第一站第一轮-陈志春、廖予生冲击职业资格-5号桌,https://tv.iill.top/Migu/lYjBQJ
+「斯诺克」16:00 -欧洲Q-School第一站第一轮-陈志春、廖予生冲击职业资格-6号桌,https://tv.iill.top/Migu/lxr1PI
+「斯诺克」16:00 -欧洲Q-School第一站第一轮-陈志春、廖予生冲击职业资格-7号桌,https://tv.iill.top/Migu/EG1VcC
+「斯诺克」16:00 -欧洲Q-School第一站第一轮-陈志春、廖予生冲击职业资格-8号桌,https://tv.iill.top/Migu/5XWUKH
+「LPL」16:30 -JDG vs AL-JDG vs AL-官方解说,https://tv.iill.top/Migu/rooRek
+「足协杯」17:00 -足协杯第三轮比赛-广东广州豹 vs 深圳新鹏城-鹿中原,https://tv.iill.top/Migu/fhjsyu
+「WTA」17:00 -斯特拉斯堡站第五日：纳瓦罗、佩古拉领衔出战-纳瓦罗、佩古拉领衔出战-赛场原声,https://tv.iill.top/Migu/EpCdG9
+「WTA」18:00 -拉巴特站第二轮-拉巴特站第二轮-赛场原声,https://tv.iill.top/Migu/pEHShH
+「足协杯」19:00 -足协杯第三轮比赛-辽宁铁人 vs 青岛海牛-鲁靖明,https://tv.iill.top/Migu/kaghbD
+「足协杯」19:00 -足协杯第三轮比赛-大连鲲城 vs 长春亚泰-清流播出,https://tv.iill.top/Migu/hUS0FN
+「足协杯」19:30 -足协杯第三轮比赛-苏州东吴 vs 上海海港-孙雨轩,https://tv.iill.top/Migu/rv864M
+「足协杯」19:30 -足协杯第三轮比赛-重庆铜梁龙 vs 河南-刘畅,https://tv.iill.top/Migu/IgBVvw
+「足协杯」19:30 -足协杯第三轮比赛-青岛红狮 vs 山东泰山-石庆圣,https://tv.iill.top/Migu/ucDVPR
+「足协杯」19:30 -足协杯第三轮比赛-石家庄功夫 vs 北京国安-梁祥宇,https://tv.iill.top/Migu/lNt3Mc
+「足协杯」19:30 -足协杯第三轮比赛-广西平果 vs 成都蓉城-袁甲,https://tv.iill.top/Migu/a9u3FN
+「LPL」20:00 -IG vs BLG-IG vs BLG-官方解说,https://tv.iill.top/Migu/6fesZn
+「足协杯」20:00 -足协杯第三轮比赛-贵州筑城竞技 vs 天津津门虎-清流播出,https://tv.iill.top/Migu/ulxSmv
+「多哈世乒赛」22:30 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-周雨 程靖淇 周冠达 小马哥,https://tv.iill.top/Migu/oz8L5O
+「多哈世乒赛」22:30 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-侯英超,https://tv.iill.top/Migu/WECVTa
+「多哈世乒赛」22:30 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-杨硕,https://tv.iill.top/Migu/wgRmjE
+「多哈世乒赛」22:30 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-训练馆,https://tv.iill.top/Migu/xexRid
+「多哈世乒赛」22:30 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-候场区,https://tv.iill.top/Migu/45DciU
+「多哈世乒赛」22:30 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-混采区,https://tv.iill.top/Migu/UQkguq
+「多哈世乒赛」22:30 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-1号桌,https://tv.iill.top/Migu/4724lB
+「多哈世乒赛」22:30 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-2号桌,https://tv.iill.top/Migu/VOoOqY
+「多哈世乒赛」22:30 -多哈世乒赛：男女双打1/8决赛及单打1/16决赛-男女双打1/8决赛及单打1/16决赛-1号桌英文解说,https://tv.iill.top/Migu/Wwbh1K
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
 鳳凰衛視·中文「限UA」,https://tv.iill.top/phenix/fhzw
