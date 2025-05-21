@@ -46,894 +46,276 @@
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 长影频道,http://tpc.x3322.net:9901/tsfile/live/1010_1.m3u8
 央视新闻,http://tencentplaygsm.gztv.com/live/jingsai.m3u8
-电信专区,#genre#
-CCTV1,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV2,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV3,http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV4,http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV5,http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV5+,http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV6,http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV7,http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV8,http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV9,http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV10,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV11,http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV12,http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV13,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV14,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV15,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CCTV16,http://39.137.75.233/PLTV/88888888/224/3221225782/index.m3u8
-CCTV17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江苏卫视,http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-东方卫视,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-广东卫视,http://sport.pendy.dpdns.org/migu/608831231?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-东南卫视,http://sport.pendy.dpdns.org/migu/849116810?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-海南卫视,http://sport.pendy.dpdns.org/migu/947472502?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-河南卫视,http://sport.pendy.dpdns.org/migu/790187291?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-湖北卫视,http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-江西卫视,http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-吉林卫视,http://sport.pendy.dpdns.org/migu/947472500?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-陕西卫视,http://sport.pendy.dpdns.org/migu/738910838?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-青海卫视,http://sport.pendy.dpdns.org/migu/947472506?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-移动专区,#genre#
-CCTV1,http://39.135.133.132/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV2,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV3,http://39.135.135.41/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV4,http://39.135.135.50/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-CCTV5,http://39.135.133.134/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
-CCTV5+,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV6,http://39.135.135.50/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV7,http://39.135.135.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,http://39.135.135.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV9,http://39.135.135.38/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV10,http://39.135.135.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-CCTV11,http://39.135.135.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV12,http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV13,http://39.135.135.59/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV14,http://39.135.133.173/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
-CCTV15,http://39.134.65.87/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-CCTV16,http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://39.135.135.88/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-湖南卫视,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-江苏卫视,http://39.135.133.181/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-北京卫视,http://39.135.135.11/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
-浙江卫视,http://39.134.65.71/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-上海卫视,http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
-海南卫视,http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
-湖北卫视,http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
-重庆卫视,http://39.134.65.75/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
-大湾区卫视,http://39.135.133.153/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-深圳卫视,http://39.135.135.44/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-广东卫视,http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-东南卫视,http://39.134.65.77/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
-黑龙江卫视,http://39.135.133.173/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-四川卫视,http://39.135.133.150/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-辽宁卫视,http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-吉林卫视,http://39.135.133.161/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-西藏卫视,http://39.134.65.72/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
-安徽卫视,http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-河北卫视,http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-青海卫视,http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-河南卫视,http://39.135.133.163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-云南卫视,http://39.135.133.180/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-延边卫视,http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
-天津卫视,http://39.135.135.14/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
-山西卫视,http://39.134.65.8/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
-广西卫视,http://39.135.133.160/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-贵州卫视,http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
-新疆卫视,http://39.135.133.147/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226460/index.m3u8
-山东教育卫视,http://39.134.65.79/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-山东卫视,http://39.135.133.144/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-江西卫视,http://39.135.133.175/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-内蒙古卫视,http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-康巴卫视,http://39.134.65.65/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
-安多卫视,http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-甘肃卫视,http://39.134.65.67/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-兵团卫视,http://39.135.133.178/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
-陕西卫视,http://39.134.65.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-宁夏卫视,http://39.134.65.7/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-动作电影,http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-家庭剧场,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-古装剧场,http://39.134.65.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-军旅剧场,http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-超级电视剧,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-超级电影,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级体育,http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级综艺,http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-金牌综艺,http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-爱情喜剧,http://39.134.65.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-惊悚悬疑,http://39.134.65.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-东北热剧,http://39.134.65.74/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-欢乐剧场,http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-潮妈辣妹,http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-武博世界,http://39.134.65.64/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-中国功夫,http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-黑莓电影,http://39.135.133.138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-APTV专享,#genre#
-CCTV-1 综合,http://148.135.93.213/live.php?id=CCTV1
-CCTV-2 财经,http://148.135.93.213/live.php?id=CCTV2
-CCTV-3 综艺,http://148.135.93.213/live.php?id=CCTV3
-CCTV-4 中文国际,http://148.135.93.213/live.php?id=CCTV4
-CCTV-5 体育,http://148.135.93.213/live.php?id=CCTV5
-CCTV-5+ 体育赛事,http://148.135.93.213/live.php?id=CCTV5p
-CCTV-6 电影,http://148.135.93.213/live.php?id=CCTV6
-CCTV-7 国防军事,http://148.135.93.213/live.php?id=CCTV7
-CCTV-8 电视剧,http://148.135.93.213/live.php?id=CCTV8
-CCTV-9 纪录,http://148.135.93.213/live.php?id=CCTV9
-CCTV-10 科教,http://148.135.93.213/live.php?id=CCTV10
-CCTV-11 戏曲,http://148.135.93.213/live.php?id=CCTV11
-CCTV-12 社会与法,http://148.135.93.213/live.php?id=CCTV12
-CCTV-13 新闻,http://148.135.93.213/live.php?id=CCTV13
-CCTV-14 少儿,http://148.135.93.213/live.php?id=CCTV14
-CCTV-15 音乐,http://148.135.93.213/live.php?id=CCTV15
-CCTV-16 奥林匹克,http://148.135.93.213/live.php?id=CCTV16
-CCTV-17 农业农村,http://148.135.93.213/live.php?id=CCTV17
-重温经典,http://148.135.93.213/live.php?id=重温经典
-五星体育,http://148.135.93.213/live.php?id=五星体育
-CHC影迷电影,http://148.135.93.213/live.php?id=CHC影迷电影
-CHC家庭影院,http://148.135.93.213/live.php?id=CHC家庭影院
-CHC动作电影,http://148.135.93.213/live.php?id=CHC动作电影
-凤凰中文,http://148.135.93.213/phenix.php?id=fhzw
-凤凰资讯,http://148.135.93.213/phenix.php?id=fhzx
-凤凰香港,http://148.135.93.213/phenix.php?id=fhhk
-香港卫视,http://148.135.93.213/live.php?id=香港卫视
-北京卫视,http://148.135.93.213/live.php?id=北京卫视
-湖南卫视,http://148.135.93.213/live.php?id=湖南卫视
-浙江卫视,http://148.135.93.213/live.php?id=浙江卫视
-江苏卫视,http://148.135.93.213/live.php?id=江苏卫视
-陕西卫视,http://148.135.93.213/live.php?id=陕西卫视
-湖北卫视,http://148.135.93.213/live.php?id=湖北卫视
-内蒙古卫视,http://148.135.93.213/live.php?id=内蒙古卫视
-江西卫视,http://148.135.93.213/live.php?id=江西卫视
-广东卫视,http://148.135.93.213/live.php?id=广东卫视
-东方卫视,http://148.135.93.213/live.php?id=东方卫视
-东南卫视,http://148.135.93.213/live.php?id=东南卫视
-吉林卫视,http://148.135.93.213/live.php?id=吉林卫视
-四川卫视,http://148.135.93.213/live.php?id=四川卫视
-天津卫视,http://148.135.93.213/live.php?id=天津卫视
-安徽卫视,http://148.135.93.213/live.php?id=安徽卫视
-山东卫视,http://148.135.93.213/live.php?id=山东卫视
-山西卫视,http://148.135.93.213/live.php?id=山西卫视
-广西卫视,http://148.135.93.213/live.php?id=广西卫视
-河北卫视,http://148.135.93.213/live.php?id=河北卫视
-河南卫视,http://148.135.93.213/live.php?id=河南卫视
-深圳卫视,http://148.135.93.213/live.php?id=深圳卫视
-甘肃卫视,http://148.135.93.213/live.php?id=甘肃卫视
-贵州卫视,http://148.135.93.213/live.php?id=贵州卫视
-辽宁卫视,http://148.135.93.213/live.php?id=辽宁卫视
-重庆卫视,http://148.135.93.213/live.php?id=重庆卫视
-黑龙江卫视,http://148.135.93.213/live.php?id=黑龙江卫视
-海南卫视,http://148.135.93.213/live.php?id=海南卫视
-大湾区卫视,http://148.135.93.213/live.php?id=大湾区卫视
-西藏卫视,http://148.135.93.213/live.php?id=西藏卫视
-兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 数字频道,#genre#
-CHC影迷电影,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC动作电影,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CHC影迷电影（咪咕）,http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC家庭影院（咪咕）,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-CHC动作电影（咪咕）,http://sport.pendy.dpdns.org/migu/644368714?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-求索纪录,http://111.22.153.159:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
-求索科学,http://111.22.153.159:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
-求索生活,http://111.22.153.159:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
-求索动物,http://111.22.153.159:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
-纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-爱上4K,http://wouu.net:9977/udp/239.93.0.97:5140
-华数4K,http://111.22.153.159:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
-纯享4K,http://111.22.153.159:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
-纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-动物星球,http://live4play.uk/livehttpplay?channel_id=20106
-1905电影网,http://150.138.77.132:10037/1905电影网.php?id=1905a
-中国电影频道,https://live.tvfix.org/live/cmc/index.m3u8
-港澳台频道,#genre#
-美亚电影台,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-数字频道,#genre#
-漫威电影,http://1.94.31.214:35455/douyu/6140589
-精彩影视,http://111.22.153.159:35455/itv/6000000006000320630.m3u8?cdn=wasusyt
-中国天气,http://111.22.153.159:35455/itv/5000000005000031974.m3u8?cdn=bestzb
-纪实科教,http://111.22.153.159:35455/itv/1000000001000001910.m3u8?cdn=ystenlive
-金鹰纪实,http://111.22.153.159:35455/itv/5000000011000031203.m3u8?cdn=bestzb
-新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
-茶友频道,http://111.22.153.159:35455/itv/5000000011000031209.m3u8?cdn=bestzb
-快乐垂钓,http://111.22.153.159:35455/itv/5000000011000031206.m3u8?cdn=bestzb
-劲爆体育,http://111.22.153.159:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-魅力足球,http://111.22.153.159:35455/itv/5000000011000031207.m3u8?cdn=bestzb
-五星体育,http://111.22.153.159:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-第一财经,http://111.22.153.159:35455/itv/5000000010000027146.m3u8?cdn=bestzb
-纪实人文,http://111.22.153.159:35455/itv/5000000004000010282.m3u8?cdn=bestzb
-哒啵赛事,http://111.22.153.159:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
-哒啵电竞,http://111.22.153.159:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-黑莓电影,http://111.22.153.159:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
-黑莓动画,http://111.22.153.159:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-乐游频道,http://111.22.153.159:35455/itv/5000000011000031112.m3u8?cdn=bestzb
-欢笑剧场,http://111.22.153.159:35455/itv/5000000002000009455.m3u8?cdn=bestzb
-法治天地,http://111.22.153.159:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
-七彩戏剧,http://111.22.153.159:35455/itv/5000000011000031116.m3u8?cdn=bestzb
-动漫秀场,http://111.22.153.159:35455/itv/5000000011000031113.m3u8?cdn=bestzb
-游戏风云,http://111.22.153.159:35455/itv/5000000011000031114.m3u8?cdn=bestzb
-生活时尚,http://111.22.153.159:35455/itv/5000000002000019634.m3u8?cdn=bestzb
-都市剧场,http://112.46.105.20:8009/hls/72/index.m3u8
-金色学堂,http://111.22.153.159:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
-睛彩竞技,http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-睛彩篮球,http://111.22.153.159:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-睛彩青少,http://111.22.153.159:35455/itv/3000000020000011525.m3u8?cdn=FifastbLive
-睛彩广场舞,http://111.22.153.159:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
-港澳台频道,#genre#
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰中文（高清）,http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
-凤凰资讯（高清）,http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-凤凰香港（高清）,http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
-凤凰电影,https://ali.hlspull.yximgs.com/live/diyp_fhdy.flv
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳视澳门,http://119.32.12.17:2901/udp/224.1.100.12:11111
-澳视澳门（备用）,http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-澳亚卫视,https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
-莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
-TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-TVB无线星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB娱乐新闻,http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB翡翠台 1080P,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-TVB翡翠台（高清）,http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-TVB翡翠台（备用）,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-TVB J1,https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
-TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
-星光影视,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-民视,rtmp://f13h.mine.nu/sat/tv051
-台视,rtmp://f13h.mine.nu/sat/tv071
-中视,rtmp://f13h.mine.nu/sat/tv091
-华视,rtmp://f13h.mine.nu/sat/tv111
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
-中天新闻（备用）,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-华视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv052
-中视新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-三立新闻,http://live4play.uk/livehttpplay?channel_id=10126
-三立综合,http://live4play.uk/livehttpplay?channel_id=12038
-三立都会,http://live4play.uk/livehttpplay?channel_id=20100
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-寰宇新闻,http://222.128.55.152:9080/live/hy.m3u8
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-1.m3u8
-东森超视,rtmp://f13h.mine.nu/sat/tv331
-东森财经,http://live4play.uk/livehttpplay?channel_id=20078
-东森电影,http://mytv.cdn.com.mp/live/dsdy/stream.m3u8
-东森综合,http://live4play.uk/livehttpplay?channel_id=20104
-东森电影,http://live4play.uk/livehttpplay?channel_id=20077
-东森洋片,http://live4play.uk/livehttpplay?channel_id=20080
-东森戏剧,http://live4play.uk/livehttpplay?channel_id=20072
-美亚电影,http://live4play.uk/livehttpplay?channel_id=20197
-民视新闻台,http://live4play.uk/livehttpplay?channel_id=20097
-民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-民视综艺台,http://litv.zapi.us.kg/?id=4gtv-4gtv004
-民视影剧台,http://litv.zapi.us.kg/?id=litv-ftv09
-中天亚洲台,http://livetv.skycf.eu.org/live.m3u8?c=3
-中视菁采,http://litv.zapi.us.kg/?id=4gtv-4gtv064
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-MOMO TV,rtmp://f13h.mine.nu/sat/tv761
-纬来日本,rtmp://f13h.mine.nu/sat/tv771
-纬来电影,http://live4play.uk/livehttpplay?channel_id=20199
-纬来体育,http://live4play.uk/livehttpplay?channel_id=20120
-纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
-大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-TVBS新闻台,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS欢乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-AMC电影台,http://122.117.71.103:8559/http/61.222.53.250:8092/upload/115/AMC_TS-1111_1.m3u8
-CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-靖天电影,http://live4play.uk/livehttpplay?channel_id=12037
-港台电视31,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
-港台电视32,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
-DAZN体育1,http://live4play.uk/livehttpplay?channel_id=10104
-DAZN体育2,http://live4play.uk/livehttpplay?channel_id=10105
-ELEVEN体育1,https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
-ELEVEN体育2,http://108.181.20.197/livehttpplay?channel_id=20107
-ELEVEN体育3,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-IHOT频道,#genre#
-iHOT 爱喜剧,http://111.22.153.159:35455/itv/2000000004000000032.m3u8?cdn=hnbblive
-iHOT 爱科幻,http://111.22.153.159:35455/itv/2000000004000000033.m3u8?cdn=hnbblive
-iHOT 爱院线,http://111.22.153.159:35455/itv/2000000004000000034.m3u8?cdn=hnbblive
-iHOT 爱浪漫,http://111.22.153.159:35455/itv/2000000004000000035.m3u8?cdn=hnbblive
-iHOT 爱悬疑,http://111.22.153.159:35455/itv/2000000004000000036.m3u8?cdn=hnbblive
-iHOT 爱谍战,http://111.22.153.159:35455/itv/2000000004000000038.m3u8?cdn=hnbblive
-iHOY 爱历史,http://111.22.153.159:35455/itv/2000000004000000046.m3u8?cdn=hnbblive
-iHOT 爱科学,http://111.22.153.159:35455/itv/2000000004000000047.m3u8?cdn=hnbblive
-iHOT 爱幼教,http://111.22.153.159:35455/itv/2000000004000000049.m3u8?cdn=hnbblive
-iHOT 爱玩具,http://111.22.153.159:35455/itv/2000000004000000053.m3u8?cdn=hnbblive
-iHOT 爱赛车,http://111.22.153.159:35455/itv/2000000004000000055.m3u8?cdn=hnbblive
-iHOT 爱旅行,http://111.22.153.159:35455/itv/2000000004000000056.m3u8?cdn=hnbblive
-iHOT 爱奇谈,http://111.22.153.159:35455/itv/2000000004000000058.m3u8?cdn=hnbblive
-iHOT 爱动漫,http://111.22.153.159:35455/itv/2000000004000000059.m3u8?cdn=hnbblive
-iHOT 爱体育,http://111.22.153.159:35455/itv/2000000004000000060.m3u8?cdn=hnbblive
-NewTV频道,#genre#
-NewTV 超级电影,http://111.22.153.159:35455/itv/1000000003000012426.m3u8?cdn=ystenlive
-NewTV 超级电视剧,http://111.22.153.159:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
-NewTV 超级体育,http://111.22.153.159:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
-NewTV 超级综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=YanG-1989
-NewTV 金牌综艺,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=YanG-1989
-NewTV 魅力潇湘,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=YanG-1989
-NewTV 东北热剧,http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
-NewTV 古装剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=YanG-1989
-NewTV 欢乐剧场,http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
-NewTV 怡伴健康,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000005000266011/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266011&livemode=1&stbId=YanG-1989
-NewTV 潮妈辣婆,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000018/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000018&livemode=1&stbId=YanG-1989
-NewTV 军旅剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000014/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000014&livemode=1&stbId=YanG-1989
-NewTV 军事评论,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000022/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000022&livemode=1&stbId=YanG-1989
-NewTV 中国功夫,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000009/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000009&livemode=1&stbId=YanG-1989
-NewTV 农业致富,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6193684637634073625/index.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=YanG-1989
-NewTV 动作电影,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236183/index.m3u8
-NewTV 家庭剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989
-NewTV 惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
-NewTV 炫舞未来,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=YanG-1989
-NewTV 精品萌宠,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000006000032328/index.m3u8?channel-id=ystenlive&Contentid=1000000006000032328&livemode=1&stbId=YanG-1989
-NewTV 精品体育,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236300/index.m3u8
-NewTV 精品大剧,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013968/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013968&livemode=1&stbId=YanG-1989
-NewTV 精品记录,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=YanG-1989
-NewTV 武搏世界,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=YanG-1989
-NewTV 明星大片,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
-NewTV 海外剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-NewTV 爱情喜剧,http://111.22.153.159:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+CHC家庭影院,https://migu1.188766.xyz/?migutoken=5d4c66164a64458ccd0064949e783237&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&pp=1
+CHC动作电影,https://migu1.188766.xyz/?migutoken=74dff1dae92b825bc36d1ae881b538e3&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1
+CHC影迷电影,https://migu1.188766.xyz/?migutoken=44f22da5acfa4cf2fa0129c05b2e07fa&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&pp=1
+BTV-重温经典,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887494.m3u8
+重温经典,https://migu1.188766.xyz/?migutoken=dc7ceab85950ba652773c7e65a1ee83b&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8&pp=1
+卡酷少儿,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003904597.m3u8
+金鹰卡通,http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796942.m3u8
+嘉佳卡通,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887459.m3u8
+萌宠TV,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887495.m3u8
+淘BABY,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887496.m3u8
+淘剧场,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887497.m3u8
+淘电影,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887498.m3u8
+淘娱乐,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887499.m3u8
+北京影视,https://migu1.188766.xyz/?migutoken=4b2f4e20b67ed54a20afcd046b6f0f2b&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=bj
+北京文艺,https://migu1.188766.xyz/?migutoken=c7b45dca3a3a1227f48efd25a5d0be9a&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=bj
+北京财经,https://migu1.188766.xyz/?migutoken=aad5c94ec1bcf6133572eeafb01a7876&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=bj
+北京生活,https://migu1.188766.xyz/?migutoken=c673ebc1f27b25b0bfd098ea854722bf&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=bj
+北京新闻,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870780.m3u8
+北京体育休闲,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870779.m3u8
+北京纪实科教,https://migu1.188766.xyz/?migutoken=536b2d65c26577ee2989354a8ecdcf87&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=bj
+东方影视,https://migu1.188766.xyz/?migutoken=727e08fb97580b554ec5cfd635854e26&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+新片放映厅,https://migu1.188766.xyz/?migutoken=a6435017cacb84a5d51facc605005973&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
+高清大片,https://migu1.188766.xyz/?migutoken=b789b2ac0c574c55ac9e1eb39a1c58a5&id=%E9%AB%98%E6%B8%85%E5%A4%A7%E7%89%87&type=yy
+南方影视,https://migu1.188766.xyz/?migutoken=f9e5d915c84a2851fa639910465487f7&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+红色轮播台,https://migu1.188766.xyz/?migutoken=2bba4c739cbe84ae2f71669e78e9f64f&id=%E7%BA%A2%E8%89%B2%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+金色剧场,https://migu1.188766.xyz/?migutoken=bae4885f97f30594c32e77541f9938f4&id=%E9%87%91%E8%89%B2%E5%89%A7%E5%9C%BA&type=yy
+NBA经典,https://migu1.188766.xyz/?migutoken=07b3bee8fb8e6ca9cf9a7a43565fade2&id=NBA%E7%BB%8F%E5%85%B8&type=yy
+咪咕24小时体育台,https://migu1.188766.xyz/?migutoken=16dd92c76f0893992d81be2bc51b66f5&id=%E5%92%AA%E5%92%9524%E5%B0%8F%E6%97%B6%E4%BD%93%E8%82%B2%E5%8F%B0&type=yy
+CETV-1,https://migu1.188766.xyz/?migutoken=e26c6a5fdcb22f86c851d677ca1c5c6f&id=CETV1&type=yy
+CETV-2,https://migu1.188766.xyz/?migutoken=9cc68fd760aeba94260d1d0517bdf199&id=CETV2&type=yy
+CETV-4,https://migu1.188766.xyz/?migutoken=d47d271ef8f5cae2e39c362b7a802c83&id=CETV4&type=yy
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,https://live.tvfix.org/live/fhzx/index.m3u8
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,https://live.tvfix.org/live/fhxg/index.m3u8
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CGTN英语,https://migu1.188766.xyz/?migutoken=b94076504926eb4f3877dcb446f87277&id=CGTN&type=yy
+CGTN记录,https://migu1.188766.xyz/?migutoken=c4dbb48184f09c74f0138827b907c920&id=CGTN%E5%A4%96%E8%AF%AD%E8%AE%B0%E5%BD%95&type=yy
+CGTN俄语,https://migu1.188766.xyz/?migutoken=aa57ae22e453308d7896510f1ba0c6e1&id=CGTN%E4%BF%84%E8%AF%AD&type=yy
+CGTN法语,https://migu1.188766.xyz/?migutoken=c8585998fd9945a243b6be078594c647&id=CGTN%E6%B3%95%E8%AF%AD&type=yy
+CGTN西语,https://migu1.188766.xyz/?migutoken=3f476d46958a0cc9d25e35478a99b269&id=CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD&type=yy
+CGTN阿语,https://migu1.188766.xyz/?migutoken=0394c5d2d9bd4a6ce9d99740a84e8743&id=CGTN%E9%98%BF%E6%8B%89%E4%BC%AF%E8%AF%AD&type=yy
+4K频道,#genre#
+北京IPTV4K,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887500.m3u8
+北京卫视4K,https://migu1.188766.xyz/?migutoken=db034c214c8fd6f04f9492e3e1848189&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85&type=bj
+咪咕体育-1,http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
+咪咕国际4K-2,http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+北京体育休闲-4K-HLG,http://home.kuaidi521.com:35455/bptv/10000100000000050000000004270524.m3u8
+北京体育休闲-4K,http://home.kuaidi521.com:35455/bptv/10000100000000050000000004270525.m3u8
 咪咕体育,#genre#
-赛事睛彩竞技,http://111.22.153.159:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-赛事睛彩篮球,http://111.22.153.159:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
-咪咕体育4K-1,http://111.22.153.159:35455/itv/3000000010000005180.m3u8?cdn=FifastbLive
-咪咕体育4K-2,http://111.22.153.159:35455/itv/3000000010000015686.m3u8?cdn=FifastbLive
-咪咕直播1,http://111.22.153.159:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
-咪咕直播2,http://111.22.153.159:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
-咪咕直播3,http://111.22.153.159:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
-咪咕直播4,http://111.22.153.159:35455/itv/3000000001000008001.m3u8?cdn=FifastbLive
-咪咕直播5,http://111.22.153.159:35455/itv/3000000001000008176.m3u8?cdn=FifastbLive
-咪咕直播6,http://111.22.153.159:35455/itv/3000000001000008379.m3u8?cdn=FifastbLive
-咪咕直播7,http://111.22.153.159:35455/itv/3000000001000010129.m3u8?cdn=FifastbLive
-咪咕直播8,http://111.22.153.159:35455/itv/3000000001000010948.m3u8?cdn=FifastbLive
-咪咕直播9,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-咪咕直播10,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-咪咕直播11,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-咪咕直播12,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-咪咕直播13,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-咪咕直播14,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-咪咕直播15,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-咪咕直播16,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-咪咕直播17,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-咪咕直播18,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-咪咕直播19,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-咪咕直播20,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-咪咕直播21,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-咪咕直播22,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-咪咕直播23,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-咪咕直播24,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-咪咕直播25,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-咪咕直播26,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-咪咕直播27,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-咪咕直播28,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-咪咕直播29,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-咪咕直播30,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-咪咕直播31,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-咪咕直播32,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-咪咕直播33,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-咪咕直播34,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-咪咕直播35,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-咪咕直播36,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-咪咕直播37,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-咪咕直播38,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-动画频道,#genre#
-卡酷少儿,http://112.46.105.20:8009/hls/69/index.m3u8
-北京卡酷,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1747569614&sign=5ab56420b553da6ad10853f9c6c08d2e
-金鹰卡通,http://112.46.105.20:8009/hls/67/index.m3u8
-优漫卡通,http://58.221.214.82:9901/tsfile/live/0008_2.m3u8
-哈哈炫动,http://60.29.124.66:6080/hls/62/index.m3u8
-嘉佳卡通,http://112.46.105.20:8009/hls/66/index.m3u8
-黑莓动画,http://111.22.153.159:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
-动漫秀场,http://36.129.204.117:9003//hls/67/index.m3u8
-新动漫,http://nas.hssvm.com:8888/udp/225.1.1.216:5002
-青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
-黑龙江少儿,http://39.134.182.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8
-甘肃少儿,https://hls.gstv.com.cn/49048r/922k96.m3u8
-宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-七龙珠,http://www.douzhicloud.site:35455/huya/11601966
-灌篮高手,http://43.138.0.72:35455/yy/1382735626
-哆啦A梦,http://www.douzhicloud.site:35455/huya/11601963
-猫和老鼠,http://www.douzhicloud.site:35455/huya/11352879
-蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
-喜羊羊与灰太狼,http://www.douzhicloud.site:35455/huya/23865080
-精灵宝可梦,http://www.douzhicloud.site:35455/huya/23749096
-航海王,http://www.douzhicloud.site:35455/huya/16913382
-名侦探柯南,http://www.douzhicloud.site:35455/huya/30080236
-中华小当家,http://www.douzhicloud.site:35455/huya/11342413
-电影频道,#genre#
-欧美大片,http://www.douzhicloud.site:35455/douyu/2793084
-邵氏影院,http://www.douzhicloud.site:35455/douyu/4246519
-斗鱼电影,http://www.douzhicloud.site:35455/douyu/6079455
-米虫影院,http://www.douzhicloud.site:35455/douyu/315457
-奶虫影院,http://www.douzhicloud.site:35455/douyu/263824
-冰冰影剧,http://www.douzhicloud.site:35455/douyu/74374
-斗鱼港剧,http://www.douzhicloud.site:35455/douyu/5061550
-周杰伦MV,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-神乐欧美影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-神乐华语影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
-周星驰电影,http://www.douzhicloud.site:35455/huya/11342412
-林正英电影,http://www.douzhicloud.site:35455/huya/11342421
-刘德华电影,http://www.douzhicloud.site:35455/huya/11342424
-古天乐电影,http://www.douzhicloud.site:35455/huya/29982675
-成龙电影,http://www.douzhicloud.site:35455/douyu/3379942
-李连杰电影,http://www.douzhicloud.site:35455/huya/11342390
-甄子丹电影,http://www.douzhicloud.site:35455/huya/11352935
-沈腾电影,http://www.douzhicloud.site:35455/huya/11601968
-黄渤电影,http://www.douzhicloud.site:35455/huya/11352876
-强森电影,http://www.douzhicloud.site:35455/huya/21059581
-王晶电影,http://www.douzhicloud.site:35455/huya/11602058
-金庸武侠,http://www.douzhicloud.site:35455/huya/11342435
-功夫电影,http://www.douzhicloud.site:35455/huya/11352941
-贺岁电影,http://www.douzhicloud.site:35455/huya/11601986
-狄仁杰电影,http://www.douzhicloud.site:35455/huya/30080229
-哈利波特电影,http://43.138.0.72:35455/yy/1382745105
-变形金刚合集,http://43.138.0.72:35455/yy/1382736803
-末日电影合集,http://43.138.0.72:35455/yy/1354889019
-宇宙科幻合集,http://www.douzhicloud.site:35455/huya/11342428
-电视剧频道,#genre#
-延禧攻略,http://www.douzhicloud.site:35455/huya/26355864
-琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
-新三国,http://www.douzhicloud.site:35455/huya/11352944
-新水浒传,http://www.douzhicloud.site:35455/huya/11342384
-新三国（斗鱼）,http://www.douzhicloud.site:35455/douyu/12180551
-少年包青天第一部,http://43.138.0.72:35455/yy/1356043677
-少年包青天第三部,http://43.138.0.72:35455/yy/1382736814
-神探狄仁杰第一部,http://www.douzhicloud.site:35455/huya/11352958
-神探狄仁杰第二部,http://43.138.0.72:35455/yy/1382851146
-神探狄仁杰第三部,http://www.douzhicloud.site:35455/huya/11342425
-爱情公寓,http://www.douzhicloud.site:35455/huya/11336726
-亮剑,http://www.douzhicloud.site:35455/huya/30080238
-雪豹,http://www.douzhicloud.site:35455/huya/29580970
-特种兵之火凤凰,http://www.douzhicloud.site:35455/huya/29982636
-士兵突击,http://www.douzhicloud.site:35455/huya/11342430
-笑傲江湖,http://www.douzhicloud.site:35455/huya/26355790
-神雕侠侣,http://www.douzhicloud.site:35455/huya/11352964
-天龙八部,http://www.douzhicloud.site:35455/huya/20985816
-倚天屠龙记,http://www.douzhicloud.site:35455/huya/11342403
-铁齿铜牙纪晓岚,http://www.douzhicloud.site:35455/huya/11342396
-康熙王朝,http://www.douzhicloud.site:35455/huya/11352940
-陈情令,http://www.douzhicloud.site:35455/huya/29465862
-庆余年,http://www.douzhicloud.site:35455/huya/11352960
-鬼吹灯之精绝古城,http://www.douzhicloud.site:35455/huya/11352871
-鬼吹灯之怒晴湘西,http://www.douzhicloud.site:35455/huya/11602075
-鬼吹灯之龙岭迷窟,http://www.douzhicloud.site:35455/huya/29465863
-鬼吹灯之云南虫谷,http://www.douzhicloud.site:35455/huya/11352898
-伪装者,http://43.138.0.72:35455/yy/1354936244
-西游记后传,http://43.138.0.72:35455/yy/1353392400
-隋唐英雄传,http://43.138.0.72:35455/yy/1352475619
-仙剑奇侠传,http://43.138.0.72:35455/yy/1382749903
-西游记续集,http://www.douzhicloud.site:35455/douyu/3113309
-我是特种兵之利刃出鞘,http://43.138.0.72:35455/yy/37999586
-狂飙,http://43.138.0.72:35455/yy/1355142167
-三国演义,http://www.douzhicloud.site:35455/huya/11602081
-西游记,http://www.douzhicloud.site:35455/huya/26355861
-新白娘子传奇,http://43.138.0.72:35455/yy/1354490667
-乌龙闯情关,http://www.douzhicloud.site:35455/huya/26355767
-柳舟计,http://www.douzhicloud.site:35455/huya/23860039
-与凤行,http://www.douzhicloud.site:35455/huya/26355866
-大秦赋,http://www.douzhicloud.site:35455/huya/23903130
-永夜星河,http://www.douzhicloud.site:35455/huya/23734169
-流水迢迢,http://www.douzhicloud.site:35455/huya/23865036
-唐诡之西行,http://www.douzhicloud.site:35455/huya/26355763
-玫瑰的故事,http://www.douzhicloud.site:35455/huya/23865142
-梦中的那片海,http://www.douzhicloud.site:35455/huya/26355765
-知否知否,http://43.138.0.72:35455/yy/21881901
-父母爱情,http://43.138.0.72:35455/yy/1354926650
-欢乐颂,http://43.138.0.72:35455/yy/1382735624
-鹊刀门,http://43.138.0.72:35455/yy/1355344777
-雪中悍刀行,http://43.138.0.72:35455/yy/1382660835
-康熙微服私访记,http://www.douzhicloud.site:35455/huya/11342418
-埋堆堆频道,#genre#
-楚汉骄雄,http://www.douzhicloud.site:35455/huya/29465854
-封神榜,http://www.douzhicloud.site:35455/huya/29465849
-西游记1,http://www.douzhicloud.site:35455/huya/23728660
-西游记2,http://www.douzhicloud.site:35455/huya/29465859
-活佛济公3,http://www.douzhicloud.site:35455/huya/23903123
-天龙八部,http://43.138.0.72:35455/yy/1351814644
-鹿鼎记,http://43.138.0.72:35455/yy/28265277
-寻秦记,http://www.douzhicloud.site:35455/huya/29465848
-大唐双龙传,http://www.douzhicloud.site:35455/huya/29465850
-神雕侠侣,http://www.douzhicloud.site:35455/huya/23865171
-射雕英雄传,http://www.douzhicloud.site:35455/huya/23824164
-倚天屠龙记,http://www.douzhicloud.site:35455/huya/23734246
-笑傲江湖,http://www.douzhicloud.site:35455/huya/23865142
-谈判专家,http://43.138.0.72:35455/yy/1382735560
-刑事侦缉档案,http://www.douzhicloud.site:35455/huya/29465856
-法政先锋,http://www.douzhicloud.site:35455/huya/23863804
-洗冤录,http://www.douzhicloud.site:35455/huya/29465851
-陀枪师姐,http://www.douzhicloud.site:35455/huya/29465857
-使徒行者,http://www.douzhicloud.site:35455/huya/23734256
-鉴证实录,http://www.douzhicloud.site:35455/huya/23903183
-金枝欲孽,http://www.douzhicloud.site:35455/huya/29465847
-扫黄先锋,http://www.douzhicloud.site:35455/huya/29465855
-创世纪,http://www.douzhicloud.site:35455/huya/29465852
-妙手仁心,http://www.douzhicloud.site:35455/huya/29465853
-大时代,http://www.douzhicloud.site:35455/huya/23865161
-野蛮亲家,http://www.douzhicloud.site:35455/huya/23863796
-笑看风云,http://www.douzhicloud.site:35455/huya/29465858
-点播电影,#genre#
-倩女幽魂妖魔道,http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8
-倩女幽魂人间道,http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8
-倩女幽魂道道道,http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8
-人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
-人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-人在囧途之港囧,https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-拆弹专家1,https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-拆弹专家2,https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
-寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
-让子弹飞,https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
-龙门飞甲,http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8
-☘️北京频道,#genre#
-BRTV纪实科教,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND
-BRTV卡酷少儿,http://drive.mxmy.net:8888/udp/239.3.1.189:8000
-BRTV新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
-BRTV影视,http://smjdenny.eu.org:35455/bptv/10000100000000050000000003887498.m3u8
-BRTV文艺,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
-BRTV财经,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND
-BRTV生活,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND
-BRTV体育休闲,http://smjdenny.eu.org:35455/bptv/10000100000000050000000003870779.m3u8
-BRTV国际频道,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND
-北京4K超清,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
-淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
-淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
-☘️上海频道,#genre#
-纪实人文,http://111.22.153.159:35455/itv/5000000004000010282.m3u8?cdn=bestzb
-哈哈炫动,http://111.22.153.159:35455/itv/5000000011000031123.m3u8?cdn=bestzb
-上海新闻,http://111.22.153.159:35455/itv/5000000011000031110.m3u8?cdn=bestzb
-东方财经,http://111.22.153.159:35455/itv/5000000007000010003.m3u8?cdn=bestzb
-第一财经,http://111.22.153.159:35455/itv/5000000010000027146.m3u8?cdn=bestzb
-东方影视,http://111.22.153.159:35455/itv/5000000010000032212.m3u8?cdn=bestzb
-五星体育,http://111.22.153.159:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-上海都市,http://111.22.153.159:35455/itv/5000000010000018926.m3u8?cdn=bestzb
-上海外语,http://111.22.153.159:35455/itv/2000000002000000001.m3u8?cdn=hnbblive
-上海教育,http://61.173.144.157:9901/tsfile/live/1007_1.m3u8
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-☘️浙江频道,#genre#
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-文成新闻综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-☘️湖南频道,#genre#
-金鹰纪实,http://tvbox6.icu/tv/mgtv.php?id=316
-金鹰卡通,http://tvbox6.icu/tv/mgtv.php?id=287
-茶友频道,http://drive.mxmy.net:8888/udp/239.3.1.165:8001
-快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
-湖南爱晚,http://tvbox6.icu/tv/mgtv.php?id=261
-湖南视剧,http://tvbox6.icu/tv/mgtv.php?id=484
-湖南电影,http://tvbox6.icu/tv/mgtv.php?id=221
-湖南都市,http://tvbox6.icu/tv/mgtv.php?id=346
-湖南国际,http://tvbox6.icu/tv/mgtv.php?id=229
-湖南经视,http://tvbox6.icu/tv/mgtv.php?id=280
-湖南娱乐,http://tvbox6.icu/tv/mgtv.php?id=344
-湖南教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
-长沙新闻,http://tvbox6.icu/tv/mgtv.php?id=269
-长沙政法,http://tvbox6.icu/tv/mgtv.php?id=254
-长沙女性,http://tvbox6.icu/tv/mgtv.php?id=230
-☘️四川频道,#genre#
-四川新闻,http://wouu.net:9977/udp/239.93.0.47:5140
-峨眉电影,http://wouu.net:9977/udp/239.93.1.54:5140
-四川影视文艺,http://wouu.net:9977/udp/239.93.0.166:5140
-四川经济,http://wouu.net:9977/udp/239.93.1.101:5140
-四川文化旅游,http://wouu.net:9977/udp/239.93.1.102:5140
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-四川公共乡村,http://wouu.net:9977/udp/239.93.0.52:5140
-四川妇女儿童,http://wouu.net:9977/udp/239.93.0.219:5140
-龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-乐山新闻综合,http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
-乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
-利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
-剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
-万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
-叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
-广元综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
-广元公共,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8
-广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
-德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
-德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
-旺苍新闻综合,http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
-沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
-沙湾融媒,http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
-金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
-金川乡村,http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
-青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8
-青川综合,http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
-雅安新闻综合,https://play.yunxya.com/channellive/xinwen.m3u8
-长宁综合,http://cnpull.sccnfb.com:80/live/123456.m3u8
-荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
-绵阳科技,http://livepull.myntv.cn:80/rtmp/mykj.m3u8
-绵阳综合,http://119.6.59.216:60033/tsfile/live/1007_1.m3u8?key=txiptv
-筠连综合,http://live.dameijunlian.cn:80/live1/live1.m3u8
-甘孜综合,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
-石棉综合,rtmp://tv.yunxya.com:1937/channellive/shimian
-汉源综合,http://live.hyxrmt.com:85/live/xwpd.m3u8
-攀枝花新闻综合,http://live.pzhkai.com/xwzhtl/sd/live.m3u8
-昭化综合,http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8
-朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
-☘️辽宁频道,#genre#
-辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
-辽宁影视,http://dassby.qqff.top:99/live/辽宁影视剧/index.m3u8
-辽宁青少,http://dassby.qqff.top:99/live/辽宁教育青少/index.m3u8
-辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
-辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
-辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
-☘️广东频道,#genre#
-广东卫视,http://218.13.14.6:60050/tsfile/live/1017_1.m3u8
-广东珠江,http://218.13.14.6:60050/tsfile/live/1018_1.m3u8
-广东新闻,http://218.13.14.6:60050/tsfile/live/1019_1.m3u8
-广东公共,http://218.13.14.6:60050/tsfile/live/1020_1.m3u8
-广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8
-广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
-广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
-广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
-南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
-☘️江苏频道,#genre#
-江苏新闻,http://20240504.shunyue1809.com:6321/udp/239.49.8.120:8000
-江苏城市,https://stream1.freetv.fun/675206b8446ce719bfb293b5a5296db3aa26521c9810de7c996838247cc56964.ctv
-江苏综艺,https://stream1.freetv.fun/f8ef469943662bed2abc6609d9ef1720b9e93a8a0bd6f5789133461e36763f37.m3u8
-江苏影视,https://stream1.freetv.fun/a89dd489fa013bc4f36bcc4afe388f1783e2251c276e2566a9359d68a61c6d91.ctv
-江苏教育,https://stream1.freetv.fun/7174b4fd66ddb2a7456b7040105dc27a1e57c166593870bb773cb5f6b4546c54.ctv
-江苏体育休闲,https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
-苏州新闻综合,https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-苏州社会经济,https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-苏州文化生活,https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-苏州生活资讯,https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
-☘️河南频道,#genre#
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-武术世界,http://www.lizhinas.top:1009/rtp/239.252.220.180:5140
-文物宝库,http://www.lizhinas.top:1009/rtp/239.252.220.158:5140
-梨园频道,http://www.lizhinas.top:1009/rtp/239.252.220.179:5140
-河南新闻,http://www.cdnstv.com:6398/hls/1114/index.m3u8
-河南都市,http://www.lwfz.fun:8800/rtp/239.16.20.164:11640
-河南民生,http://www.lwfz.fun:8800/rtp/239.16.20.165:11650
-河南乡村,http://www.cdnstv.com:6398/hls/1116/index.m3u8
-河南戏曲,http://www.cdnstv.com:6398/hls/1119/index.m3u8
-河南法治,http://www.cdnstv.com:6398/hls/1112/index.m3u8
-河南电视剧,http://www.cdnstv.com:6398/hls/1113/index.m3u8
-收藏天下,http://www.cdnstv.com:6398/hls/1118/index.m3u8
-中华功夫,http://www.cdnstv.com:6398/hls/1120/index.m3u
-河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
-河南都市,http://1.94.31.214/php/hntv.php?id=hnds
-河南法治,http://1.94.31.214/php/hntv.php?id=hmfz
-河南新闻,http://1.94.31.214/php/hntv.php?id=hnxw
-河南公共,http://1.94.31.214/php/hntv.php?id=hngg
-河南乡村,http://1.94.31.214/php/hntv.php?id=hnxc
-河南国际,http://1.94.31.214/php/hntv.php?id=hngj
-河南梨园,http://1.94.31.214/php/hntv.php?id=hnly
-文物宝库,http://1.94.31.214/php/hntv.php?id=wwbk
-武术世界,http://1.94.31.214/php/hntv.php?id=wspd
-睛彩中原,http://1.94.31.214/php/hntv.php?id=jczy
-移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
-象视界,http://1.94.31.214/php/hntv.php?id=xsj
-☘️河北频道,#genre#
-河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3d44740039027301acf8341d7361ab59
-河北经济,http://1.94.31.214/php/hebei.php?id=jjsh
-河北都市,http://1.94.31.214/php/hebei.php?id=hbds
-河北影视,http://1.94.31.214/php/hebei.php?id=hbys
-河北少儿,http://1.94.31.214/php/hebei.php?id=sekj
-河北公共,http://1.94.31.214/php/hebei.php?id=hbgg
-河北农民,http://1.94.31.214/php/hebei.php?id=nmpd
-河北睛彩,http://vip.lqcc.xyz:15511/rtp/239.254.200.27:6000
-河北杂技,http://vip.lqcc.xyz:15511/rtp/239.254.201.139:7203
-邢台综合,http://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
-邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-石家庄新闻综合,http://nn.7x9d.cn/石家庄.php?id=4
-石家庄城市服务,http://nn.7x9d.cn/石家庄.php?id=5
-石家庄文化娱乐,http://nn.7x9d.cn/石家庄.php?id=6
-邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
-邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
-鹿泉二套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
-昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-☘️安徽频道,#genre#
-安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
-安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-☘️湖北频道,#genre#
-湖北综合,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
-湖北影视,http://58.48.37.158:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北教育,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
-湖北生活,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
-湖北公共新闻,http://58.48.37.158:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北经视,http://58.48.37.158:1111/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北垄上,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNL%2Be1h4FfA5QqwJ7IPOz3p2qIS7djSxm17Htd%2FckZkm%2FVqsKHEJFJt26ju9iibzMEo
-武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8
-武汉科技生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8
-武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8
-武汉文体,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-武汉外语,http://stream.appwuhan.com/6tzb/sd/live.m3u8
-江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
-☘️黑龙江频道,#genre#
-黑龙江新闻法治,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
-黑龙江公共农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225994/index.m3u8
-黑龙江文体,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-黑龙江都市,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
-黑龙江少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
-黑龙江影视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
-哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8?zheild
-哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
-哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
-哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
-七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
-七台河民生社教,http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
-☘️内蒙古频道,#genre#
-内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
-内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
-内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
-内蒙文体,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
-内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
-蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880
-蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800
-呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-包头新闻综合,https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800
-鄂尔多斯新闻,https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800
-巴彦淖尔新闻,https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800
-赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
-乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
-地方频道,#genre#
-黄河电视台,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-山西经济与科技,http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
-山西影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
-山西社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
-山西文体生活,http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
-宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
-宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
-宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
-宁夏文旅,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
-甘肃公共应急,https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
-甘肃都市,https://hls.gstv.com.cn/49048r/l54391.m3u8
-甘肃少儿,https://hls.gstv.com.cn/49048r/922k96.m3u8
-甘肃文化影视,https://hls.gstv.com.cn/49048r/w1l6d5.m3u8
-海南新闻,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
-海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
-海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
-海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
-赣州新闻,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
-赣州新闻综合,http://play-live-hls.jxtvcn.com.cn/live/tv_ganzhou.m3u8
-赣州公共,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
-赣州教育,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
-春晚频道,#genre#
-1983年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-1984年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-1985年春晚,http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-1986年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-1987年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-1988年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-1989年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-1992年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-1993年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-1994年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-1995年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-1996年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-1997年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-1998年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-1999年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-2000年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-2001年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-2002年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-2003年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-2004年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-2005年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-2006年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-2007年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-2008年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-2009年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-2010年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-2011年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-2012年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-2013年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-2014年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-2015年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-2016年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-2017年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-2018年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-2019年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-2020年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-2021年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-2022年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-2023年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-2024年春晚,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
-2025年春晚,https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
-2025年春晚 4K,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
-国际频道,#genre#
-BBC,http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
-Fox LiveNow,https://jmp2.uk/sam-USBA300024TN.m3u8
-CBC News,https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
-ABC News Live,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-NBC News Now,https://jmp2.uk/sam-GBBB1500004LG.m3u8
-Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Bloomberg Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-RT News（英语国际）,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-RT Español（西语）,https://rt-esp.rttv.com/dvr/rtesp/playlist_4500Kb.m3u8
-RT Français（法语）,https://rt-fra.rttv.com/dvr/rtfrance/playlist_4500Kb.m3u8
-RT Arabic（阿语）,https://rt-arb.rttv.com/dvr/rtarab/playlist_4500Kb.m3u8
-RT DE（德语）,https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
-RT Balkan （塞尔维亚语）,https://rt-srb.rttv.com/dvr/rtbalkan/playlist_4500Kb.m3u8
-RT Documentary（英语纪录）,https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-RT Doc-Русский（俄语纪录）,https://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
-SKY,http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-KBS world,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-FIFA+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-TBS,http://143.244.60.30/TBS/index.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-&Flix HD,http://89.187.177.137:8081/&FLIX/index.m3u8
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Wild Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-Pop,http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+5月21日03:00_英超联赛_水晶宫 vs 狼队_刘焕,https://migu1.188766.xyz/play?migutoken=4b242d540748ae2da3b29bbe8f898793&id=IRjqlwP0jhZyUO1I%2B6mTqJVrhjRdO%2BLPY2wdKb0hg%2Fuoe5KlV68vygQQjU4wDqSE7CakGtQWvce%2F74AbEleGA30Lt5RHZQWDPAYst2ziaFMRF0d5I6sbiiVzlQxHYJ2MMUpIrEP2rSaylWdHmtWyRqo6Hy0Qlk3E%2Bzh9f6MTT50Ilz1FkgprexvpGfzSwv5x%2Fu28PSF83f2IU1ANhPG%2FZg%3D%3D&name=3Cu6VPuYzz7W6BXp4kw4YfCE%2B3iWvNUMoH1v7vRnfTM%2F%2Bw%2F8vKorNNLZkx7WROuovqyjCp3QVk9bqx9YiRmCiS5bOR3dzhPy3XRNa6lsDMo%3D
+5月21日03:00_英超联赛_水晶宫 vs 狼队_刘焕,https://migu1.188766.xyz/play?migutoken=cf009677bc84450380ec36bc92357ff5&id=O2F5Zrva8QusJDbWpnrhLowssD6cQ6tJCmQDbdSJ6d%2FF5Ec2vfZw9DxeYtZsxUuzUSfHnQbyV2NEKRbrtGz2zJF7%2BYeHz0NXVwA4v6NwCJWMG4S0VitZBeElbOwPtJXQs7dkKLQN%2FcGOsJKaJoPSE8eabnruBJChAsi44xI6ZSk7f9nYjF3K8opZCQ%2BB7rvF7HUAXlXj55dhJJPmJ1%2BPVw%3D%3D&name=i1FKe3BaTdiGc0aR5v0xzzX%2BqWgecgtJzEJgYHOJy09zMe9Rp3eAJE1Le1yzbBhKRlG%2BXDhtXQ3SZjlCVC6cbfW4aAg9lQCCDo9IIq1YWAE%3D
+5月21日03:00_英超联赛_曼城 vs 伯恩茅斯_刘畅 颜强,https://migu1.188766.xyz/play?migutoken=9902b7538215933d8e65c0654a1a5abc&id=E7RxQuEtFTscKJUJJD4ltrpdnU%2B7%2Brjaby1%2B9fALkdvju4TZ7SN45zT8tlNkmMda2zDLKHcOaKdpTTvy%2BZHOK0bqc7cij1XJYIgt%2BjgSwWUKF%2B0Hs64xuq4RdjRGu1fNeJGvS431mo%2B7GXrvynZAdnXEadR7T7g5vdpXev6D48c9OyqDAF7ihTbPy%2BIX4xhvQp8u4puP1KINkr%2FL7E0XAw%3D%3D&name=T6aQUAyAMIny19i0TEPV2gMsghs4ZzydObAXtTNIkKJ1Y1uv9O5QAAcfPQnq03cr5VN4f%2F%2FiYLFVyg%2BAo1UUDttvH6817U5Zd7kr%2FC3Q7B1wioFmDKOdLmX7ANL7EfI5
+5月21日08:30_NBA季后赛_森林狼VS雷霆_蔡凯臣 李根 马健,https://migu1.188766.xyz/play?migutoken=b3b2b67428e13ff0590c71d54ecbff54&id=JE7bbrmzymFDawh4ySxvqpGkTGi3G6L%2FphqYnZ0kwdX4QCPxqFsjUv4bCa0TO6r%2Fff3P530%2FxYGsYOgYs2%2FLBNl%2F0xHj8HwZltuDPHXexQfTAI4JmymQtcgo%2B9jPHKE54fWKCPbYn1T1rHuVvgD1liWccc7gnny9eE%2BU8DruMhjnEnsSIjaMD2nc%2ByngKM2KpMYTVBzFrkcwqoMZ292VcQ%3D%3D&name=5uNHjbzILzIwzShsAwBNi5rTe0PlGzfvkhPX9iqJOlWcfBfwVqKMMoK2EexxGu%2FtiLCnkdpbTxdCean09MOL7wSaV0%2F%2BQGAaY1l9xJTmedt1cpDnYBdK9fjaxGJ7jbE6
+5月21日08:30_NBA季后赛_森林狼VS雷霆_邢晨,https://migu1.188766.xyz/play?migutoken=c5dbc6a32980f2b6473cd9e95c0a5da7&id=2bGTT6PRmBvtg54qDOPG96C01CMaJ2Xk4Ni6o2buI%2BasuY%2FvwTJhR6iGs8hU%2FroJV5lPef1AWdQomgMrUKZSHGCaV5Ga8mzBnEH%2BsfneiWASTatT1KvK77DW72GqM1c1KgdCIccCN0cxSo4s5HaL4OBjVQ%2BwTc%2BP9LHt6aiqFcR%2BATV1sHPittxmdOdepRhIxXvvvjf3YS3XDp3toGbocg%3D%3D&name=6McEil2s7TnUQWAHrgCFN7%2FpIKKd9XjR4sipwqGhffmyzxwJKS3l%2BMKQoVWjbyW7FibW8geXuEbfjdUCHeU3bXuCg7C5tlNLiVCk6H37rRs%3D
+5月21日08:30_NBA季后赛_森林狼VS雷霆_罗森,https://migu1.188766.xyz/play?migutoken=073f41baf9781c7c78c3e56400c149c4&id=%2Femoiyj7dD6NtUTRYLJXe0VCRrOEawYXO%2F%2BWecVT6vr6e8tJK%2Bs5p%2BOwGZjWpupdh0dKvJllmbmysxOuJ35qGO5wI8mCMy%2FVkfTV9Nrb3p3hMTRE6PeOzpb09hqD4X%2FWGX9zGmLRehBU%2FvVuRWfOpyFEyVrrrnsgHgrM5z2ulM7rBd2mYHrpV%2Bp25TV34HhRe07E%2FHB%2BcyoqIdRpgsVKdA%3D%3D&name=x5zKfr2MN%2BOvaRkiD3SR9QoEwitOkC1ySruJArmGTdnU7U1cHkeopMggZY4bslDY3h69T1h2jrCKxBl%2BTc4vbv8%2FK98%2BNjnXmP%2Bom1%2BkhAY%3D
+5月21日08:30_NBA季后赛_森林狼VS雷霆_英文原声,https://migu1.188766.xyz/play?migutoken=b7139e4bcd87b5013295013df6f27820&id=xPhvNz4qo%2FozGrKi7Ekmsyh%2BjPLbGb6s3j%2BEcd0YlXTqejS805d%2Bt3lHx8HpMEQZyP9lbQTNiboSFBnHwu%2FyCC1kObtzWgw9FC8hPndzhGV%2F81ALMCos4gO9opxYbK1zo3dAG9AFbpHjWnGWgtzoiciytPhx1qQwy9Yz1lYFXCNNLwY5PhB54IasC%2BYUUAZlSMPZrDIFeJ4F2xED%2BdMI5A%3D%3D&name=b3x8svwrdajBG6WiAKzGC%2FKWiNsqA0q1qpFlxiW%2FyTJHky1vW2D55YOvSHoZGu%2B9dOGrBQO8UM7NdSZ5M60nGXGVLYhqFGxkmrzLlx4gwK8%3D
+5月21日08:30_NBA季后赛_森林狼VS雷霆_VIP前排视角,https://migu1.188766.xyz/play?migutoken=2db954f0d8cdf4a11befc84e0dc72588&id=E%2Fgh6MEGxtKpR%2B1JOstUpq%2BhUfrZ%2FUleHVsVeciUovQgDNZ3mR1S%2F%2Fn6w52dBwq6Qls6iD310f9e8CJE2%2BEJZoIKqdHLF5iwyEv5xAC97SsQemAjLtG8A24FMWSgpCAaL0uBiepkPAqZj%2BCjh0JNWaHuZsma1NWd2MbFq2UT3xAIsMqfoEIcjeOKjSSfrM8C%2FTotYm72rE%2FLWntIJNZdoQ%3D%3D&name=xvNwoFcUGUKHZZG4vKkf7cd3OvA9OCA39w8QpSW5LKOdA5lFDDJRLwvN3DsYA7LLfOeR7sK4EQFZa1R%2Fd0ejKqaelhJvYEPsOhBvwmYjJl8%3D
+5月21日08:30_NBA季后赛_森林狼VS雷霆_球场十倍镜,https://migu1.188766.xyz/play?migutoken=56151fd4662821b2a77cdc0b684fbd78&id=vdFDSDblefcOO%2BmEhZvo%2BdYG%2Bh5k44tMx21wF7O0SX%2BtncGtyzGdS%2BQ%2FClUXYf1LczNDcjzR3EaNehnV6sWmBgrqkS4t2CG5eGfpVvuElLSyBdk62bCZ1H5Nb1Px6c5jSkYbPm%2FXvBg2Ik3sH6HJxiyiNjhxJxpOyupSX5%2BDheZVFFpqtgjfwYbE6kjacMogV7HDo8JKj%2BKqtmytnp%2FimA%3D%3D&name=wQJIvhklDUaBZn43ig9womE5tden2oPbsGHuGPnv4%2BplAayE94etJhZ3UotlGoNe1oT4%2BO8B1DBcBV77d1gdCPLn9VAy3zOdIuTON8Pcd%2Bs%3D
+5月21日08:50_UFC精英之路第四季第一比赛日称重仪式_RTU首轮第1比赛日称重：李凯文领衔中国军团_陈瑞阳,https://migu1.188766.xyz/play?migutoken=3770de4ab99ec3276f412607f882af74&id=BHhvKyB5q%2FdjW7iIhnowJSLPBGYFH1%2Bijr9W3sSBfeB%2BIEJFBQMg75l7e7dQ2oYMHqzyoLR7TU2USwMytpzywCKlDP3hxEYwHD%2B53am8OFtL2iN2Zq%2B53Eex8ARhWtmKRASDoI0IHwCHkEyT0UT1svEB9T31AhkddLxRr6spzzRgKYYh%2BnrWyPAKtYx0Z3dWGnuIoJOyxcXjSruCra7h7g%3D%3D&name=FbIZ89Uz1Rd2wholMjfHx05QCKXiT6nk6CKaj5i6rUWMJ8n%2FwLiuhhD6iRHJPRPwchG%2F2INrYBi2Jq02f%2B3m8mEjTlgxw3lEDQOZl0lDpFtDCVV1kKzjwNN1mQvyIaRUf%2FsB8l9H%2FfdrhUAtmIGNwNOuDMdvjSvf1UM1tpfuOX0%2B0lhyeycsLrAcqlMJLmk%2BlEuvywxPTzULNz%2BRBcl8jw%3D%3D
+5月21日09:00_2025全国游泳冠军赛：女子100米自由泳、男子200米蛙泳等_张雨霏、覃海洋、徐嘉余领衔出战_现场解说,https://migu1.188766.xyz/play?migutoken=0accf4d6ad47d27b99253f29d432119f&id=c5KsqfrQaqZ6Yeiweeucu4eg6LNYzYmsI7JaMot1RxzZhCwk3XrVRkigvhB2iURUdwN1sL5zJ2koB7cjp7fFl9%2F4po6%2Fn5Daa%2F0S1cHUGh78ddwJzN7k66bDyzaQxCLfjLQKBZbrFnDA%2BqxgyTfEM2lR1ZXXsZpMNVoJz4TBXFtdpKpPiK2gaFl824Yq8uPUobBhqAhMeck3DlV4ro6iwA%3D%3D&name=qJbwAizROxCLV6j3FPfcSXkRwGaLvulEOCQHMtvJW%2FfVqB5CpuTw990f%2BgMF2utd0ZphLkGpkuIXhGISrgR25tU7jZ%2BLE4GVqclIGBsFXDmd4ZbKFFxLiuU7fhp%2FH769sU4ucjm%2FfTKxgaXY0IC26WKUxvui4781HU88cY4ziF7rCItOLY3fDK%2Fg3DqHA2w0mqoxTD%2BzYURtHSxW8gZRtV%2BU3%2FZFrRFecXA9Ph%2FyK1I%3D
+5月21日09:00_2025全国游泳冠军赛：女子100米自由泳、男子200米蛙泳等_张雨霏、覃海洋、徐嘉余领衔出战_赛场原声,https://migu1.188766.xyz/play?migutoken=64ab656d899427d73300c9f4b29b19dc&id=b4Ko4ekAlCEISzXghqjYOu5cN5Qz27xHWT8Gtl7sFoJy6YHq0a8yALubCTMYPXmkLuB0sSgrUWDCM%2Fg8mUWkCaY1DxDOo7wWtGDe9TLmNur4vhn96pLG4LUEqK2MhuE6QIde1xXADT9SEe1ez82K5rde6c0KmFQS3guZSogHvL3ReJI3A7JyylXNLdAxFI1zp8JaxqYO3SotJ7poCSF7Jw%3D%3D&name=4oY5WWC0bE1toHXT6n62k%2Fkg3wHWyRQJYDd2GMkc1URDu%2BXrfaZLi3V4hELTPFciJ8mHY452EnnzoPbDLjz30STAC%2F6FTlKWAg2gb9O36%2F78DHHe2NXdVnUBI0%2FFiom3H6ZJKZdQiHmwS6eGwS3sWJqMWGv9fWapB8SduikB111%2BFp2hNpQaU9lfD7gy4Ud7kHCMQDB4H88qEkWDIiSoOZh8LDfqJH%2BWIzeGxWpdQrs%3D
+5月21日15:00_足协杯第三轮比赛_深圳青年人 vs 大连英博_张天翼,https://migu1.188766.xyz/play?migutoken=0c780a07f5c7a77f10ed793fdcf2635f&id=IvPuTUJqPwK8L8CJzvG1VoIXPVDZg7ojigfvWKG9aHfRfCu%2BECfE2szvOWqqgtA%2F0%2FhqMYGUb%2FUI1UJ8S4c0a2PRj5wT%2BEvTC8FC9GuewdfrE%2FakpmlDBRyY%2FmYIX2uvplKh43c1%2FdwBFNkeV33sMq570e89dW7PRDt9rnJGx9BIysjyHH1L4Vc7Fja5LCXaQ9DiQ%2FSAiQIX59eKfOG07g%3D%3D&name=IjumXLInluLJHpW6etGPW9riL2PLifOb5pc138Y%2B1s7bX9EHYeNWLtXzqsManc%2BDXFM5va%2FiuwvGrSuY9jFcBfh7kWbj2HEjOmOFhgqRb4xqNDhZ%2B%2ByBfbhFChxDPpA6ct8LjlTeFyu5aGWFmtx5uA%3D%3D
+5月21日15:00_足协杯第三轮比赛_延边龙鼎 vs 青岛西海岸_清流播出,https://migu1.188766.xyz/play?migutoken=9f0cfa2dae646df37ba582e2e0841307&id=9Qr%2FGmtRRHCfwJO%2B7%2FGfVoY4cdW32ghtDtbP0ftl8%2F1Vcfpr%2FuqHfu1D1iAbWibvKzs2f592RtHM%2BFdTtYfqluc%2F1ghICkWOn3r7bUmDjwgUpTcj8nPU0hMOYYcgnfy9nLiz94u%2Fnm9cgxpUKq79IkGSOtPndeyXgJMAcyY8ZZMJIdmNVjM%2FhL7da%2Bghk%2FdCmf0Cc4ecK7PhkByMF7sW1Q%3D%3D&name=tCtLgIGDUIIkh7PI3sULT4QUGSXJkN7o2jHIu8leMz9U%2BN4aWoMQHP3qCFyXQQDLMqoE9dB9K8i4q%2Fo9059b%2BrZZAJYuFwiPbt3F8V7iyIkkWvG0uSd%2Fg7hdKZqyLOSUGGf%2BLqmkXzJ14LPUg2dPJw%3D%3D
+5月21日15:00_全国体操锦标赛：单项决赛_单项决赛_综合信号,https://migu1.188766.xyz/play?migutoken=79b72e5affbab80da0bc14c7b65d6026&id=aiK0rnY24AYlxH%2FoErBK3l3%2FDbcMyKKlCPICOOnkRp3%2BYj6O41DL23dJZjiz7f8QlQLQ4O3eZA%2BdDhn6hsGlFpHDBHAR5We6pdHKee6wCZ15ay4D5HVoueRJzy9dCXZak55cnC2aj1CGK6ZS%2F6PRvc6VBIjmj4u8cB9QK0Y7lZ8s6%2FVvJT18%2BuqE%2FNHcS0Kyzhs4rTctWStNCwhzAXKZ2Q%3D%3D&name=Ia40JezvqzwVGYjPBg4kfjQenKLpsbL9O0r6HjrT5E8uiPrkYF9i4QKc8Bz81HbkRJlIx18C4na7Fep4LWPJUEbIZrM3t19OIpe%2F%2FDDhsQ88d9tLRSJb%2Fy0gum98UCZJ
+5月21日15:00_全国体操锦标赛：单项决赛_单项决赛_明星机位,https://migu1.188766.xyz/play?migutoken=af02ea260592ae8e1cb6b39a42e24bcc&id=djrKJ0odBM6nAdr6j%2BwBM4rubpcX4fTVUhi2Iu5EsnWGhHr1ACLzt5RxXhdob%2BX4xsQVt%2F1CXOd1Ke8yRJFUMgyZrcxrtrsjRqsxTJ0qWIKn8iiZazQ752N6X%2FBogiTJF4CRrxg%2BBbk15mojqaZ%2BhnoxRdhY%2F1OYfGA%2BtyqZ2zjBIFE%2Fm1NqGxrAsMOHjPY72zDXqJZ7Ac%2FjYgR6aG1TAw%3D%3D&name=yiq%2F7DnV5ZjnrXIv4rsgKfMTTd4lZuK9DPWxj1hM6wM0ymxHhKtD6RdOsE%2F1nSqsmGwNHc7AzL4IgxfqSId49rdm9L1c25ZpZz9HpT2IvrZCjJ8GSNG5Qnxqw7s7LJqj
+5月21日15:30_足协杯第三轮比赛_定南赣联 vs 云南玉昆_清流播出,https://migu1.188766.xyz/play?migutoken=e2abcd1ee0d1a6f467fb100f779bce0d&id=eU4%2FL80r74MNH6zh9K9wQ4v%2BFBLqqZ3%2FGDH35760KuBtNQDACjbfcYBMfcX%2BiCIfvrkGYp2ED%2BH%2B803QvKObeG0bZixr9Ct%2FQbgS%2FI1LozCIZoXPdl2dE4BhoEjp8OIGcLAerxay1lj3%2FDtokF2%2B6LZS43Ya5qicioeofjOvX3y0IR%2BbdP4Sgm5XHR4T17A5HKyjJ1DPUMGGnUZqROPfYA%3D%3D&name=YtwYHoCfgT18s%2B%2BGyBQc4cK6HsK5tuP1BTe1xEb8UEGGVEpAcz%2BipKwitv80GBVjwOM2uvExwwqfbfdvN0FdqpvTkx%2Beww9yvoqjwmVPC%2Fr013aKh093B6yKW6TT4KaMlVWyGHbu150jHUAIxBQ%2Fxw%3D%3D
+5月21日15:30_足协杯第三轮比赛_无锡吴钩 vs 上海申花_涂远,https://migu1.188766.xyz/play?migutoken=8b17cf6f637158130acf38603dc0fc93&id=vG7mf5b3pG6EpUEd9LQNXHWXg6A0GUhMkoTJSYrbgupPf4umfkoNmMcJRFDMlv9Yhmw7x1IOCIPZBBvbHu1aoT1enACSRBAvX3Dwo75%2FPsiXBj7OZEr3yZ1P3%2BCPr0UAYLP5YPEuVlGk01nO2JzmqrvV0HA%2B17vISJLri16BLiBXdvgjF%2FJ1Tal8yEiWPRz6Um5Ieybxx0qz1Iep4fryRg%3D%3D&name=LeYBOud%2BU7HV8HAukPMWgHZqmOY%2B39m00qS3IYvHwk4Bd7QrQVBMVN13R9O2dTPWESNu7h%2F%2FJBrFZSwc4MTH6C%2BBGxnkQm%2BNdurojlciVM3LbNGCa9lvV64ArrSUbXd0
+5月21日16:00_多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混双1/4决赛、男女双打1/8决赛及单打1/16决赛_周雨 程靖淇 周冠达 小马哥,https://migu1.188766.xyz/play?migutoken=3b0a1545d879effe780bd425c044e4a5&id=nxittkNzELFWUSUxuVc%2BYG1wrKyrCxhXXBwJ5OeherYvzNcBZMGXLPTwJWTwL3LNzq9KkQ60xXzxiNEf32L3bDNRy9Kx6MfyKGS3g81TOxq6vdD%2FnOiqRVE5DirPiP5%2B%2Fy%2F9SCNbslmjHxdu%2BPbkOxLzWbhmjIKGqyua3mkWvpayJuqhXRl6f9p45QaM5g0OXfnDDM3rPPu0aSP4cqKPdQ%3D%3D&name=5zKXXwQ7xgrm1np7dhunFQVJb1uJ64w%2FSLXZoXpucHRr574gy5CpfJ6EEJILucBoNm9ZrYVDA3coheB2uSGCMdDYj%2BZVNbmtAWHNvM2gM1ktdNklfMOgdyaj7tTcJyvxc7xMZA5ZGZlAJX26FLOhia4P%2Bb8sWMG3mQNuNP0kZtjmLQskEkUUrbSKrkjt4C5Zpfjw6Exp0hw0pXIdrbz8BjDTGWGkmzAV3YxRUVQURGySex1NPSs%2BS9vXJSKGbAG14bSTm%2Brw5FgxSCEaH0AU9w%3D%3D
+5月21日16:00_多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混双1/4决赛、男女双打1/8决赛及单打1/16决赛_周冠达 程靖淇,https://migu1.188766.xyz/play?migutoken=2cde42c5fd31ab536bf0922f47f40751&id=vdgZA9MYO5HCADUNlSocq2zGfgqO8CdaIeizn0EALxO2oZp6k0XDPk8ClH8SyTCalVWzGRa3KL3KoKJIs09qeuJfISPNXAhO4DZ3V%2BVttcyGOL0KpPl91eweBZtashSQwJAH7p1wv%2BcWblblqDsI5UbDmYogJcDTKB1mnrYncL6szcDZ717UBkv1BGP8sEa8HCJh1%2FV4bTzadeMeYAdDhg%3D%3D&name=ac%2FaY9%2BHO%2BlZBXHk0683%2FFJtbvVAoIX%2BvwjzI0FHe42e03%2BnsQGlkvcO8J3ASWJ5OuhFjk%2FbMqZqpYy2PGA53FVDJ0Anp%2BJkChspaJKsxr0KnJxZeCtfLTw5FpF13yI%2BiHOQuSodkuPNvubAfsALJvuEyBsUV9lInXClxL6Dt3on%2B4sTmOkR3C1sWCckJLnbFKuKOEAnRpvGR14Es8kDh2zT6ybKAJE13%2B9RpbBwl5hGTOLk2uurKhTZ%2BPhFnwyb
+5月21日16:00_多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混双1/4决赛、男女双打1/8决赛及单打1/16决赛_小马哥 周雨,https://migu1.188766.xyz/play?migutoken=05d4470a84c0003a5c3624a04fa50b01&id=vZVdNiyWCkKgfV6mEnfzAEAS3YhGfIZ7c8bNguaHOOdgwg0c%2B2WMYCw8kAg5HkAdhnXnZTmP9L6tDIIun2mOwlFtAKMq2XVxpN7aSVYbFboYwT0EbDT%2Bchx%2BB0gt4um85TEOesgtd8U4D%2BVH4fFh2VGe9vXw4inUTw5ocQQMxVhJhEl77%2F9f5AyPaIBIL6xK%2FboSW3oZHWS1LhSubWJLlw%3D%3D&name=tpuY618hSXt3DkQZK7XOZ4FhUy6em0KNQM%2FL18jlc%2F9%2FWINgVQRunZ%2BAiK4Iv3E8tpziRTXxwqeWbtaYVjs959Iam9Pf43ni5LsCfmzdIdRS%2FXGk4HChylMeSATHeCU0P1thSI7jJ%2Ft%2Bim9bqs3zkWtd3v2deU2fmu6M0Qi3JzzpvWqqmQvyWq62EpmyrnQ4nLwSsa9nmD2O5E1V7nTKw8QTvOLPmny2BdzxXZKblXMQSlqk7eObwjXyRQ09VW97
+5月21日16:00_多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混双1/4决赛、男女双打1/8决赛及单打1/16决赛_训练馆,https://migu1.188766.xyz/play?migutoken=d2bc7ee90588b189d2e70e6be53c2726&id=Ae3C0IfuZrbW1lQpJK9Hx0AIbSdvl%2F2gjNkdngenXhqi1NFfL%2BrEYmhdlyC3dZDoD%2BngJE92rkZxxUaS2e6cyZj%2F4w7uqeSu7hNSmziI%2FH%2BlzeYvjpVDfdvGk%2FSijujPvT4bIuUdP3K%2BYFkSXC4y%2B8UKXBID83EFTeWBjtKkj3XIP5b458PzVahDw6Y4MMgdlu%2FtqAlfnbs0znzJX3PhVg%3D%3D&name=pHwyo3nVgOor0Uahfg9rerDO81ceylrGuZ6h88I0WlkWXadL%2FI1gCJ%2FmEH3372YviEARJbKCxJnLdazDcTQq6rTSxl0PgG%2BThGN5iLqa0Mr0PN6ZJ0hl1w2H5CUmWw6JWDaXjltFzqKmmT5s3nv%2FTFv0kWaKW2IwYexDxpKOhvP6J3cdDGC%2F%2F8s4KPO2tidcWlAxIkRbMJILS1xU7VGs4HOK5nHf4YZji5hvPCxHVAnxu1lSDDI2pEI%2BX9T1VqT0
+5月21日16:00_多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混双1/4决赛、男女双打1/8决赛及单打1/16决赛_候场区,https://migu1.188766.xyz/play?migutoken=6de48df48bb044b904b545ad99be4f1b&id=FTgoRlFHFrM0V169kAyjeSThCS%2FDzvZ0Ho9cNmfB7SyKw0SgY41dBEdjgQPIJbXfNTZa3GsI8dezjqAjjZsyli9%2F9j9vovJsHEJQK3P1KlDfM7J1ciwt63jmzFhIQJhZ7tfTWmVUP0WtoCnjpO60MyzFpoxzBxiWWc68ciZKMdiL%2Fo%2BtzY%2FjCpTrmhl%2BKjZzSsUE7P1bMVHMPkk47jqfWA%3D%3D&name=KG4qv%2BN%2BNj4YduuMeMRFVIwxuoJ0AVphljGbsCPllQhwvAQUbqSy%2BZjxUL9lBN0J6zUXiECdI8hZUFXvM%2F49Jo63ixLzAPXILKSw%2B0BmVX5XPNVZZ%2BPHaRQ4Laa1yvt%2FM76x6%2FQTHoN0%2FVaQjT0knGvNxYeG%2Ft1180NKOe9%2FdMs1k1Q%2BBNGxosv%2BKMvGcEM0q2gCyrAei6avp3HV7r5%2B5H1dGQI5NjGZf%2F1soJ7ejbON9EGYB4LSp02ZCRjAse4%2F
+5月21日16:00_多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混采区,https://migu1.188766.xyz/play?migutoken=4b0bacf03ad6af6f9928183f3c53e7f8&id=hJJ0JXzthAPq2lOErGGMCsd08BO2MVYXGg7xbwNC27MY%2BbpNnGm%2ByQESDX58JPV9yB8gDviLiHT%2BFL5kTW2XLFzBMSiyed3sOQeJaSBwYxflUeom5VtXseLakNI8OFkKnYZVXXm9a0Cs88dc8KubNOeTnCSD2%2Fhw5rl18aS809UnBShhOMX5ne2UIg96JO7dxtN2omN2pNfvrrp5U6MhhQ%3D%3D&name=Pa5OVjKPVCdzqtRYeQ6jkYtWflWXNkFJErwiU40DN0TxLJxHmaGiT5n0jbXsDfTS3lDQLLnIiP%2BrYyXg0aUgI6SnPrEHLQgS4H2GDnDZ%2BOHo3iBBiFB6b1thQBh%2BLPQCmAsOVGHZcyHtmfDtlm6b6EHkTU9AVw%2BYvsCyemOtMIMEvlg76FsS77kHIng0amCFPf5rnE5apVsvGdkVu%2BKDhxLEM4Y3KL1wpVVwodM7kQCzyKgfqnFQYeey2GiJgF9s
+5月21日16:00_多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混双1/4决赛、男女双打1/8决赛及单打1/16决赛_1号桌,https://migu1.188766.xyz/play?migutoken=fb240810135fe727bf204f323fb1e21c&id=PnOyHrEXbCtQMFhqzpOPwKW2NGAv2w7DKl6CxBZeKMIeDdbS%2FZATfDzAL%2FE5o5yOM%2FoGuuHhSAOdTVyoghcX99y5D71SzidBH024jJXI1nMfduKeUl7X3dghoItHddm4GOz0tEe7CTElhqFyp5eRskb%2FVjtMIs4vWWbh%2Bf5FWz7pbXVCMT8F%2Bo3RxTfKNXf2wdTggpZLeCBpaa2LKF6ulw%3D%3D&name=EGc%2B5Ad2d6SRMqW%2B6zrvLvRK4srGIdcSf8yZSAeotP3xDPt8K%2FH6jszVOHr0%2BiMU%2BTt5Fv7YGyMLvFz%2BxPESl4%2Fhxkn6jssXNtgWWwXZ2f8VLXlcn6lE4PK5YLoKVe8yjs%2FVgKttvbuWYF8c4iV7xltCcvgBh5NUKartl4Xre2WkFxsUxnCCEwrCg43tEU4%2FPhKQsncxgIEcsPuMHVx26CHYRs2CvHzON63xucvhFcA%3D
+5月21日16:00_多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混双1/4决赛、男女双打1/8决赛及单打1/16决赛_2号桌,https://migu1.188766.xyz/play?migutoken=9a86bfe3faf8dd781d990373d5022a94&id=35WQaTB1%2BgJZPyKkkhdD0JhWxQV457USn3q1nF3OvrBOm34eB%2FFKGJU89qGfDstqG%2BXD5HqxdLuME0X0CIU4HnALnHaD0EvKpm1H7nYetLT6Go3XA3ZIzuzqq1OyCA5TVbVPWDIw4NEi45pKrHnjJDrnw9aNa9xhWExXR1Ua4sv%2BWwRQV3gejd8t9Afexjw%2BoqLM4sDLtb4%2B%2BzgOs6auww%3D%3D&name=ZzbcpBgtnmHK6yQVT%2F278RemUhXj629J%2F02CJsBvwbxSYznaoxRwT0YCgSiUkAMqOsJomEFPS%2By%2Fdb%2B6OPmizAYIGqglj%2FYNONLm1OzoLWltq11Qr7kCOxfwlPXUcq3qP38FjNTNIsXmc1%2BHUE7dnOWPHLj5Kzy7P9CDuSmg7tGJDRAvNoEw%2BAWk09CM2fa4FH8yCbVrp3A4r26Tk32Kp%2BW8gXUmNQoKVTMrQS7CUjc%3D
+5月21日16:00_多哈世乒赛：混双1/4决赛、男女双打1/8决赛及单打1/16决赛_混双1/4决赛、男女双打1/8决赛及单打1/16决赛_1号桌英文解说,https://migu1.188766.xyz/play?migutoken=64caff541414cb3c6bfadb94cde6a423&id=vW3NQoqkWnDHYFAdCpodJi0RYkGOJpNJV%2FWjA28Nrp5TmZgDKoWx7ZztGlZu7VGg9vEGiJhB8tmC%2BGrnqkw3Ilw1b6EuNH9q6hVWEtJmAsyKKtHXIJsq2GOCu2cbvj%2FqWntyr0xLwu29NBjx0IxIT9HAKuvoL1Ex46bfyWe2v0iFPE18qcfG0ipklBCirTDrV8Yi8nYAQCGKvZ40OnZ2%2Bw%3D%3D&name=qiDC0YAOswRqTUvcxKujZI%2FvsdWm15QLeI0Z8%2BwPyyTKt1Ag80Osg04KgYe4UDzeqiYf9PCl%2BObZjOz5HPJQ19ZajGTfQsYR5Qdt77bJ4TRtZnlxXnOZUYEDtJ1xUuxsJdoPLc6gIuKUrtlZVM0tx0yh1XfO3ErC2d1PtmSxgoecIooqnm%2BYNJFL4g44N6%2FTUp0BhSg1FV7HclKwTknbXbf%2BpNRcEPKNZuewUkMxWXXLrZ46%2Fq0A2c7SkefN6aXI
+5月21日16:00_斯诺克欧洲Q_School第一站第一轮_陈志春、廖予生冲击职业资格_1号桌,https://migu1.188766.xyz/play?migutoken=abaab868ed7ac477ccdce5f041e11a30&id=%2Bijdxa4lZ8Ms5FebTJpu5prQQyh5W72ermPk3xPGa8Hc8LpM8uwdLuYk%2FaCuJ6WIW%2FCpiiw85%2BdRZ7y9al2moDZrp%2FjJhPpDkVLFf%2BsZDpvDeNvY%2BCTWlrf5%2FYqSJNuKSzRWuzynLXJIWzX2eXvzcjICSyYq4uDGGvU8RJ6pwkkptE3d2Sv0WWXVJQvPt17B2zbQgoGSJHNOwfro2%2BQ3YQ%3D%3D&name=h52q%2BkX%2FBPegAoMBMRrOOww%2BG17kFzyMA%2F0M4XKxi1Pdt4vvN0SEPI07ilvfAcUB4BMk%2FQM11WJ7b%2BWFX8ErkRwDyLe2zBueEtvlDJtuXdbBei1bEhfNwcoZL5nWXX5W4DYKeySKzwvBLA6aKjOPuX0O%2F%2FICFVb1LzUHw74u4A8%3D
+5月21日16:00_斯诺克欧洲Q_School第一站第一轮_陈志春、廖予生冲击职业资格_2号桌,https://migu1.188766.xyz/play?migutoken=fe21419571283d3ca3578451e0b3a9bc&id=Udir4V6ChISp5Ki0u%2FAFgOwVkLTbBpPwtwKClzfp4av7ZSA984kP60vALGXQqCN%2B%2F8v9xEj5hZ%2BOhfvKplLcxIu0jrHfnpj0bQC6VwwlV928WjrXhaYm66Kfy4f1kLuo7jJ6FGnMSQv9ZHcS%2FOOQaaxOEJ3z%2B%2BonZbJonxFE7uTfQidOCsXLhTY1rsEse5Upq96ubpJs8jy3G1WzeepHOw%3D%3D&name=FgFop5UaXjGwGyVIz3hbP5293lgKRbz5DKA4g4cjX1ZeWh5QiYuILcssTnu9DKX9EI%2FYXr%2FPs%2BNewuc02rk3ir5El5oJ6DIXiAz26q7nVv8X3WckvjX2AWdOIWGJUZtuz5v6aF4XbmOjAbgkdoadJoairX4L9lGqdFWnpLOgOcM%3D
+5月21日16:00_斯诺克欧洲Q_School第一站第一轮_陈志春、廖予生冲击职业资格_3号桌,https://migu1.188766.xyz/play?migutoken=bfb37dd49324446af537ac63f07781b4&id=WeyYriA6pottjh%2F5LWtELByT%2BQBEIrpnH20d%2BPq4pwKst4sNvM7lQJE4PJ3LYEAdLGty5RLTeXgt5xUKxxG6RY7%2FEXi4QgFCrqty1suy8UDbxkQy9QTFYl6vYdcM3T%2FWDkImCAdui6gHi7WAs3hCSEh39uGMswa6RRQD%2BYELJABooAu6lILVyrKaK9ThwM9bDY4XoGc2Ew0kZVJ5VcDhow%3D%3D&name=l3Cdwc%2F97Vx4iV0vVopGyFt569W%2FPa0dMmxCnr%2BVcu8ZZ1dUUQHthDlWqohZ4G0IBPIiQxfXuA99qJIa8GJ%2BW5XEMQLbpbKnpwsvXPlDRNl7RLZ7jthULR865IBF2icI%2FICgPlS0f98q9HxsRbt%2FWI1d5A4KMg9nOfYyOQ4FLIU%3D
+5月21日16:00_斯诺克欧洲Q_School第一站第一轮_陈志春、廖予生冲击职业资格_4号桌,https://migu1.188766.xyz/play?migutoken=3cda889ebbbd3d84556a99cc33b387ae&id=3GiRLBH%2BLRnax189ihtSY3psHRFFkIkoVFx0grOTTZVtsvrLzQl7XbuM8tKBYTSiM3g6XuKje%2FHtX4qaI7et2YQTq0gB9WZqjl0ICXijar06GNakoJrIhvwl8mF1G0nZbQCUGIZ%2FAlH%2Bu3bVRxuBR5TMP%2BlGDKBnkOBU%2BUs4HTyfECPxicRotJ%2F5yfScj6cVnbPyZ7UqGQdZOtOyusTH8w%3D%3D&name=YUJii8uG%2FvXfCCc4e5%2BjTxeOWqF9FjQjZKg5Z42HxPBEMd0AZbLZ9BRa1EOMeJNubiQ%2FsddLABKhNE3EtAD5jHvzoOa3%2F5YYzE32sBJBRR49tgIESljqLuGK%2FVkqLc7UabLhth8QOFnAF0GEKSn%2BY1gA3y1oMOysyrw3uAiEkdU%3D
+5月21日16:00_斯诺克欧洲Q_School第一站第一轮_陈志春、廖予生冲击职业资格_5号桌,https://migu1.188766.xyz/play?migutoken=e3403ebd6c9d05f49becc91e50e806dd&id=4JPNFFXULBBs8rC64C4cXIYtEPraIFqoxV%2BRkDPi1eVttZZKm%2BmjtoDwP9xyp%2FMOjRqPmP%2FXfC9PyQK7tRhn%2BhE6qI0ParF4%2FFhpyTYkhQR8ceSI68ErZQDjWTEm6vQqGQpxrrZyWpOqVmTyBneoSsHKhLn45ckD55Fr00gMpNvWG7wrXl9DxScMc5%2BoN7tegiJTTQnSJ%2Fqs36jdD8enQQ%3D%3D&name=TuZCfM8s4ET8CM1IFfLOCr0zPnQxy3JJUFpOhyt6cYXDv0SZOL2kOCsrSTiJv%2BaAWQ2vaOM1pXsJQA63lX%2Bnt6Aupxi7njP8tOxfPfLGCe%2FJMYveevqLrAtRAA2Piv3jrN%2B%2FHKZw1ke9AHnjG01r4XmEGBLQIvh5EGUi0jHumbg%3D
+5月21日16:00_斯诺克欧洲Q_School第一站第一轮_陈志春、廖予生冲击职业资格_6号桌,https://migu1.188766.xyz/play?migutoken=4abcd02f647cf292aa271c33c70d415a&id=DkyUpDonGRtd9nBSEd5E3UXUNk2VtWzrNmpORCxUh%2FpIsaPtWyuAkyJPLDKHKmFkMPVFIZ%2B2o3qVICtXDE%2B1zCoe7ZtlvNhmkQ3AF609VPC%2FDOQeg4PirwuE4kkXj6qcpvnOtFVowPanj2l1WyK1RIWrUQGOVPsS%2FTlW9FWIVr%2BuF5s0gPlKlwoeNJNPeUdTd8FIIYz%2FwyW2SanSz1rSog%3D%3D&name=aAbVX2Y%2BYB9%2BxgOB3pJ51aaKYoWc9MaEmaoG9FuaMCbzwHqsTpDWmhJf%2BOWsbZETkC3UGVqlXUn56GsA0sSwQ3TKSFoac28XVYWmo2Hk3HXLcID8NhacmpryVQBmjLwSqt8dGCjFwEniW5elznpAVdBRejB6%2BfJuguE9F0wTc1g%3D
+5月21日16:00_斯诺克欧洲Q_School第一站第一轮_陈志春、廖予生冲击职业资格_7号桌,https://migu1.188766.xyz/play?migutoken=d41c5c8a95ef70a8c19ab88a3c363dd7&id=Uwwk2YNYWLEzTWeKGm9LpwfCALN9gMTsEebXAoBNLklaKq5RTxf5icNVl70j7sF3Kqpks6mwU0LhXG62Bi%2BiDoNHY5L2rPn4mpY0Ohtch52bDG6szaEA7E0yihNs7H6ayCRsYXyKXuedTFzFK2lQ6%2Fn0v9xKqcPgXzeJN7Pd%2FGq8G3aBqGYFkvPQU%2BHNuMJCoU5Zws0mmtScDS10chSNcQ%3D%3D&name=LlGbfHAaKD5nf%2Bq8tskhomYnC591jKWwtPH7JUT%2BiulQNyQwgLqHyOb64s%2FgVmA0ReKKTcgfvir91V7P4SeW%2FYYbCO86zTk70ALoorxeWVaLdnBpgsa6amOfMOZBf5H4l2%2BiWaXOfn9YM7AU%2BeWfBvtSs98k4ZGnKSv%2BLCHWvxE%3D
+5月21日16:00_斯诺克欧洲Q_School第一站第一轮_陈志春、廖予生冲击职业资格_8号桌,https://migu1.188766.xyz/play?migutoken=d3888179e3b704f0e8a9a64bd738a106&id=hgTzy5AHVU6vl042Oxa2ghMUCYm95bA3RLhLaKdmQTU57DGAipSScWyoOgVKgfkfcM4p8B8cvnk0AR5wNRBCHyn43W6ZToFg34bPPkxW%2FtDgT8xFt98i6KnO0ImdRq5QmUdADPVHKpq1r1UluRsl3Fp366Zt6CRAbDC16AcF%2Fj0mi3ePQ2UEvaW%2FXXCgz6oxGqJgGHNguCsjnoaYoFUcRA%3D%3D&name=h9RCAABBTfBnHBty5n0g9PGHOxvuz3fG5rqnfdULND8QkUAABG1rcnKJxdjJXc1LTOPNGD17gZjIzvXFJ7WuucPpvBvrqsgV%2F6D87qYJKmUxoOCwLhc8b5Bxrus76neRTjrXeoRuGGYtcGmafXRANbC1JmYDg237ZTi9tZuq%2FxA%3D
+5月21日16:30_JDG vs AL_JDG vs AL_官方解说,https://migu1.188766.xyz/play?migutoken=14da755cc7693198e4af99b5d8723aa1&id=PZmm65QdXnV63C5AqMNn%2BUHuc6gnxhy9%2Fu0nl%2BsstSLKRki%2BEITmhBZI2pCHFijm0mjnUQMqZfz3WUagYI01DSNf7wSRnj9lt3Y7BkrRUFCtqHCbqORYEJAGDUpoUXf0%2ByvpDfBvLoJeFVwgEjxIqa8%2F24vZcPdnSgMgJ1v8CRKXOMX87cF2Azx%2BUiSycTwMXY1ddkO7QXXBwywpvFJeGw%3D%3D&name=7fr1Ab2KcfNh6pQ2MXEruUWGGWYG7SqaqlaryL1pv4eTgZL%2FGC%2BnuRK6rslTFiVNgmECfPen0600G%2BrTaHm%2BAA%3D%3D
+5月21日17:00_足协杯第三轮比赛_广东广州豹 vs 深圳新鹏城_鹿中原,https://migu1.188766.xyz/play?migutoken=77f0e37976bde6c3f6daa3c5cf1e1bfd&id=4KpQW5Wl6SUX%2BB%2B83qRMXrAp82XZdG%2BrA%2FggPX%2Fr83H%2FW8vx5fOjKP1Jx2r%2BVl7FVPMojShjPio8Dqy9N1Yg1ZlFMZD8EEGBNgWfWL80GminEP6EIzUFXUF8vxABiUP9XWTQsGxVzmk6QlWucwZepqgiu10gVMdQAJGONCI5D5ioj5fU67uC8jkibmDhw086GpT66MM77ka63pr8GdKjEA%3D%3D&name=mwu9BJTaxyLcMrrfhCEtT9mfT1sk1F3nn0V0e4Mbp70Uav0%2FxVjlJaqG337MseOonQhgjNnCk5u5jtLp3lp7Tyh3vHQ6xzoqCuvEB7K49DB3kbjllXHg8W048A3Gyb39HejRWYHPEhT9qxmxKgS7yA%3D%3D
+5月21日17:00_WTA斯特拉斯堡站第五日：纳瓦罗、佩古拉领衔出战_纳瓦罗、佩古拉领衔出战_赛场原声,https://migu1.188766.xyz/play?migutoken=a38d00b8bf7fdec9fb08dfc1e8590d21&id=zzK7TGXlUwr88WcSZgaNCsp9kBm0iSwNnZXOgwzjRfcqL5sJ8TztDX9IZvoLh7L4yRdlzaxfzTNZ2AjxJAauCr6xn3fBLFdMufBk6QkIQ6Hn%2BKRl%2B%2Bqq%2BYIv%2ByQKt4GbKkx%2F64BrfQU7fu7xWploBKiWgtqtNn087oLcoRSOd5j5iq3oJEUuHvyc1Velk3CFQbZO7OnEDzWgHs7qNf%2BUgA%3D%3D&name=MXiTo9qaApmo5S%2BXcrGiODehFAnBRgWJEJpFOvmPScVRDyyWNK4TS%2B5TteTbSXP%2F5BdHKuSzstty6ZoJvQlK6JCBmTcpg5qe7BE59ug2rJQdksyayzBX3oshzSdhWNfHuS18z4Z8YOdy59KS%2FVHCm8dlFWKw5OYdFLmycHU%2BsaxXS0by6hzu2iDA%2FKrCaRthsWnyhJujBoQhqvVVEuDMOQ%3D%3D
+5月21日18:00_WTA拉巴特站第二轮_WTA拉巴特站第二轮_赛场原声,https://migu1.188766.xyz/play?migutoken=e10a40c4dbef28127a04b1d860c8b5ae&id=d81UJ2y%2F0o7A40PyYzFlayrXH8PtkW0mlXV4YrABwzRdGxOEMQbU4ile7EvBr6gKNiJ8L%2B5GGnhBtffVjHMDT4baiYIo9aMbvKPxTgaHr9CSTOWYALMhGKWyG8Joq3Qa99Z8ZD85Ulv9oZVCi6YQWp7BPs5%2BtEqcJUV7CRrls%2FNt50E1vk1%2Bl7eXEkbgB0r5bcFejjbkFr4UJRAxxHRxtw%3D%3D&name=5fBfMjBTPp%2FOmlwsiho5eHvrAeESppIyuX7zkCl%2BBGU4pYjZq82CgzholZBcjVnQlUjPuVE4eFXC47yJo9V6lP5m4XLqbjt8UfRaPpsIyLYhUbMpgwZqjyo2ODU2oV7v
+5月21日19:00_足协杯第三轮比赛_辽宁铁人 vs 青岛海牛_鲁靖明,https://migu1.188766.xyz/play?migutoken=97f22ad1b41640791136774d2eb4d505&id=FLftctr5K%2F2FS42If27t%2Bot6Nk%2BjME0AQJeBdlrHtciSmVKiTIZc3Jj%2FHo%2B5YMeVVeEyOC%2FqJnAKs96YzZ11z1%2BmxE90r1vvlaKTthDnKlW7tuMKr3bnu40RU9Gd4sufx7jVNBsP4wybGQzAKA135UPGaPVXEk%2BHc6nW%2BiZGwOW7P5nni0upRNmR%2BONR073wZPjL4atjloat3vLUhNsIGA%3D%3D&name=bOLvBpHwsFrer6HGHuisFYTC8nadbbrTizEBzlkrVeVUc7Ypujt1oWUVlPum8UzJQolUnj9h8VtfF%2FZAy76caNMwR75mlbQPrOIpMeGXlLBIzZQjqLtebnYoOSrkGXsJ
+5月21日19:00_足协杯第三轮比赛_大连鲲城 vs 长春亚泰_清流播出,https://migu1.188766.xyz/play?migutoken=98679243ce6157348541a7b76c80a480&id=UKuNkViQvIpmxAsra%2Fq5Wuc8fOU5nN5tge9eQIHoZ%2BpJPAtKhtGxBIowlmkve0atUu0ZkA8vh62cX1n3plEfPOT0MtAvhJXmNLtpvp96qoGSQ6dd6ldVA97iEOMoi1HFeYTEyX6H1h1bqNVe48RyX%2BwiT3JCm858WBvim3%2FGLnuzlaN3czU1tiDaNOFxV6ihdGpLAJxBxq1LSLUWJgjxGQ%3D%3D&name=%2FrvUnlJNdUqAuvTN5Ltl7ta7zAJJ9B38ttNmeHbtILcBYJEYDS4vh12scJh91o1SWdwsvXD5vsvY7Y5%2FDde5dFMHKYXBfomo6Ts%2BWyvWwZjOrTl16n4eEodAi2%2Fng%2Brcgx7UZEig7TT2sl6m%2F85Thw%3D%3D
+5月21日19:30_足协杯第三轮比赛_苏州东吴 vs 上海海港_孙雨轩,https://migu1.188766.xyz/play?migutoken=45673160561633dea0772e5fa2aecaa2&id=DUIDlmczzeGX1MVrjP3CvpnNM1nZwlSySjiMKOUkKMd95cqEamtOhayWh3W5lAPl5ocCPkvBMWcXmyuZjJYNGmL1dh9g18PumrXHrmw432%2FJEgaxTqK91aWlkq2QghbJr5Wcs%2Fbju8rYk0Y2iwmbWDeYKU6ury3l4EidLpX1FFdqA%2FeIZcpaQF%2BB2NLySmgOcYcflw%2BBJubT%2FRBBJV0Rgw%3D%3D&name=G97qoZl%2FgRazLNo%2Fgs4Jt5o4Yvpmjwbh9x2FEQWNwNr9yqyQJsNkJoqfxqA%2FEV2ydHhvSnu%2BzM3Ogq58EBL76%2BQY9V%2FbipaE7jgesMWtoatdhhAioUjadwqw9gFfubLe
+5月21日19:30_足协杯第三轮比赛_重庆铜梁龙 vs 河南_刘畅,https://migu1.188766.xyz/play?migutoken=f6c23ec28d5961cc31127d3e10d7831c&id=jlBWWAOC90S2ecbQXnSNVgd2JY2rm8DWKGZ5RPHilh9FObTjyEsyAqJz43eews9hlZY86tDCRFpQZxmJecTYlTBHHX2IdwUofUEjSRbfSMWesTL%2F4LawUEB%2FFBZMHu7ccY6K5%2BD1PtfVBamhXngy2GUCI6u5PM36ZEcKHsOq3ZsGuPox2V1oiU4HxphZBwwonk7R0G%2Fe0mfjatzbKI2sCw%3D%3D&name=NZEehj9%2FN1Av29nEosRlstFwWzU9W8QbWSA4CNvp3VIaKi4%2Fb1Yuz8NlHnzWj0mqHGlcew6TPnnf96XoH50MH7aFO6gnqMHVDz83jmdV%2FoE29Xq%2FYsGsMutGB9yrEwkp
+5月21日19:30_足协杯第三轮比赛_青岛红狮 vs 山东泰山_石庆圣,https://migu1.188766.xyz/play?migutoken=8bbb6337d2b3bc3bde727e409a47378a&id=i5l6DHMZFSRDFmWuP9E7cyM3FlvHHnBn%2FZ418kbDuKsDtp8qZzNmWGjRlQGQE70XLSNsx7rwg31H5z%2BB98wNEfy95iWYw1VHEEOEFtghtIZmeqNwN929VQiyAmBUPxbuKv3DYg1WlxnWUmzgk%2FlUhX%2FQjupAic8nxpybBl%2FZkdb0%2BkziPsfo%2BhSOQ8p%2F7szVydnBVI74LgTcD5hInbSmSw%3D%3D&name=a2%2Bv3NNZ6Z%2BM1G44LHKLKxdxRPJzXv7C4wLxyvLlSo1ZAXEHyrVCcLbNhPJDHPJjYQb0t6RkvWtUGLHhTqIdIgeMXM%2Bnlm7ZBJJrIukNMywrlOOIh8jeYy%2BXkbAOewMt
+5月21日19:30_足协杯第三轮比赛_石家庄功夫 vs 北京国安_梁祥宇,https://migu1.188766.xyz/play?migutoken=2c6d9fdf7fb4c03a073dd709a17ef77d&id=eL4rrbxxHw9UBKzq%2FejmGX9d0WUyzRw4vm1aSiAOZyz3wf0COXKyH8fH3lFgD0mNXTTXIlsuey4yEMelqO%2Fp6aVzEcFetxn32sF7qHKKJr1RDnIWqss0F87dBGnXFwErdh28jVZXVeePJ6zygfrjeMmS0BCcFl9hnkr5ygKhlKYvJqVYwRqOnnjl6SC0i7%2BBD0iwN8NzhCmGahdE11CYBw%3D%3D&name=p4ZEfgqdaJwfDvTCtRojjC0qH6DTxWlh534YjkkooFZsg2va7%2BJ9JK6iPh8ucO1Idp5gxjD%2BF464Jf6fMGNcWH0G1PoQBJ5Ib7YdGrTVuiLOtzYvCudj7hxwl8UFJ4njSdxU6KXyf3E%2F2CX%2B3BB2Kw%3D%3D
+5月21日19:30_足协杯第三轮比赛_广西平果 vs 成都蓉城_袁甲,https://migu1.188766.xyz/play?migutoken=f080b33ccb1ab0d7a02c4420cdf6728b&id=kF3Ua80LmyzBkSLLqhWgOmtEqAwRevimG2q9xqUNHeSOPhbUQd4PZur0Fd3B7GyHXqnTS951txJnn2x9QUiIbtryG9xUyMKef%2Fddn86XWAPijKhOILndWn5D5fwyFLsXLdOdhth0QjbmJgPSM%2BEZlaEwJCWn5QX%2BcQTLfB9p%2BIV2fJugpt%2FYtxjSSawWSejhPsl8m%2FYlXR8J9nXneKAxEg%3D%3D&name=kpCIil%2BsDEWKejFhH%2BxGpLNIboyP%2BQsP3SdEcYKN6anlJSZUG8PjBJQFx99JTTQemZgd7V%2FBEkcJawE4SB%2Fs6GQ8BpJ5QG%2FxD8pvOgcSJMxkKf5OeJKm8whOC9XhGOYm
+5月21日20:00_IG vs BLG_IG vs BLG_官方解说,https://migu1.188766.xyz/play?migutoken=465fac1c8befd6d5be214015a72a9167&id=9X9jXSqH4bl8IzrnTALfSKuj60AQoGpr3YlIAimEvQQoW7VBINFK8Dj2SajH3nxrGhNH8mbiqlJp8%2B2eBwPCJ5FiQcS9bp265%2FOiDiJPbAPgFeaGWYC3%2FxW6YJw4NnrgDpE2NfwXz76Or5o7tGuQtcj0c1ElLIitE0ohdbwEU3k1E%2Ff6qAto%2FyyWC572Ul0E5bRXkjerBbdfTGd%2Fm4Xt2g%3D%3D&name=jvZ3syH2rc%2FT6A%2B9u0Y0uM5pNNgJtAL8uBYn1cNQkjeRxJWA%2FNxDGoDxymNaXo2PrYlMtVKzk9%2BjaWU17dtgLw%3D%3D
+5月21日20:00_足协杯第三轮比赛_贵州筑城竞技 vs 天津津门虎_清流播出,https://migu1.188766.xyz/play?migutoken=f926dd4bd642153a27b61f88b1ea45ef&id=m%2B4YrJRrE8zDIF04nrT5tXBmMNgFJTf5mrc%2F17GEjiLOppUaqOEQUeNUi1NGc5GU3OMphTjRp9ZMxMqcngONLM17mIpH8E9T22EWVdtr7qleg6ZqeatPtfw1Ef67f2PcmBWWe0UDgwkz%2BSqyBF29aQgLnpcwYFNx0JcRPUATzo2ppMTU2aYucD2ZMI4my%2F1m2BSxgmJscqJmN5cYqzZWUg%3D%3D&name=DwMMdZx8N9dvsZW2zfAmYzCgjSTig1qJqo8qzjd4kD8T8lTGcmEJNAcNxUWEdbY7Hyi4JH7e%2B63zwpOqoKB7IEUipC1c%2Fsak7n8Zum%2B%2FZa5SfICQ4983d0K%2BnVQbmm3zLLTThQTUYZXfjf67xNlKxg%3D%3D
+5月21日22:30_多哈世乒赛：男女双打1/8决赛及单打1/16决赛_男女双打1/8决赛及单打1/16决赛_周雨 程靖淇 周冠达 小马哥,https://migu1.188766.xyz/play?migutoken=f5d37c6d475026157dd780127dcc64cd&id=ZZLfPnS0Akgqb1P0Lzk1ZmPldEqDsZN%2Fc%2FmGyoLoduBkXGuDYElFGjjjVz2YNIrMUN16%2B%2BL09A0kpFWyiH%2FD4VAoX%2FM6RIuX1Oc0RWpxouulCNBObAHu5TtUJrnZlvK9VpbMwk2L5bOtdZbcHsQJKqKi1pmwSA3suKZKPt1RhJoS5FdOzyaSbC2YdW4tcM1RBHfqnMfww%2FyOVjeWrBZTfA%3D%3D&name=1gfcjkNgaoe3JfOwgmIdMB74XygtCLAAAvTKpjzDmbC7TgFOQ51M1i0pdo4gJcJjYnOa%2FhTCo4rvlYPwiOFkMu9lhh23QkH2KSz8r4tOnmL8pjwXdnR2eP6RO1s%2BxiTo%2BaRe9E9jwxO%2F1%2Bll3tsQbZAErG0Zbf3MDt7F5R9N0SqdED2rw0sYYyqKbXhK1ZWbyC47ftsVrigzQgWIhB7BQEsL5Mb82obBHTSe0a%2F9Drk%3D
+5月21日22:30_多哈世乒赛：男女双打1/8决赛及单打1/16决赛_男女双打1/8决赛及单打1/16决赛_侯英超,https://migu1.188766.xyz/play?migutoken=b8ef0a25cff8e0903c87a492385c28d2&id=Rh5SCMR4tE79rsU3%2FVYx%2BAx%2FbVUDcLInUHSUwhclIk9pGVA3Bhwph%2BHT2anjYzaMA%2F%2FEHfJDi4RB6R0F0ikPZYHk40iFskCup3fNXar5URd2L49CwwZy%2FsV%2FQiuR%2BtCCqwa6h8tRrU%2BUi%2BWn3%2B%2FWbFN9UaVddruI6Ch4xYKMnN0S5JWoWw7N2U3ywsKapcaNf1mMy%2Bxz53qqnGb%2FsxRcEg%3D%3D&name=Qpq0rvawc0FwQxg8VGZJl2g7T8HEcyT1ydXLmUSrxlStWSs%2Bysi90mdd5yd%2BEXCHfvprYgjammOvK%2BIwcj3LC94316S2saGkc19%2B5m%2BtJ1A3gvnZgvIka7MZz7Ia2EJDBCuAeDiR99lbVuV6dCWRUkjJtfKcuXldJwNprj4xfi%2F0Kn9hJhxbYAbYKiql6YoS
+5月21日22:30_多哈世乒赛：男女双打1/8决赛及单打1/16决赛_男女双打1/8决赛及单打1/16决赛_杨硕,https://migu1.188766.xyz/play?migutoken=7e402317803fb13ff6e7d5cb07ea5c39&id=s%2BtmJSOqwySdV%2FKIZ7puOENNnoHyufqgbpg2atMm8fkX3d6B82tMzdrtN6WnN8RhogfR8D49B2V7wq3pgT0IcBH20kH4E0Kixc4PMdMO7gjmB7UvmgDnacG929I6gRubNpO6B78a56FUQoE2%2FZOJrLM664rVZuIXTsOkoJuiJc6rjp2LpwDJ30eLYoWmyxO3Kp0osvEEbKJ3xHpzfZFgPw%3D%3D&name=Un8Ah2xJvyJ6CKC5dbSOsGMmLCpWwlZIF12T%2FBLZ9JDQYS0d%2FQ1Nv3hs%2BFyGPR1nMYF6DpTJbrpgX6YtAzHLWoi5Bev48TSyJzU8ju4M567Ob38kreImFznHOv1N%2F4xQjl%2FdVWIivK%2FdjtkPCKmq0BFHRZL%2BoOPZvhvHl%2FzZFwj9mwWp1Uk4OWH4olyi%2F8Zk
+5月21日22:30_多哈世乒赛：男女双打1/8决赛及单打1/16决赛_男女双打1/8决赛及单打1/16决赛_训练馆,https://migu1.188766.xyz/play?migutoken=65480f754f31ea1a98948b43bedfabfe&id=24M8kt89h4malkFS0s9ItQrWjYro7%2BGhkGD4S%2BrO7PM8jWPw5hWRAC79NsmvLk6xE8LbzYSdwwXxKYOS%2B29NauSPTBihVGzP3m7zGTAsFUwWqi%2Fr22%2FeBoQlL0hyoxg99ZStEqd5dxa1FoUvHpXf0eknOgBGLqg9Q7s%2Fi8nPG5P%2FViRNAHBF6VvcPFovSf%2BeNgtdPD%2BEwphb%2B0LE8UbRCQ%3D%3D&name=VITVa2hNWWYSl8gLy8ySVSNO148yRcK8qIhDIfOwWEdXATlUJLtzmlb1xzcoajb81zL%2BOyvK%2FU5fCFdEnDDn6KQgbLmegke5VzpqeCFS8ZcHc1h2LvksQboCYpOeVNeoId%2F5%2FO%2Blkv4bRqWrSH3Wl5nK%2BPUaqahwzPnc043Ow6TReha7UR8HZ4472L%2F7NudT
+5月21日22:30_多哈世乒赛：男女双打1/8决赛及单打1/16决赛_男女双打1/8决赛及单打1/16决赛_候场区,https://migu1.188766.xyz/play?migutoken=a1c7eff906f457bee39bf1fde5e4847f&id=FrvcvuMJmGSQBZNxv0QQx2GrblKn54ChbgfA38627qMSVFJwIO%2Bwm1mUmFEM9BUbR9siZ%2FVRbJMP%2FvBf72gt%2FG7GSjO7jIh57Yq3HPx8zbFzJYnABiCQxTnuxSvuEUNgKEk1GButTjFy%2FhPVLEFu89Q6eoT0gXtpU4o%2B2q0QMHtLrTkHW7foh%2BRpDRr2V6nuGcqJ%2BQ5hp3XeyRG0mhzx0Q%3D%3D&name=aCtfIFpryGsEtkB8p5dHTUgAWdPI83M%2BgZ0OOsu0Yt02H92IFG1njNOfIyfP7IZH7zQZ1pTCwmYE8kxKFXt%2BrjjzZYUOdNxw3bgHjQbnou%2B7cRAdsXkNbFX%2BjM0TMdjUxWjWi%2B4JlaQ%2BRXtqSswHmsSlNu7%2Be%2B4sL43JWtFE%2B2PKuKA4gHoLO3YRS%2BO4g5f8
+5月21日22:30_多哈世乒赛：男女双打1/8决赛及单打1/16决赛_男女双打1/8决赛及单打1/16决赛_混采区,https://migu1.188766.xyz/play?migutoken=56762565120b1f4df9c0e0c0e50c115c&id=tlWVCsPFeXHZ7uxZtx95bUZgoZhD60%2FJxoXyM12JRAahiiUta5KoYFxeFNM8v0FCgtf1TEQmNrT3YXMxjnSVg463eiyn28%2FZWQiIH%2BCLdtRchpdaODMroaSPv6at%2BIPvZVKEXS%2FZ5YmznZt03pnluD7vC0Np3rQOZwkrDQGNUvRmGKedyOMs2FuEUl425ckfgdncXssYrwlEIsRNqnXn3w%3D%3D&name=CxjfnLUaRKDuKxGylXHkXyVbg9JcgR%2FCl9WnjT4kJVlXe4ECIvP0yj1W70n8W6jH1JAmDN9cMYdTNnbpA0htp0R3Gbhj8vhzoovAjH9sLBQzEtPwtWnT11Ryz6%2FEKGGmOKK5XsO%2BhSGXE8BUX6DEAZEGMMPLf6cNLrw%2BJyuG%2Bf0lqowfvW%2B5dD%2FhHwcG%2BM1a
+5月21日22:30_多哈世乒赛：男女双打1/8决赛及单打1/16决赛_男女双打1/8决赛及单打1/16决赛_1号桌,https://migu1.188766.xyz/play?migutoken=151fac9456c04396929f6d8201f360de&id=ru1L%2Bgglu7jFsO3m6msFknVzjqn23bm8grvS7CCsZmoEbhcQv6KLeclm9cE7VhHNGhTxZiecOUngQ615B%2Bp4Rl8PQ8Dyd1qA2xZ%2FElc3DFpPy7bxN8abYY2sK5zh5B3DIIwNaT6BXZMdiy0VPZOY8zcC3p5igcykl273VcwKyDy8hzaj82mR0rDjLb5HHcV%2B0DVUupx32NXzeYBE%2FJVLgQ%3D%3D&name=ePZSVC3kQbuAx6KQCNnNfU8O%2FoQP1jC5yLQMfnkzfMuvZqgQ%2B1LflTOTL06j2pkz7qls9QjKu%2BbVUO2vXS5hAJQZSnNBw0qWM2p5h%2BMeQtMXx%2BAIXbv9ytC7bjBz9sLfCy4lMtuujt44uNtRTb25wlieDqXZ4hGdtyPAKZVy2znGFwHD3McIIwuty6%2BTX3nZ
+5月21日22:30_多哈世乒赛：男女双打1/8决赛及单打1/16决赛_男女双打1/8决赛及单打1/16决赛_2号桌,https://migu1.188766.xyz/play?migutoken=11a5648abe0d8e2d784b2b7f1c57a72b&id=Fk%2BmpFOub8LgF6JAwWC9BvfSN4u10L6o25ErJDivkxiGx1DVJdvqglmUAZUkYmrl8sjSrQb%2BUnIwLG%2BEdLpyVWss9KdX3xVF%2BkWnLnJBnlGOp%2BJkgcZNvR1k3Na7xRvTysWCDjxRMCENpcboQkzSSnDPEFuFkSMtVaC7RNLOhUN97qryS3yDMaf47lK%2F9zuP5eOLWYnLYsg7eBCkQUnAdQ%3D%3D&name=5Oh6E%2FJXpx6dzBDIa%2BEm6auOtU3DE1%2BCY0KAefLAC0epNQk7QglJewjIMbB3U7w6y%2FuxSxxYsvsjdF5SLZymHx3wz5XybtNI6oVXcERapW%2FOlBuAoGRD2SBBFrIfF7HggaGnDWhiKi7HU53FF7ho1PDZQ3VOlqDjKilQXaD40tCcP22xoUzNMbA9kpW6RMc2
+5月21日22:30_多哈世乒赛：男女双打1/8决赛及单打1/16决赛_男女双打1/8决赛及单打1/16决赛_1号桌英文解说,https://migu1.188766.xyz/play?migutoken=b74eeca04908dd5050b504890041683e&id=UZ2lgFUlvYhwFfepRFsZOFB%2F8U0wizd4AEqIKFFs0lM9R5wc2auF0DkMTRngsJos%2B0oDFISrFfilP1gX%2BlTz8XBMPxytgY9WCqGW7FAGcOD5%2BX13cU4hwAct3yv3f7D0wgRs2D9LNuWJFqkte4Luvo5S%2FmidLwdQMAvv%2B6ssD%2FHQsFMzJVl9qBVOcDs1HyurnaZrmlxRKlFLql2mjV9cfA%3D%3D&name=UoBAK5aYg6FJTnCTVnV3B32pUpG8xMPtOZplgL03kMiG1%2Fn5sP1nB%2BhzUIdvCSZCJmYY6%2BOqY%2FdXXu0KPw%2FcAM92CqNn0J2oKmu7yl1lIG%2Bw2ktYR5FmFB4gVI7MVvpHrNsckn4kFoNJxcEh3fxwu0tVaT00R8WJUVvP98uX3DUWLQvOQpDGhnP%2BRDjD8kKqtu7bciOJZx3nSdAXN1CzIw%3D%3D
+腾讯体育,#genre#
+5月21日07:00_WNBA常规赛_拉斯维加斯王牌vs康涅狄格阳光 辰辰,https://migu1.188766.xyz/play?migutoken=28a54a1fc13cedc4735e8c6783886fe6&id=Acg0H5rG2U5TUIAQC6c8l2WOpf72Wf74rEXKHzecOK63m3TIIG4UUZMHNB%2FCtGF1AS8RvXecVhYCYla1PIfKfyQF34b9lnNbYXADBokc2pf8GreAKLiXMGrfjUhIu7PpMaoeoveG2ZUD37gR122VAWUhY6EXkmQa08BQL0a9b7meh9YXQOTeig%2BBoeb5YAEsdAARmv6NonCH6EaBHeLpp%2FbewvZLoEtPDKX7p%2F0AHsDqnp6Sds61xPKSGdDrsJHTdGjCy1kU1UiGjJXg7Vv6XcgmdgMXWN6SAn57Xh3ZcFNPMsPAYPgEz4PE4O1vvsSW&name=hx4pbLXAg0fo3eQ2EeA7SxzyfjXV7XXYwF2QjHFFrpvFVG3dWRJbgZsKAVlh44Lr7uWD71v2bBYMdMJLELkAAViUJZHpc8vQKr9CyCsM%2BIURmUGeqq6dwWfbhYzVvZmn
+5月21日07:00_WNBA常规赛_拉斯维加斯王牌vs康涅狄格阳光 英文原声,https://migu1.188766.xyz/play?migutoken=f921b16a78a9a7c7148b020685455b9f&id=COEcr9G4D2rnEmkIZsSOnUVY2Vx40FvvtT7%2BpryrnuUOTYWHDDSEilyhtsCse%2FKUxQz1armraH1ilzjYPkreiZlOOW3HJuNzIHIp47uHF3bR%2FVIZ%2BTrTZN0lOOC2daGOo4sUhYI1e2nARy2RzFm%2FdKdanFUdo9n%2F15KdLCRmRiGs1cNBjQRVACLuaQ%2FUeD7GbHJfHD%2Fiwz1Fy%2FLzr1edu%2FWQloDlf%2BFk%2Fhol5ls9v9e%2FmlRc7qAtUV6KsFqCNDwTKKLDz0f2yUhlzp8fUIfad0XGSr8052sIse4KAqlfN5UcXCprslTSwqrHf6M5VHWu&name=cimd5o%2BrV6BDwC%2FBVStTTPEdD8qQTU29iiKmYXOe%2FmnjwAKdn65ZSPrxlhicAm9JTNA0LGsP3mCGNz7D%2BPoX8hUijsjzS2YElIsLyuR9an8bY7hCDHql3VCmNbq7CgPpIQwr81SIvBz0saGzvfttTA%3D%3D
+5月21日07:00_WNBA常规赛_亚特兰大梦想vs印第安纳狂热 段冉,https://migu1.188766.xyz/play?migutoken=00ebdcd803c13cfac8e7527b7a9421d0&id=jAAeAt6sYCn2doIW0zJmUIkUO7NmQmE8iuRYzKBKR1jxiiUqEvl7X9SbZEVIEMAHfCTlVnt7r2GNEvJ5owjnKc4bC2OoL%2FGyR2mw8hygMArBey9Wg2zM4pasBFoRTlLDI1KJXUWhJI1FxcgEyygYU6jEYc5E9vS31B91tsPTFK3RFrSAluQjvxwdMI1Gcdqld6%2BqIps77UOBZfjbEf3Jr5ROq80CpO6dB5KuPvUbg%2FOl4m06uAGff5KeK60Lv%2B8VFqKRNt%2B6mrvB7yM9nNGPeKJCRANTYXGzoiqD4ax1KsWV27F5sgL7Bc24qamOg%2F26&name=mJ4V4qW5IAlHI0E9jVF6ZNQRKpWmdE7PDVrIwM%2FPMp1DQAkGmUar%2Fe6pGI9dGDtI6SYOc1OInu62BebGcAyuAH%2FsDEAN1sZ6z00W91Uey1cDtU8DrHKV3OFu%2F7MD7U2J
+5月21日07:00_WNBA常规赛_亚特兰大梦想vs印第安纳狂热 英文原声,https://migu1.188766.xyz/play?migutoken=7c8ed42e7bc8b6c95ef639d8b4fe4ca8&id=118ALp7t8RsvD4tQbYKl3%2Bbl8%2FCPeGjW5WSpJ1y8r6HbOrpRLdfsSukWY2BfYL%2BDATcyk0crRVJV5WGrAgIxL%2FOQMxg73F9lWFpQz9tIWEXizsiLpkBvSca3yvnQDgJvbHsHWB7AU8KGrzuNuTc6b1MJUF5iWkcaRByKOETM0%2FhLVvCu43sBV6S3cmeDYcCfpzu12kJBwUM6eFXV61Bn5vzxryBBYRWM0NYD9uvSzlEZ40158IgbZT6y%2BfqeL83QM3avLACFJXDTKdmv99%2Fli0mv9QJQ3Wbim3NdW%2BeIXJuIMGm8nBlaQmKBFD5BGbhI&name=SyDqZpZCKxzJ58uYC1Vrb8Ypmylm4vmz9sNAsD8hyae3mbUwBz455bHZwWKmV8qOHSFaQvDTzVknFyJNHkvSwKP%2FKPuJzRCtqhrom8BhKbtbmLSWOTqsVxp%2FyqV%2Fylvk5N5c6qEB%2FG%2BIz4SAuL46pw%3D%3D
+5月21日08:00_篮球直播节目_[早安 NBA]西决 G1：“雷神PK狼王”！西决率先上演！ 王猛 管维佳 美娜,https://migu1.188766.xyz/play?migutoken=37928b738d3414dac012d6939c21e2a4&id=6msQCPi1rlSCtW2uxYc54cOPyJlQ3i1UL5MOnRFOLpwlKWuSguE9N8p3%2FitmpLWtOawleJAjSnrTx9nPJqKZN1s654UlPnJyoM27d41Vblt4CfxNFACkunAAxnLEa3l4sk4jUa%2BpF3h2ARLxujfB6u6BQO6wb3OQayZ1rw6VEfORYtaM7DraB5FJEzzPxhsXgvSNRn3Ddh5E0uTdGwp36cLG47VWiV4VRHSgsjVLraGI0VMie03VD63oEZnjFXUifoYoYQgTHCX2%2Bc6x7EzNh9Wqs29HXK62EKn53O0eERMwXdmO49EotQQqhVMrxbS4&name=2Jg%2BSHYgNBEn7hnjN5F2hdezYK8yZgwVH5jqMKkAS%2B2rATLBdxYf0qBMmx0iZWRtfhnHgFTbuj0UGap25VL4Sugo2ebjkMQQZkQtRXrwDI88wFcy8aFJBUFI4lt9vmugyZQ%2BgAOJXi61MSM5zynpnfZu92P1z2wefhg3Z6CRrkfQ0laGTUKwmvhjn4GSXWT3
+5月21日08:30_CHBL总决赛_CHBL全国总决赛男子八强赛,https://migu1.188766.xyz/play?migutoken=088d3ef91d3f9462175461e9c755b336&id=9NFovCQ56m%2Ft8Z%2B64oT9OVZFI%2FHI89DoRBJAVaEY0dgSlb%2Fn82xrjPgmcJwraqE3IfzDd0qMujOo0XzvITeu8Dq7abhom%2BfM%2FaTxIGqxh0MTpjmLavqyDTRM8TrSygezxFb57WGfBBgfLGAfuGvzcCqfPzqJCi0YQv37GTrULib9AFVoeV0rqqPZTQszos%2Fz3O4G%2B6BkXGucZxWwt%2BNgpSRYt%2FpJWjn2FMnGhd9zVhRwDsODntbiPM9tf5zoIafDcHQ8LGf%2BQO%2B%2BDfMIIkmDx81Q1BOaD7KAtocFYPs%2BDsn7Rs2ykOTfikheXJ06Pf3t&name=E5Buu1VdiKPKkAG6UJEa9Idh5aZiWAcHSw5rBeySXs14U1LpMKeG43g28ymXUKIkYUjzXqfN4uK9g7tQ5CFHt19rxOofmx9o0%2BUhfbKNPY8%3D
+5月21日08:30_NBA季后赛_森林狼vs雷霆 王猛 管维佳 美娜,https://migu1.188766.xyz/play?migutoken=a15bd27db007c8f45162da2e9088e89b&id=A8XWHOxCumsvkRpYv0AvLYgIwg%2FcEqqB8rt37Mn%2FWAYKfbIh4FtGZnv5Jf9VRYnD5S3CjTQGVdlWVAt3eaZSZQgAWXxRHVTbIAyFjar8Agi6pZ3pWZumcGTFD8%2F08Z9HN55Dn44p6N3xO4RfDlwIsr88Gtftf7pyZhSWpbGFiZTEau2JBd6%2BzJVZyonT0y1GaFzZLcIwjHzQNsMMonTY7tcMr75mGScGPhCAeJPKzXNq8%2BbFnVrZx%2BKM4F0mUJm2EWa7ZCkprgKXWvLHmCCRgrWnqQY2lPQMJGXSvObaX06Zhl5pyD7WsjF3MP%2FJzPfZ&name=%2BcxyFXBZaEFJSVnax48A%2B2cm2NaQcWhMbMO71BgzBr%2BgCYbYwY7sHRmQ4Mns7YadfjXB7G0mUw6sT16WqhtSiJDco97gwnXJAggGfCWhhdkz0%2B5nnG%2BLgPejm3s48mMs
+5月21日08:30_NBA季后赛_森林狼vs雷霆 二路_皓篮球,https://migu1.188766.xyz/play?migutoken=88b5861c8a8438bae0692a43b3315fac&id=sWaH0s%2BDLDw7IyOb8lQvVZ9fvImySpwMDdBNGrT9Vnad5J0ElsnhIKLPUCY76M%2F9Bw7kMUkExrJEsd%2FD64VzZhByGmuxlML6BiQ0g8uzahuaYYJ3SvBJquOvbkUXje%2FZcTeRTUbi7iJWrjTZtb51%2BGS7l75M%2Bzg9MXdgvBsI1jw1KB2gibqwmIkr0iFBxDS7U8n5xJ5oI2RgwPrTYERL%2Bw7equyLk4A6yFQm6PQgdQd9Nq04cXaNwSmYj%2FeT10UaoLUQupYbeahpHTKuRi0o5S%2FPIgOZeywxTu%2Fx6MLDZq1QWJcs4jWNgv6Xi%2F8Kwk8I&name=Fj6aVXiShzQrAw2lKHEsI8iTPcdX9BX%2BJ92qySY3kUdv7h3wuynKvQ%2FURSClZFnF%2BA2f%2FJu6JtLi6nPVbBsfsqFmPATGoSsHE0nsJgVW4mE%3D
+5月21日08:30_NBA季后赛_森林狼vs雷霆 英文原声,https://migu1.188766.xyz/play?migutoken=950b1457971a64f90f22c77c5adba587&id=ny5qXtOYHLUTbQJVHQkVKdBJlPyBWwh%2Bsw93YZbOZrAPGdTZkykk9yoqAYshIGmzSA1LlCCAjkR0w8fYnouhgkf9WnAWJVFWLcGOKc7vLNqaQlRrqeVU8hOuRF1j9tyz6wquf0F4sVO%2B4jx0bdkwpVusNDIogfNSbI1%2B4yIeSqI3auoW4vH4OWR2cwHD0vsnPabML0OqO5Ih8Zhm8vpIlHmesLv4hmKsZpO0jPAyRZm8bTK2Cj6AgUymCahx9ZtYGtvL5RqzrGJYUYZPCuPqexX2%2FKLM0xU0bAI0cjVa4D6eBVir7NF8oHaTSR6jR%2FlD&name=ey5X7oJNdym2RZNeIoGYUgwQgCt9akBl6dIv6Wrj09nLyBYrnS2WnZOMc1Pi04Nd7zvlkZK6MFW21ae9RD3VXo0s4qZczpMtGDb%2FhW3%2FaKs%3D
+5月21日08:30_NBA季后赛_森林狼vs雷霆 球星视角,https://migu1.188766.xyz/play?migutoken=e659ec0ff2b4198fc3dbcf25b4e9c1de&id=UXKZjrmF9xKyZ9eOQmk6tod7OhQy2DZdMIc8cOtr9N20kyvf3w3Dwt0AxRZMa%2BilQfkKrl3UQEUNTpCN5IjUh6cePZovk%2Bfb8J5AlHpSLnnJv86qSYKTfV4NjGS0m6P9Wllv5DRmO71LcgeYMPPAk5FhF56W%2Fadwdf15YUm%2FGjM%2FiTBNaI1b5TwppDE0hrQavzVNK%2BFt%2BFWQ3vR2iwyFjzu0OpdUa3CnlqwCQiqEjwUq0AtgFBqEEUlwZ3yLnOgs74XDs2daZ%2BlLKgvOk4S74MxoSYzPqh3xf4rUk7xZhzzFR%2FBD9mU2DUAb4XBNy1Ju&name=%2B3ynvZX8RJuSfgFFPOmvwhtQf3WBn0GNSgqDs78yNGOzeZ6UvhgVfHCk7f5PZc0TtTn4WHkpL%2BJfZZUCzw%2BKK4j85FeKvQa2cpsnAYkwiYg%3D
+5月21日09:00_游泳_2025年全国游泳冠军赛第五比赛日上午场,https://migu1.188766.xyz/play?migutoken=72f66958b39b72f1253ad4696393f021&id=30wldC79dkgKabLpbZWs2XwDXVrfS9wfgEW8tmZ7ByXI0kVONqQDC8Ze2NJ8p956%2FB5ZzWkcMb6TC96oONIh3cVHGz39NSdn5644zqszvD%2F4ugAXiVMWFsB7DLX1yyO5cgFZ4sWSSfmV6hjw%2F7OaPk1rcnRooLT2mHZn1k8Ugd7o%2FpgG%2BO4Hj3HUmnFW5SWApHJeJ0%2BAT5CvRg6nhSAVkT1QcHogzr%2BEq2hCTDPqiOluQzR2aZI6a1kyKnUUCxib4YRVP1kfC4FVLq6U4cbeOnDdRu1BN7kTro0CYAFY9E5k7sYR%2F3tPLUppUjQBB1HJ&name=Tv%2BM37qdN9wgVEbLe%2Bkawfou%2FDXEJreAPUP3St2dFxXV9877VH5uy2bEXcAXo3796MdNMMgySLJKHN53RPS5GIGf9ZjZjX0R2MSaw88gRdK%2BjSkniCG90%2BL3EU%2B7Upgs
+5月21日09:00_CHBL全国八强赛（女）_石家庄二中vs雅礼中学,https://migu1.188766.xyz/play?migutoken=fbc42ded921e938b5bc495eb7cfcf756&id=JG3L%2F1XbevZoJwOpKqeYHG1vkyAHaETHoqf8TSbuyAUFHQtiA3F6kqAhcS6BdZ%2FV5jLjWSk9U1FC7FvbdjC985xYlpyEU%2Fh%2FFUbFxodij62XAexo0eub14HJABFab5t7ucjo8sg35SNwKT3ybDsLiCb43m7PLDixwyqJH%2FEga%2F%2BS3RMO%2FDUZC%2BwMb%2BuD%2FQSIUnktnRpaj%2FVOnRWGKYd%2BfwT9dWTF4c8F52pLjCRCgVMXNtezEg9wHmY%2B%2BCYEyklkHlhK15lqyiA4UmiiBhT88nwanEmc%2B36vCUWZSt0NuqIcESg6%2FKCyoAhi0y6Pjx3j&name=0KNSq9uA%2FX1o4DvaXcC7n260uoc5k3M%2FjSr6K0s2%2FIj5mBUmAqa%2F2QKNfZvxnsgEiWHcAQ3Twb0nAStx95duupGpiyh%2Bi8%2Bq2%2BQo3c1gNoqEsVuBpqv20BPBK%2FL%2Fn77w
+5月21日11:00_发布会_森林狼vs雷霆 赛后新闻发布会,https://migu1.188766.xyz/play?migutoken=68108294eefd4da05d882a59bc48a941&id=8Z7suI0aEELQb2KcxXEkYM40DNFkyrYkoQdunfKEXwrqU%2B1Jh1p6mSp5UA6dhaR39QlVyKyJC2RoEIBJSFBz1NY2eCnfeQDV7MybrYuczqajNsRFlCGuGJl29Wu7Oi05to1B4MNaO8Ihi4VjVfALDuYgJJ4PcrkrAzKVHWsuh5H5DAS49zCztvVxVDI7q%2FAQdDZw%2BP1XrFFhx2ArVyafA6GALV8zfZnlG0V5V6wO%2Bc7mF0w8WuDRr9yqiFF%2F8KTngUV2Q6pbMAp7Kc6nMUegOKAOJOY%2FTmpEFbJbyoYNO6wXrHPsRZrpH8FTmX2lJV%2BW&name=%2BR2N9en4zseMCLSrmuevzxl3cOZZ7LmWMdzt3ifXSGr%2B5BcGI%2B1WkvfvRkmIDN2nZfu3MCxwNIh5I36WzLRVNn%2FGxyA6OEu%2B%2BcO9JTPyGceaCSjy5EUdHPgE7zAAfst1
+5月21日11:00_CHBL全国八强赛（女）_日照一中vs清华附中,https://migu1.188766.xyz/play?migutoken=f0e4faf4bee2c070346511e10a008131&id=cLSV8ilBhercmG1hpEF0Z0qnFAy4IpROtf1QgibRMmM4s0J1JGHzfy3RKdW%2BAGVIqa%2BYVPpOH%2FcfiUGe6gmdO0H07IkSiOQrcKVaXCYJlnxTJ07DQOkqfSsUEWIpMkC8VbE5YZFE%2Foz9ytKS%2BMSmx%2FGT5MWuUcqChoPmq%2Fvp6cxVK3zWqyLA3iywQBHmkDuJN571WTZj%2BSjHZiaLCQZhNV3awPqYP9I1xXfSr6Pz%2BcZ%2Bu0vDeXrOn6mqR6nQwZ6Eh8V8G6mHPFNaZRfqqniBZvT%2B7O1OZts1velp4TDMnqoxXbTixaZ2UquRYIHZJ3oW&name=1wmDZCPhvKOs%2BLAcBEzfD1sGOIzXys%2Foz9HCayL%2Bd37YMzqtZRvgtSNJsQOl%2B2zwjyWl1yVtJdtW47u51UnZlO0XAmibp3guAKHB6XugoJroHg0eMeijfwhvlkhrGNv4
+5月21日14:00_NBA经典赛_24_25赛季季后赛精彩回顾 森林狼vs雷霆G1,https://migu1.188766.xyz/play?migutoken=d2a85320c5f6e36803e72096797b0d2d&id=8h8a%2F0AfVBhDt%2FGdhK1fQ6Pe3vkV625Txi9JLW4Kn7IP8YFF8HIRgbAYDDyp5foRSNb1xOAwYcoQLl28VvsETRu3sYthLt8Iw6elcSr8cmKaVG6ESltbPafgj5jNneDpMLkUwm4BxV1DiSx2QZkyaaZDGSoBH%2F%2Bx91s6OecwVmLMnSSz1RYoLFX1ieYJ%2FrXdScOdg1NKamgH%2F8C0rHpSfiih4Ty8MDWOalE9aIwRy85DW3QftJS%2FmrAzD42mENw339xE%2BxEeZlkVayPWVgCuAxSanSGXszhYnvblE9yNOEIXA21LSnDxSatVTz4pAcmq&name=XxrOOC954BsMmYRH9FuK2pU3nd%2BT1yHg%2BsGlC972xXruVAHXia9wlgyDubheH2QZT%2F4vEFe%2BvIAfVxl1YnGv8l4KbAyIHPXhAfmjTusJDu9ZKuG3QSYeIs0wW%2FwsW3%2Fv%2BGSfhplny8bYD5yQQpswlg%3D%3D
+5月21日14:00_CHBL全国八强赛（女）_深圳二实vs济源一中,https://migu1.188766.xyz/play?migutoken=7ed0a7b5cf4533e299ef361e35f22784&id=nu%2FJtLErvDwZThL927vjMDpe7B8pyKEY8vM7IJndYWNo7DZ8%2FQHHHBJNAYOLzc%2BngoogC5K2lCIX32T8dkjuKfAK87bX8x780SA5XSFcIa7m3UL3T2yg2v5LJLkPwLh9CHHl5%2FQeZXNpYb6RT7F0C9GqPBy520kf4a%2BDfAAKH36ggT1a7w32kCDRx7%2B2CKGGte0vdxl2BkDTMDuo9k98u%2BiUe79RBYOeYl3WSiIQYcBorNOllyTDZghAUZOnzwoa1qhK52ZuToSsalDhSosHpbvP7R1Xc%2BTWk9Vm6Z9cFw96B%2FeNPglexeEfwoQXEDio&name=G2A617bWSOdOLy%2B3gktP5vnvOYKaLX2jGsabTWkBs40z4Vzk0E3sLLKFl5DQ38%2FTcA2W3F8EgTSPIa8icboCJlZiDErutWBmmaMyP%2BBcTMLP7yjDe%2Fs8KmFpC1MPnIwS
+5月21日16:00_NBA经典赛_NBA历史季后赛精彩回顾：穆雷大心脏压哨绝杀湖人,https://migu1.188766.xyz/play?migutoken=1fc34b17320e71fca3020ac95d6ca365&id=n%2FjYyGcukBYmYcZ3swGhLQNOeAUNycvWIQsZsvuOMhYwmO%2Bux%2BTJTaotR6ZT%2BpTwFGZ%2BSZmjxBFCrMqySkeyJt4CdJjYIRq2hbfllgyCgCC4qxl96O9iBatO0ewS7bht%2BWFmHqov%2FIysjr3hnE3gsTTyiCkztpVKxFD2dT7MMhl5DAkaSGPcEvjlrv5dz5CpXInxU6BN5cWTbsIUmGjGOKH7sm19EjLqbmEWbmGHO5u5%2FLInu3UbC2kkHXOs38rRqqjEsyvfFALxAUcdVqyxK4Ys66aw%2F9ps1WDhX1vzLChtIChT5iyTd92ZfsRCJ12K&name=bDl4yKt1nceEhaURdkpmYsriZ1%2FJU5dZTj3eRBmhMAqtzgRfv%2FxKwvPcYSjwPPVP3akWcPBjX0IyiJgzwvqoejY31wQin1fweSxj4D8dOJ0J7UVIaoy%2Fg4%2BLaOTtFKhkQvse1itkHQa%2BpeD6jeTwMA%3D%3D
+5月21日16:00_CHBL全国八强赛（女）_东北师大附中vs南开中学,https://migu1.188766.xyz/play?migutoken=3c745eaa046d3faeb687cee0f1071bc4&id=stDm%2FM5MjxTVzOyPHsR60XLLlNPFXlxtZvAERiGJ%2FgkRHOVm3SclUT%2BZr7LgXBihNWBuOKwIVgJsTt9l2opO84cNISJxKC81ZGLWG1iVoz1kAhZAsCj%2FRpCsZIzJ3Fx8xSbpoTh137SVycDYIAatiJMNrjmEFetzkSzq6O12VNhI%2FguSjkV9Psy%2F%2BiOqinIc1YgK9KB%2F2Vs9K%2B0NtzBqMRIVdTxJd%2FSyfxlDt8jUqulErMbrexoVf5pMSKM6w6RC1GkxogUQUGjrtGvY0rt8ykK%2F2%2BKsYvwnobOfwHaxt%2FTQcvHXRJkJYGXdACmaHo02&name=BCzVOKzAqSdyx0wT3HQ%2BLiN4pWzh7UWX8qD63%2FpJlvJhCB%2FNwf7xmroCCh73qXtqYXdfICbbO5WsOetXDzX9u6BkjAbN454pU3fR5yycu8puS1T7uYd37GOhXV2XyzW4
+5月21日17:00_LPL第二赛段组内赛_LPL第二赛段组内赛WEEK8 第三日,https://migu1.188766.xyz/play?migutoken=2c459ee32537d4bee63a1c64826104b5&id=mOE1eyfDOLMCPJpQ%2BKGcTzbx%2BmQGYVajx8hcDfBLXI9Dra4PAVgtlboOxMNO97hI0%2F%2Fe5MvOom7fQ2FzccP0YZgERfjemBArySvROwvUjvt6UXVnWrtUBhXbvt7rkHg6pZKPtJutYiKhWXnDZ9EeQ2JdLmhqTf3naIiITJOsLrTRFM4VfGTvAMKyPE4CR79TFK%2FDDtqC6PNaJXtwRXPyMGmA2j3m4hGisrYt0osyIpHAFbR1DFx2WBpaeUt4pgPEI4C5vYE0hi67vWow14u0RDh7XbcFPZNEKR%2B%2FOkUfEnyeDb4eCu6Il3DI6hMYCDOC&name=RBH3HPBkI2FWdGdx4u8YQfuazUPJxENZpLdb5WYT2dPr91iGIPvnZWSJPnuj7cNj2J5VTo9mpgiArJQVzT43yoc5eDNO2FHWeb9cbyIsY%2BIJdRjInFyWtIieG6YOzuqv
+5月21日18:00_NBA经典赛_[今日NBA]5月21日NBA集锦精彩回顾,https://migu1.188766.xyz/play?migutoken=e7d357dfff80a7ff02b27423fca49404&id=H360T8T4Iw5%2FdsROBjh18rV0lqhVK%2BGYvy5ZZ93Tu3xlEuwNZTo%2B3qYi1C%2BBHJmnof8JoOCjGdPSQoOLTDYSLyw0u4JvXA6l7xWoWWHodScdPQMuP8nx%2BK1prS0UJlzZVg6hWt2y61%2FtbAxMczw0AVwDWxVfLFmb2KJLYkhgbCaCm7cy7jWqmYfURoOJlj3Iswz9GTOdnG3GRZp08viwX250gKLaOp9J5m54L6f8O4rzoo8yHJmZyf1BkqqeVYHRgfq%2BcWfZtZRlcn2UM9KgZQAUh82ZSWljOWiR3rHN%2FDz3Y1DjxCcc9pk26hb0%2BC1o&name=5GypbUTA%2F0hGWy8kNTe9kU%2BLkyKHD3bKOn%2Bd92bb%2BZ9Hq8pqTxQb5Xqt3V3MwEF9FHOf1bGLxHXL9agZFcLZeE7uxOQIL5CahpWrrgF0Ve%2BLMopzcvkzLg1J4NFNJ0PA
+5月21日19:30_游泳_2025年全国游泳冠军赛第五比赛日晚间场,https://migu1.188766.xyz/play?migutoken=732c7cb21ca7e479f2eb52d262d7f1cb&id=vqGrfWOyd%2FUieH0Kl3OOYx1yqY5C97pNRdtbGfsczCIiG8VVqEkugbLKlVBQ5o0ILnNqURA6evwU3UFepoxGTNrtOSutDqv%2Byy0y%2F%2Fd9pCiRO9uWc45LHFwAabRf8kRHPbSU4eHuBt99JVXA8RXbI0atDGCX%2By5IHY4exp%2Fr1CphguO%2Bar1tEl2tizndHmvRFtndhO%2BVjXC05qTW613uZTfBsYwLYULoOJDCWOfYCI8Jl8UV%2BAtDpj7imiHTbugzq83zdjyKDT9VAig7WThwN64zNqCld4suGL97bauAkaZvMc1bMnw3N9xRO8v8EPo7&name=Y7ac4Or4ERV2pRITjp4ybBkA2UeSu0BRS7UH%2Flmp114Y%2FMjNu3SMdesO1k3u%2BaUxg2nnKrEI4DQ0ezt2AS7alZ1P%2Ffgv9s0reqKGadXqog58gmHnZYB5K9b1VS%2FcSoWO
+5月21日20:00_NBA经典赛_24_25赛季季后赛精彩回顾 森林狼vs雷霆G1,https://migu1.188766.xyz/play?migutoken=612de86285895c8c7e2fe86ba289d4b2&id=zbqLOhXPNmtgsXwH5lcMXhUQ0Fo3Ca5SSXDTvEy09XvMrQmcBGix%2FtN6GFvSCxHy0AF0vfmp7AxOj2xnFmMi5tAlxAFH3iTGWbk1%2Fj4AsR5hIry74YXTSyLz3rkJXXJgrzA0vHoYN2T9dK8DmEeQ6ysQphlNT9%2F67o0YDv8y8a%2BgWP3R%2BjMO3Xqd%2BFby4hev9t%2FdLqAWi9bvU5vW8MC4SskGHJqnZE22veOM3aLgDheddXe1tprRRY3tnektv8H7whJYlxmkC1%2FiiJtHoztLPjkFefGkG5bhUhVLPoWcYnmINiwlXyP08WZbsPnJmzn7&name=6ILDpDovA6ihxWasBd1dGEpblSfIljsXmKTRT0W%2FduwBDP8jN9LCtJt8UuuqNZkOUMwgRXkhTRT%2BU2KHrTSUC9ADZV9ya2gqIVYXNVUtNFzsACGgogHliTVjXL6UZlIKbn5SewGTdlmPmildBn45OQ%3D%3D
+虎牙影视,#genre#
+电影_星爷,http://home.kuaidi521.com:35455/huya/11342412
+电影_英叔,http://home.kuaidi521.com:35455/huya/11342421
+电影_发哥,http://home.kuaidi521.com:35455/huya/11342387
+电影_成龙,http://home.kuaidi521.com:35455/huya/11342386
+电影_王晶,http://home.kuaidi521.com:35455/huya/11602058
+电影_沈腾,http://home.kuaidi521.com:35455/huya/11601968
+电影_黄渤,http://home.kuaidi521.com:35455/huya/11352876
+电影_强森,http://home.kuaidi521.com:35455/huya/21059581
+电影_漫威,http://home.kuaidi521.com:35455/huya/11602034
+电影_宇宙,http://home.kuaidi521.com:35455/huya/11342428
+电影_怪兽,http://home.kuaidi521.com:35455/huya/21059577
+电影_贺岁,http://home.kuaidi521.com:35455/huya/11601971
+电影_玄幻,http://home.kuaidi521.com:35455/huya/11342414
+电影_谍战,http://home.kuaidi521.com:35455/huya/21059585
+电影_战争,http://home.kuaidi521.com:35455/huya/21059592
+电影_喜剧,http://home.kuaidi521.com:35455/huya/11352877
+电影_港片,http://home.kuaidi521.com:35455/huya/11602043
+电影_国产,http://home.kuaidi521.com:35455/huya/11352973
+电影_周星星,http://home.kuaidi521.com:35455/huya/11336587
+电影_李连杰,http://home.kuaidi521.com:35455/huya/11342390
+电影_洪金宝,http://home.kuaidi521.com:35455/huya/11279251
+电影_梁家辉,http://home.kuaidi521.com:35455/huya/11342429
+电影_许冠英,http://home.kuaidi521.com:35455/huya/11601972
+电影_刘德华,http://home.kuaidi521.com:35455/huya/11342424
+电影_斯坦森,http://home.kuaidi521.com:35455/huya/21059588
+电影_蜘蛛侠,http://home.kuaidi521.com:35455/huya/21059599
+电影_贺岁片,http://home.kuaidi521.com:35455/huya/11601986
+电影_功夫片,http://home.kuaidi521.com:35455/huya/11352941
+电影_黑帮片,http://home.kuaidi521.com:35455/huya/11336719
+电影_丧尸片,http://home.kuaidi521.com:35455/huya/21059578
+电影_灾难片,http://home.kuaidi521.com:35455/huya/11602075
+电影_谍战片,http://home.kuaidi521.com:35455/huya/21059587
+电影_战争片,http://home.kuaidi521.com:35455/huya/21059574
+电影_犯罪片,http://home.kuaidi521.com:35455/huya/11352974
+电影_古装片,http://home.kuaidi521.com:35455/huya/11336590
+电影_高分动作,http://home.kuaidi521.com:35455/huya/11352884
+电影_动作电影,http://home.kuaidi521.com:35455/huya/11602077
+电影_搞笑喜剧,http://home.kuaidi521.com:35455/huya/11342423
+电影_喜剧专场,http://home.kuaidi521.com:35455/huya/11602044
+电影_欢笑影院,http://home.kuaidi521.com:35455/huya/11352894
+电影_不挤影院,http://home.kuaidi521.com:35455/huya/11352897
+电影_国产悬疑,http://home.kuaidi521.com:35455/huya/11342395
+电影_快意江湖,http://home.kuaidi521.com:35455/huya/11342435
+电影_黑帮斗争,http://home.kuaidi521.com:35455/huya/11342419
+电影_古墓系列,http://home.kuaidi521.com:35455/huya/11352913
+电影_嫣然影厅,http://home.kuaidi521.com:35455/huya/11601977
+电影_女神系列,http://home.kuaidi521.com:35455/huya/11336571
+电影_经典女神,http://home.kuaidi521.com:35455/huya/11352909
+电影_经典港片,http://home.kuaidi521.com:35455/huya/11352965
+电影_喜乐影院,http://home.kuaidi521.com:35455/huya/21059580
+电影_蘑菇影厅,http://home.kuaidi521.com:35455/huya/11601981
+电影_搞笑恐怖,http://home.kuaidi521.com:35455/huya/11601960
+电影_死神来了,http://home.kuaidi521.com:35455/huya/11352903
+电影_变形金刚,http://home.kuaidi521.com:35455/huya/21059596
+电影_怪兽系列,http://home.kuaidi521.com:35455/huya/21059554
+搞笑_陈翔六点半,http://home.kuaidi521.com:35455/huya/11274154
+测试频道,#genre#
+CCTV1,http://39.137.75.234/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
+CCTV4,http://39.137.75.234/000000001000/1000000005000265004/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=no
+CCTV5+,http://39.137.75.234/000000001000/reallive-cctv5plus/index.m3u8?channel-id=ystenlive&Contentid=reallive-cctv5plus&livemode=1&stbId=no
+CCTV7,http://39.137.75.234/000000001000/1000000005000265007/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265007&livemode=1&stbId=no
+CCTV9,http://39.137.75.234/000000001000/1000000005000265009/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=no
+CCTV12,http://39.137.75.234/000000001000/1000000005000265012/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265012&livemode=1&stbId=no
+CCTV14,http://39.137.75.234/000000001000/1000000001000021349/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1&stbId=no
+CCTV15,http://39.137.75.234/000000001000/1000000005000265014/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=no
+CCTV17,http://39.137.75.234/000000001000/1000000005000056836/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=no
+湖南卫视,http://39.137.75.234/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=no
+安徽卫视,http://39.137.75.234/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=no
+甘肃卫视,http://39.137.75.234/000000001000/1000000002000017827/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=no
+贵州卫视,http://39.137.75.234/000000001000/1000000002000003169/index.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=no
+河北卫视,http://39.137.75.234/000000001000/1000000002000017118/index.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1&stbId=no
+内蒙古卫视,http://39.137.75.234/000000001000/1000000002000014080/index.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=no
+山西卫视,http://39.137.75.234/000000001000/1000000002000021220/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=no
+深圳卫视,http://39.137.75.234/000000001000/1000000005000265028/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265028&livemode=1&stbId=no
+四川卫视,http://39.137.75.234/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=no
+厦门卫视,http://39.137.75.234/000000001000/1000000005000266006/index.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=no
+重庆卫视,http://39.137.75.234/000000001000/1000000002000018937/index.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=no
+宁夏卫视,http://39.137.75.234/000000001000/1000000002000031451/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=no
+青海卫视,http://39.137.75.234/000000001000/1000000002000013359/index.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1&stbId=no
+NewTV超级综艺,http://39.137.75.234/000000001000/1000000004000023658/index.m3u8?channel-id=ystenlive&Contentid=1000000004000023658&livemode=1&stbId=no
+湖南金鹰卡通,http://39.137.75.234/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=no
+咪视通,#genre#
+咪视通-1,http://home.kuaidi521.com:35455/itv/3000000001000005308.m3u8
+咪视通-2,http://home.kuaidi521.com:35455/itv/3000000001000005969.m3u8
+咪视通-3,http://home.kuaidi521.com:35455/itv/3000000001000007218.m3u8
+咪视通-4,http://home.kuaidi521.com:35455/itv/3000000001000008001.m3u8
+咪视通-5,http://home.kuaidi521.com:35455/itv/3000000001000008176.m3u8
+咪视通-6,http://home.kuaidi521.com:35455/itv/3000000001000008379.m3u8
+咪视通-7,http://home.kuaidi521.com:35455/itv/3000000001000010129.m3u8
+咪视通-8,http://home.kuaidi521.com:35455/itv/3000000001000010948.m3u8
+咪视通-9,http://home.kuaidi521.com:35455/itv/3000000001000028638.m3u8
+咪视通-10,http://home.kuaidi521.com:35455/itv/3000000001000031494.m3u8
+咪视通-11,http://home.kuaidi521.com:35455/itv/3000000010000005837.m3u8
+咪视通-12,http://home.kuaidi521.com:35455/itv/3000000020000011518.m3u8
+咪视通-13,http://home.kuaidi521.com:35455/itv/3000000020000011519.m3u8
+咪视通-14,http://home.kuaidi521.com:35455/itv/3000000020000011520.m3u8
+咪视通-15,http://home.kuaidi521.com:35455/itv/3000000020000011521.m3u8
+咪视通-16,http://home.kuaidi521.com:35455/itv/3000000020000011522.m3u8
+咪视通-17,http://home.kuaidi521.com:35455/itv/3000000020000011523.m3u8
+咪视通-18,http://home.kuaidi521.com:35455/itv/3000000020000011524.m3u8
+咪视通-19,http://home.kuaidi521.com:35455/itv/3000000020000011525.m3u8
+咪视通-20,http://home.kuaidi521.com:35455/itv/3000000020000011528.m3u8
+咪视通-21,http://home.kuaidi521.com:35455/itv/3000000020000011529.m3u8
+咪视通-22,http://home.kuaidi521.com:35455/itv/3000000020000011530.m3u8
+咪视通-23,http://home.kuaidi521.com:35455/itv/3000000020000011531.m3u8
+咪视通-24,http://home.kuaidi521.com:35455/itv/3000000010000000097.m3u8
+咪视通-25,http://home.kuaidi521.com:35455/itv/3000000010000002019.m3u8
+咪视通-26,http://home.kuaidi521.com:35455/itv/3000000010000002809.m3u8
+咪视通-27,http://home.kuaidi521.com:35455/itv/3000000010000003915.m3u8
+咪视通-28,http://home.kuaidi521.com:35455/itv/3000000010000004193.m3u8
+咪视通-29,http://home.kuaidi521.com:35455/itv/3000000010000006077.m3u8
+咪视通-30,http://home.kuaidi521.com:35455/itv/3000000010000006658.m3u8
+咪视通-31,http://home.kuaidi521.com:35455/itv/3000000010000009788.m3u8
+咪视通-32,http://home.kuaidi521.com:35455/itv/3000000010000010833.m3u8
+咪视通-33,http://home.kuaidi521.com:35455/itv/3000000010000011297.m3u8
+咪视通-34,http://home.kuaidi521.com:35455/itv/3000000010000011518.m3u8
+咪视通-35,http://home.kuaidi521.com:35455/itv/3000000010000012558.m3u8
+咪视通-36,http://home.kuaidi521.com:35455/itv/3000000010000012616.m3u8
+咪视通-37,http://home.kuaidi521.com:35455/itv/3000000010000015470.m3u8
+咪视通-38,http://home.kuaidi521.com:35455/itv/3000000010000015560.m3u8
+咪视通-39,http://home.kuaidi521.com:35455/itv/3000000010000017678.m3u8
+咪视通-40,http://home.kuaidi521.com:35455/itv/3000000010000019839.m3u8
+咪视通-41,http://home.kuaidi521.com:35455/itv/3000000010000021904.m3u8
+咪视通-42,http://home.kuaidi521.com:35455/itv/3000000010000023434.m3u8
+咪视通-43,http://home.kuaidi521.com:35455/itv/3000000010000025380.m3u8
+咪视通-44,http://home.kuaidi521.com:35455/itv/3000000010000027691.m3u8
+咪视通-45,http://home.kuaidi521.com:35455/itv/3000000010000031669.m3u8
 
 
 
