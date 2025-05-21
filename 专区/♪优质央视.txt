@@ -1,48 +1,23 @@
-CCTV-1 综合,http://8.138.7.223/tv/ptbtv.php?id=27
-CCTV-2 财经,http://8.138.7.223/tv/cctv2.php
-CCTV-3 综艺,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226720/1.m3u8
-CCTV-4 中文国际,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226725/1.m3u8
-CCTV-5 体育,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226731/1.m3u8
-CCTV-5+ 体育赛事,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226711/1.m3u8
-CCTV-6 电影,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226699/1.m3u8
-CCTV-7 国防军事,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226721/1.m3u8
-CCTV-8 电视剧,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226715/1.m3u8
-CCTV-9 纪录,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226651/1.m3u8
-CCTV-10 科教,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226708/1.m3u8
-CCTV-11 戏曲,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226714/1.m3u8
-CCTV-12 社会与法,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226723/1.m3u8
-CCTV-13 新闻,http://8.138.7.223/tv/ptbtv.php?id=28
-CCTV-14 少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226645/1.m3u8
-CCTV-15 音乐,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226648/1.m3u8
-CCTV-16 奥林匹克,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226825/1.m3u8
-CCTV-17 农业农村,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226660/1.m3u8
-CCTV 4K,http://3501776.xyz:35455/gaoma/cctv4k.m3u8
-CCTV 8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
-CCTV-兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
-CCTV-世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
-CCTV-风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
-CCTV-风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
-CCTV-风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
-CCTV-第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
-CCTV-怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
-CCTV-文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
-CCTV-女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
-CCTV-央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
-CCTV-央视高网,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
-CCTV-电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-中国交通,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CETV-1 综合教育,http://drive.mxmy.net:8888/udp/239.3.1.57:8152
-CETV-2 空中课堂,http://www.lizhinas.top:1009/rtp/239.252.219.73:5140
-CETV-3 教育服务,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV-4 职业教育,http://111.22.153.159:35455/itv/5000000011000031126.m3u8?cdn=bestzb
-CGTN英语,https://0472.org/hls/cgtn.m3u8
-CGTN记录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
+CCTV-1 综合,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003864351.m3u8
+CCTV-2 财经,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870745.m3u8
+CCTV-3 综艺,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870746.m3u8
+CCTV-4 中文国际,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870747.m3u8
+CCTV-5 体育,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870748.m3u8
+CCTV-5+ 体育赛事,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870759.m3u8
+CCTV-6 电影,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870749.m3u8
+CCTV-7 国防军事,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870750.m3u8
+CCTV-8 电视剧,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870838.m3u8
+CCTV-9 纪录,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870752.m3u8
+CCTV-10 科教,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870753.m3u8
+CCTV-11 戏曲,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870754.m3u8
+CCTV-12 社会与法,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870755.m3u8
+CCTV-13 新闻,http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796248.m3u8
+CCTV-14 少儿,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870756.m3u8
+CCTV-15 音乐,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870757.m3u8
+CCTV-16 奥林匹克,http://home.kuaidi521.com:35455/bptv/10000100000000050000000004972604.m3u8
+CCTV-17 农业农村,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870758.m3u8
+CCTV-4 中文国际 欧洲,https://migu1.188766.xyz/?migutoken=66f944bdac40d0e6f77876e07086eaa3&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+CCTV-4 中文国际 美洲,https://migu1.188766.xyz/?migutoken=4ebebb8eabf4cb126e20ab91b2c2bac2&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 
 
 
