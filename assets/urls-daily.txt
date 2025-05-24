@@ -10,6 +10,7 @@ http://gg.7749.org/z/i/咪咕.txt
 https://xcz.iptv365.org/%E4%BC%98%E8%B4%A8%E5%A4%AE%E5%8D%AB%E8%A7%86.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 http://go8.myartsonline.com/zx/2/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1.txt
+http://gg.7749.org/z/i/5788.txt
 http://zozo.work.gd/ys/i/?QQ=100
 https://pan.baidu.re/down.php/6a4917f92a37099ec24394d1e76ff7ba.txt
 https://codeberg.org/ghbzhx/qfbl/raw/branch/main/hlw.txt
