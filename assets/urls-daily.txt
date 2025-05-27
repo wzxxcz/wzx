@@ -19,8 +19,9 @@ https://gitee.com/mytv-android/iptv-api/raw/master/output/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/Cx4x/xd/refs/heads/master/output/ipv4/result.txt
 https://fel.forxhr.top:2022/down.php/554d49b4beb024a1c32d7cf11906c3f5.txt
 https://fel.forxhr.top:2022/down.php/2a295525d70cfc8430749aca104fc9aa.txt
-https://xcz.iptv365.org/%E4%BC%98%E8%B4%A8%E5%A4%AE%E5%8D%AB%E8%A7%86.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+http://live.nctv.top/x.txt
+https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 http://wx.thego.cn/ak.m3u
 --http://aktv.top/live.txt
 --http://8.138.7.223/live.txt
