@@ -490,9 +490,17 @@ corrections_name = load_corrections_name('assets/corrections_name.txt')
 def correct_name_data(corrections, data):
     corrected_data = []
     for line in data:
+        line = line.strip()
+        if ',' not in line:
+            # 行格式错误：跳过或记录
+            continue
+
         name, url = line.split(',', 1)
+
+        # 空 name 处理（可选）
         if name in corrections and name != corrections[name]:
             name = corrections[name]
+
         corrected_data.append(f"{name},{url}")
     return corrected_data
 
@@ -648,6 +656,7 @@ zj_lines = zj_lines + read_txt_to_array('手工区/浙江频道.txt')
 gd_lines = gd_lines + read_txt_to_array('手工区/广东频道.txt')
 hb_lines = hb_lines + read_txt_to_array('手工区/湖北频道.txt')
 sh_lines = sh_lines + read_txt_to_array('手工区/上海频道.txt')
+jsu_lines = jsu_lines + read_txt_to_array('手工区/江苏频道.txt')
 
 # 瘦身版
 #              ["💓AKTV🚀📶,#genre#"] + aktv_lines + ['\n'] + \
@@ -932,4 +941,3 @@ print(f"other行数: {other_lines_hj} ")
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk,https://www.shodan.io,https://tv.cctv.com/live/
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
-
