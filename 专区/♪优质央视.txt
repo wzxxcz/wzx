@@ -1,3 +1,7 @@
+CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV1,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
+CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+
 CCTV1,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV2,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV3,http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
@@ -17,10 +21,6 @@ CCTV13,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA
 CCTV14,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV15,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
-
-CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
-CCTV1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 CCTV1,http://58.39.190.143:35455/bptv/10000100000000050000000003864351.m3u8
 CCTV2,http://58.39.190.143:35455/bptv/10000100000000050000000003870745.m3u8
@@ -67,6 +67,23 @@ CCTV13,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-13HD/index.m3u8
 CCTV14,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8 
 CCTV16,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-16HD/index.m3u8
 CCTV17,http://slb.5gtv.hbcatv.cn:8060/live/OP001/IP-CCTV-17HD/index.m3u8 
+
+CCTV1,http://live.nctv.top/DJlio/migu.php?id=cctv1
+CCTV2,http://live.nctv.top/DJlio/migu.php?id=cctv2
+CCTV3,http://live.nctv.top/DJlio/migu.php?id=cctv3
+CCTV4,http://live.nctv.top/DJlio/migu.php?id=cctv4
+CCTV5,http://live.nctv.top/DJlio/migu.php?id=cctv5
+CCTV6,http://live.nctv.top/DJlio/migu.php?id=cctv6
+CCTV7,http://live.nctv.top/DJlio/migu.php?id=cctv7
+CCTV8,http://live.nctv.top/DJlio/migu.php?id=cctv8
+CCTV9,http://live.nctv.top/DJlio/migu.php?id=cctv9
+CCTV10,http://live.nctv.top/DJlio/migu.php?id=cctv10
+CCTV11,http://live.nctv.top/DJlio/migu.php?id=cctv11
+CCTV12,http://live.nctv.top/DJlio/migu.php?id=cctv12
+CCTV13,http://live.nctv.top/DJlio/migu.php?id=cctv13
+CCTV14,http://live.nctv.top/DJlio/migu.php?id=cctv14
+CCTV15,http://live.nctv.top/DJlio/migu.php?id=cctv15
+CCTV17,http://live.nctv.top/DJlio/migu.php?id=cctv17
 
 CCTV1,http://221.213.91.64:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://221.213.91.64:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
