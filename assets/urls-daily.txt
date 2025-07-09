@@ -1,5 +1,6 @@
 https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://vip.123pan.cn/1814643527/tv/qwt.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://free.cnlive.club/smt.m3u
 https://aktv.space/live.m3u
 http://gg.7749.org/z/i/HKTV28.txt
@@ -15,6 +16,9 @@ https://tv.iill.top/m3u/Gather
 http://gg.7749.org/z/i/赛事.txt
 http://gg.7749.org/z/i/咪咕.txt
 http://is.is-great.org//ii/1748307151.txt
+https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
+https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://epg.pw/test_channels_taiwan.m3u
 https://xcz.iptv365.org/%E4%BC%98%E8%B4%A8%E5%A4%AE%E5%8D%AB%E8%A7%86.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 --http://live.nctv.top/x.txt
