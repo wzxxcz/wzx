@@ -1,6 +1,7 @@
 https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://vip.123pan.cn/1814643527/tv/qwt.m3u
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+http://rihou.cc:555/gggg.nzk
 http://rihou.cc:567/gggg.nzk
 http://47.120.41.246:8899/zb.txt
 http://38.165.20.168/js/直播.txt
