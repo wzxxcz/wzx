@@ -25,6 +25,7 @@ http://is.is-great.org//ii/1748307151.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://epg.pw/test_channels_taiwan.m3u
+http://go8.myartsonline.com/zx/0/dzh.txt
 https://xcz.iptv365.org/%E4%BC%98%E8%B4%A8%E5%A4%AE%E5%8D%AB%E8%A7%86.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 --http://live.nctv.top/x.txt
