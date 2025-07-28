@@ -41,6 +41,25 @@ CCTV14,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA
 CCTV15,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CCTV17,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
+CCTV1,https://live.sxrtv.com/iptv/cctv1.flv
+CCTV2,https://live.sxrtv.com/iptv/cctv2.flv
+CCTV3,https://live.sxrtv.com/iptv/cctv3.flv
+CCTV4,https://live.sxrtv.com/iptv/cctv4.flv
+CCTV5,https://live.sxrtv.com/iptv/cctv5.flv
+CCTV5+,https://live.sxrtv.com/iptv/cctv5p.flv
+CCTV6,https://live.sxrtv.com/iptv/cctv6.flv
+CCTV7,https://live.sxrtv.com/iptv/cctv7.flv
+CCTV8,https://live.sxrtv.com/iptv/cctv8.flv
+CCTV9,https://live.sxrtv.com/iptv/cctv9.flv
+CCTV10,https://live.sxrtv.com/iptv/cctv10.flv
+CCTV11,https://live.sxrtv.com/iptv/cctv11.flv
+CCTV12,https://live.sxrtv.com/iptv/cctv12.flv
+CCTV13,https://live.sxrtv.com/iptv/cctv13.flv
+CCTV14,https://live.sxrtv.com/iptv/cctv14.flv
+CCTV15,https://live.sxrtv.com/iptv/cctv15.flv
+CCTV16,https://live.sxrtv.com/iptv/cctv16.flv
+CCTV17,https://live.sxrtv.com/iptv/cctv17.flv
+
 CCTV13,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 
 CCTV1,http://8.138.214.88:47681/mgtv/608807420.m3u8
