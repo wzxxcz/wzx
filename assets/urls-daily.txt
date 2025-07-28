@@ -82,7 +82,6 @@ https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 --http://kxrj.site:35455/tv.m3u
 --http://ttkx.live:567/gggg.nzk
 --http://kxrj.site:567/gggg.nzk
---http://rihou.cc:555/gggg.nzk
 --http://rihou.cc:567/gggg.nzk
 --https://2883.kstore.vip/gggg.nzk
 --http://ttkx.cc:55/lib/kx2024.txt
