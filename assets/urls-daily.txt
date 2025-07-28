@@ -33,6 +33,9 @@ http://go8.myartsonline.com/zx/0/dzh.txt
 https://d.kstore.dev/download/13670/cs.txt
 https://judy.diver.eu.org/m3u/4GTV-TS.m3u
 http://is.is-great.org/i/2878938.txt
+https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&bconly=true
+https://chuxinya.top/f/VPk3ig/Rig1Ie5B_%E6%B8%AF%E6%BE%B3%E5%8F%B0%E8%B5%84%E6%BA%90.txt
+http://txt.kesug.com/users/NOW.txt
 https://xcz.iptv365.org/%E4%BC%98%E8%B4%A8%E5%A4%AE%E5%8D%AB%E8%A7%86.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 --http://live.nctv.top/x.txt
