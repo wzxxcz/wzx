@@ -115,8 +115,8 @@ https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
 --http://117.72.68.25:9230/latest.txt
 http://home.jundie.top:81/Cat/tv/live.txt
 --http://175.178.251.183:6689/live.txt 
-https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
-https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
+--https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
+--https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
 --https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 --https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8
