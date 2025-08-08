@@ -99,6 +99,18 @@ NOW星影,http://ali.hlspull.yximgs.com/live/xiangjiaogef31fdg31g1gdg.flv
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/02.m3u8
 美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
+myTV SUPER 18台,http://bxtv.3a.ink/api.php?id=18
+TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
+明珠台,http://bxtv.3a.ink/api.php?id=mz
+無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
+美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
+VIUTV,http://bxtv.3a.ink/api.php?id=viutv
+千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
+翡翠台,http://bxtv.3a.ink/api.php?id=fct
+鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
+鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
+鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
+NOW新闻,http://bxtv.3a.ink/api.php?id=now
 
 翡翠台,https://live.tvfix.org/live/jade/index.m3u8
 TVB明珠台,https://live.tvfix.org/live/pearl/index.m3u8
