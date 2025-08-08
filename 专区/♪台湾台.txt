@@ -178,6 +178,9 @@ TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
 国兴卫视,http://108.181.20.197/livehttpplay?channel_id=20164
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 
+緯來體育,http://bxtv.3a.ink/api.php?id=wlty
+中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
+
 龙祥电影,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
