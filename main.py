@@ -776,9 +776,13 @@ def custom_tyss_sort(lines):
 
     return digit_prefix_sorted + others_sorted
 
+# 过滤txt中体育赛事
+keywords_to_exclude_tiyu_txt = ["玉玉软件", "榴芒电视","公众号","麻豆"]
+normalized_tyss_lines = filter_lines(normalized_tyss_lines, keywords_to_exclude_tiyu_txt)
 normalized_tyss_lines = custom_tyss_sort(set(normalized_tyss_lines))
 
-keywords_to_exclude_tiyu = ["玉玉软件", "榴芒电视","公众号","咪视通"]
+# 过滤tiyu页面中体育赛事
+keywords_to_exclude_tiyu = ["玉玉软件", "榴芒电视","公众号","咪视通","麻豆"]
 filtered_tyss_lines = filter_lines(normalized_tyss_lines, keywords_to_exclude_tiyu)
 generate_playlist_html(filtered_tyss_lines, 'tiyu.html')
 
