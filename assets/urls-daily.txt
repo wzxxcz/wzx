@@ -2,6 +2,7 @@ https://11293.kstore.space/xiaotao.txt
 https://d.kstore.dev/download/13875/%E5%A4%AE%E8%A7%86%E7%9B%B4%E6%92%AD.txt
 https://sub.ottiptv.cc/iptv.m3u
 https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt
+https://aktv.space/live.m3u
 https://chuxinya.top/f/XooOhO/港澳台资源.txt
 https://www.mpimg.cn/down.php/c70d0ec2c050ab891238398b596fce31.txt
 https://fy.188766.xyz/?ip=home.kuaidi521.com
@@ -34,7 +35,6 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://free.cnlive.club/smt.m3u
-https://aktv.space/live.m3u
 http://gg.7749.org/z/i/HKTV28.txt
 https://www.lichenggang.asia/f/4o0CD/%F0%9F%87%A8%F0%9F%87%B3GT.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
