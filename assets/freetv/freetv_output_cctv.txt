@@ -1,5 +1,5 @@
 更新时间,#genre#
-20250908 07:49:32,url
+20250909 07:49:18,url
 
 
 freetv_cctv,#genre#
@@ -158,7 +158,6 @@ CCTV6,https://stream1.freetv.fun/cctv6-60.m3u8
 CCTV6,https://stream1.freetv.fun/cctv6-62.ctv
 CCTV6,https://stream1.freetv.fun/cctv6-64.ctv
 CCTV6,https://stream1.freetv.fun/ipv6-cctv6-29.m3u8
-CCTV6,https://stream1.freetv.fun/ipv6-cctv6-50.m3u8
 CCTV7,https://stream1.freetv.fun/cctv7-28.ctv
 CCTV7,https://stream1.freetv.fun/cctv7-37.ctv
 CCTV7,https://stream1.freetv.fun/cctv7-4.ctv
@@ -189,4 +188,6 @@ CCTV9,https://stream1.freetv.fun/cctv9-50.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-56.m3u8
 CCTV9,https://stream1.freetv.fun/cctv9-67.ctv
 CCTV9,https://stream1.freetv.fun/cctv9-77.m3u8
+CCTV第一剧场,https://stream1.freetv.fun/cctvdi-yi-ju-chang-7.m3u8
 CCTV风云足球,https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-16.m3u8
+CCTV风云足球,https://stream1.freetv.fun/cctvfeng-yun-zu-qiu-24.m3u8
