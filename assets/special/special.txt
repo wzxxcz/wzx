@@ -3966,6 +3966,21 @@ CHC 家庭影院「回看」,https://tv.iill.top/migu/chcjt
 嘉佳卡通「回看」,https://tv.iill.top/migu/jddh
 新动力量创一流「回看」,https://tv.iill.top/migu/xdll
 钱塘江「回看」,https://tv.iill.top/migu/qtj
+「英超」19:30 联赛 利物浦 vs 埃弗顿 [苏东 黄健翔],https://tv.iill.top/FB/VIRaWq
+「英超」19:30 联赛 利物浦 vs 埃弗顿 [赛场原声],https://tv.iill.top/FB/6QSt7A
+「英超」19:30 联赛 利物浦 vs 埃弗顿 [英文解说],https://tv.iill.top/FB/1AZKX3
+「英超」22:00 联赛 狼队 vs 利兹联 [苗锟],https://tv.iill.top/FB/bJ7xS6
+「英超」22:00 联赛 狼队 vs 利兹联 [赛场原声],https://tv.iill.top/FB/BHcZDL
+「英超」22:00 联赛 狼队 vs 利兹联 [英文解说],https://tv.iill.top/FB/8oty58
+「英超」22:00 联赛 西汉姆联 vs 水晶宫 [黄航],https://tv.iill.top/FB/BBdgNh
+「英超」22:00 联赛 西汉姆联 vs 水晶宫 [赛场原声],https://tv.iill.top/FB/Q95YV5
+「英超」22:00 联赛 西汉姆联 vs 水晶宫 [英文解说],https://tv.iill.top/FB/yVuVSB
+「英超」22:00 联赛 伯恩利 vs 诺丁汉森林 [刘焕],https://tv.iill.top/FB/URhFH1
+「英超」22:00 联赛 伯恩利 vs 诺丁汉森林 [赛场原声],https://tv.iill.top/FB/Z1GuM1
+「英超」22:00 联赛 伯恩利 vs 诺丁汉森林 [英文解说],https://tv.iill.top/FB/E1btjR
+「英超」22:00 联赛 布赖顿 vs 托特纳姆热刺 [娄一晨 李彦],https://tv.iill.top/FB/dawz9V
+「英超」22:00 联赛 布赖顿 vs 托特纳姆热刺 [赛场原声],https://tv.iill.top/FB/qBZIJt
+「英超」22:00 联赛 布赖顿 vs 托特纳姆热刺 [英文解说],https://tv.iill.top/FB/iVvGYv
 CCTV 1 综合,https://tv.iill.top/x/cctv1
 CCTV 2 财经,https://tv.iill.top/x/cctv2
 CCTV 3 综艺,https://tv.iill.top/x/cctv3
@@ -3973,43 +3988,20 @@ CCTV 4 中文国际,https://tv.iill.top/x/cctv4
 CCTV 5 体育,https://tv.iill.top/x/cctv5
 CCTV 5+ 体育赛事,https://tv.iill.top/x/cctv5+
 CCTV 6 电影,https://tv.iill.top/x/cctv6
-CCTV 7 国防军事,https://tv.iill.top/x/cctv7
 CCTV 8 电视剧,https://tv.iill.top/x/cctv8
 CCTV 9 纪录,https://tv.iill.top/x/cctv9
-CCTV 10 科教,https://tv.iill.top/x/cctv10
-CCTV 11 戏曲,https://tv.iill.top/x/cctv11
-CCTV 12 社会与法,https://tv.iill.top/x/cctv12
 CCTV 13 新闻,https://tv.iill.top/x/cctv13
-CCTV 14 少儿,https://tv.iill.top/x/cctv14
-CCTV 15 音乐,https://tv.iill.top/x/cctv15
 CCTV 16 奥林匹克,https://tv.iill.top/x/cctv16
-CCTV 17 农村农业,https://tv.iill.top/x/cctv17
 北京卫视,https://tv.iill.top/x/bjws
 江苏卫视,https://tv.iill.top/x/jsws
 东方卫视,https://tv.iill.top/x/dfws
 湖南卫视,https://tv.iill.top/x/hnws
 浙江卫视,https://tv.iill.top/x/zjws
 广东卫视,https://tv.iill.top/x/gdws
-广西卫视,https://tv.iill.top/x/gxws
-深圳卫视,https://tv.iill.top/x/szws
-四川卫视,https://tv.iill.top/x/scws
-重庆卫视,https://tv.iill.top/x/cqws
-海南卫视,https://tv.iill.top/x/hainws
-湖北卫视,https://tv.iill.top/x/hbws
-江西卫视,https://tv.iill.top/x/jxws
-贵州卫视,https://tv.iill.top/x/gzws
-东南卫视,https://tv.iill.top/x/dnws
-河南卫视,https://tv.iill.top/x/henws
-天津卫视,https://tv.iill.top/x/tjws
-山东卫视,https://tv.iill.top/x/sdws
-黑龙江卫视,https://tv.iill.top/x/hljws
-安徽卫视,https://tv.iill.top/x/ahws
-吉林卫视,https://tv.iill.top/x/jlws
-辽宁卫视,https://tv.iill.top/x/lnws
 翡翠台,https://yang-1989.eu.org/live/TVB-Jade
 無綫新聞台,https://yang-1989.eu.org/live/TVB-News-Channel
-now新聞台,https://yang-1989.eu.org/live/now-332
-now財經台,https://yang-1989.eu.org/live/now-333
+Now新聞台,https://yang-1989.eu.org/live/now-332
+Now財經台,https://yang-1989.eu.org/live/now-333
 ViuTV,https://yang-1989.eu.org/live/ViuTV
 ViuTVsix,https://yang-1989.eu.org/live/ViuTVsix
 美亞電影台,https://yang-1989.eu.org/live/Mei-Ah-Movie-Channel
@@ -4192,11 +4184,11 @@ TV5MONDE Style 生活時尚「4gTV」,https://tv.iill.top/4gtv/4gtv-live122
 明珠台「字幕」,https://mytv.cdn.loc.cc/o12.php?id=mzt
 TVB Plus,http://r.jdshipin.com/ndGgS
 無綫新聞台,http://r.jdshipin.com/CkuBd
-now新聞台,https://cdn.163189.xyz/163189/now
-now財經台,http://iptv.4666888.xyz/iptv.php?id=20085
-now星影台,http://iptv.4666888.xyz/iptv.php?id=20086
-now爆谷台,http://iptv.4666888.xyz/iptv.php?id=20087
-now華劇台,http://iptv.4666888.xyz/iptv.php?id=20091
+Now新聞台,https://cdn.163189.xyz/163189/now
+Now財經台,http://iptv.4666888.xyz/iptv.php?id=20085
+Now星影台,http://iptv.4666888.xyz/iptv.php?id=20086
+Now爆谷台,http://iptv.4666888.xyz/iptv.php?id=20087
+Now華劇台,http://iptv.4666888.xyz/iptv.php?id=20091
 Now Sports 英超1台,http://iptv.4666888.xyz/iptv.php?id=20092
 Now Sports 2,http://iptv.4666888.xyz/iptv.php?id=20093
 Now Sports 3,http://iptv.4666888.xyz/iptv.php?id=20084
@@ -4280,7 +4272,7 @@ CityFM|城市广播,http://fm929.cityfm.tw:8080/929.mp3
 CityFM|大苗栗广播,http://fm983.cityfm.tw:8080/983.mp3
 CityFM|台北健康,http://fm901.cityfm.tw:8080/901.mp3
 CityFM|台南之音,http://fm971.cityfm.tw:8080/971.mp3
-CNA 938,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+CNA 938,https://14033.live.streamtheworld.com/938Now_PREM.aac
 CNR 经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
 CNR 中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 CRI HIT FM (北京),https://satellitepull.cnr.cn/live/wxgjlxyy/playlist.m3u8
