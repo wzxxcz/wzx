@@ -3900,11 +3900,11 @@ bang派,https://live.metshop.top/huya/11336719
 1338.hk,https://m1.m3u8111222333.com/G0130/e094/e094.m3u8
 av91.top,https://wbug.xyz/videos/0f58e89f018ae20404e4c7cbc48352f9/g.m3u8?h=3121efe8979c635
 mft.hk,https://wbug.xyz/videos/e79553fab041f03efee560b53f8d7dc84c76bb2b/g.m3u8?h=3121efe8979c635
-免費訂閲：請勿販賣...,https://epg-1.iill.top/v/302.mp4
-維護時間：2025-9-15 #佛系維護...,https://epg-1.iill.top/v/301.mp4
-維護内容：維護 Gather「维护 •央卫「海外」"」,https://epg-1.iill.top/v/302.mp4
-公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg-1.iill.top/v/301.mp4
-限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg-1.iill.top/v/302.mp4
+免費訂閲：請勿販賣...,https://epg.iill.top/v/302.mp4
+維護時間：2025-9-15 #佛系維護...,https://epg.iill.top/v/301.mp4
+維護内容：維護 Gather「维护 •央卫「海外」"」,https://epg.iill.top/v/302.mp4
+公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
+限制條件：請保持 訂閲IP 與 觀看IP 一致,https://epg.iill.top/v/302.mp4
 CCTV 1 综合「回看」,https://tv.iill.top/migu/cctv1
 CCTV 2 财经「回看」,https://tv.iill.top/migu/cctv2
 CCTV 3 综艺「回看」,https://tv.iill.top/migu/cctv3
@@ -4510,6 +4510,4 @@ YES 933,https://22393.live.streamtheworld.com/YES933_PREM.aac
 「电视伴音」CETV2,https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 「电视伴音」CETV3,https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
 「电视伴音」CETV4,https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
----------------,https://epg-1.iill.top/v/302.mp4
-仅支持安卓·不懂问ChatGPT,https://epg-1.iill.top/v/301.mp4
-https://github.com/YanG-1989,https://epg-1.iill.top/v/302.mp4
+---------------,https://epg.iill.top/v/302.mp4
