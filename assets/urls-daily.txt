@@ -1,6 +1,8 @@
 https://188766.xyz/itv
 http://iptv.4666888.xyz/FYTV.txt
 http://iptv.4666888.xyz/FYTV.m3u
+https://kakaxi-1.github.io/IPTV/ipv4.txt
+https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://fy.188766.xyz/?url=http://tv123.top:35455&mima=mianfeidehaimaiqian
 https://fy.188766.xyz/?ip=113.45.240.129&mima=mianfeidehaimaiqian
 https://fy.188766.xyz/?ip=192.168.1.2&lunbo=false&bconly=true&mima=maiqiandeshisunzi
