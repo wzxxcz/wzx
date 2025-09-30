@@ -55,6 +55,7 @@ https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 --http://live.nctv.top/x.txt
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
+https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
 https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
 https://15280.kstore.space/%E5%A5%A5%E5%8F%B0.txt
@@ -68,6 +69,7 @@ https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E
 --https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg2.m3u
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mgg.m3u
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/txx.m3u
+https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/iqy.m3u
 --https://www.iyouhun.com/tv/myIPTV/ipv4.m3u
 https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt
 --https://migu.188766.xyz/?migutoken=a7888d7433ad19fb29ed919e556bcead&id=CCTV14&pp=1
