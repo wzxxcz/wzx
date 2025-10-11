@@ -5,6 +5,8 @@ http://bxtv.3a.ink/live.txt
 http://bxtv.3a.ink/live.m3u
 https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian
 https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian&&haiwai=true
+https://iptv.catvod.com/tv.m3u
+https://live.catvod.com/tv.m3u
 https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
 https://kakaxi-1.github.io/IPTV/ipv4.txt
