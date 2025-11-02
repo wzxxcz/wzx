@@ -118,7 +118,7 @@ http://47.120.41.246:8899/zb.txt
 --http://ys.my.to//i/?T=HK
 --http://cccccccoccccccc.ccccocccc.cc/uploads/%E6%8A%AC%E6%89%9B_1.txt
 --http://nas.suntao.online:35455/tv.m3u
-https://live.kilvn.com/iptv.m3u
+--https://live.kilvn.com/iptv.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
@@ -135,7 +135,7 @@ https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 --https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/special/special.txt
-https://live.zhoujie218.top/tv/iptv6.txt
+--https://live.zhoujie218.top/tv/iptv6.txt
 --http://mdxgh.tpddns.cn:9999/new/mdzb.txt
 https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 --http://kxrj.site:35455/tv.m3u
@@ -159,7 +159,7 @@ https://raw.githubusercontent.com/altn2025/iptv/main/iptv.m3u
 --https://gitlab.com/tvtg/vip/-/raw/main/log.txt
 --https://d.kstore.space/download/7395/xiaohei.txt
 --http://117.72.68.25:9230/latest.txt
-http://home.jundie.top:81/Cat/tv/live.txt
+--http://home.jundie.top:81/Cat/tv/live.txt
 --http://175.178.251.183:6689/live.txt 
 --https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u
 --https://raw.githubusercontent.com/BP3388/BP001.github.io/main/tivi.list
