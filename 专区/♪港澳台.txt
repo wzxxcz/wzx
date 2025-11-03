@@ -11,21 +11,48 @@
 
 翡翠台,http://ali.hlspull.yximgs.com/live/awei_jade.flv
 
+TVB无线新闻,http://vallest.uk/livehttpplay?channel_id=30024
+TVB无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124
+TVB无线明珠,http://vallest.uk/livehttpplay?channel_id=30026
+VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032
+VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033
+RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
+RTHK-32,http://vallest.uk/livehttpplay?channel_id=30067
+Plus综合,http://vallest.uk/livehttpplay?channel_id=30023
+凤凰中文,http://vallest.uk/livehttpplay?channel_id=30014
+凤凰资讯,http://vallest.uk/livehttpplay?channel_id=30015
+凤凰香港,http://vallest.uk/livehttpplay?channel_id=30016
+有线综合,http://vallest.uk/livehttpplay?channel_id=20152
+
+无线新闻,http://hls.168.us.kg/u/83/master.m3u8
+无线翡翠,http://hls.168.us.kg/u/81/master.m3u8
+Now新闻,http://hls.168.us.kg/u/332/master.m3u8
+Now财经,http://hls.168.us.kg/u/333/master.m3u8
+
+无线新闻,https://cdn6.101.qzz.io/163189/wxxw
+无线翡翠,https://cdn6.101.qzz.io/163189/fct
+无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
+无线明珠,https://mytv.cdn.loc.cc/o12.php?id=mzt
+无线星河,https://cdn6.101.qzz.io/163189/tvbxh
+无线功夫,https://cdn6.101.qzz.io/163189/yzwx
+澳视澳门,https://cdn6.101.qzz.io/163189/asam
+VIUTV粤,https://cdn.163189.xyz/163189/viu
+Plus综合,https://cdn6.101.qzz.io/163189/tvbp
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+
 TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 TVB无线华丽,http://php.jdshipin.com/PLTV/iptv.php?id=huali
 TVB无线华丽,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 TVB无线华丽,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 
+TVB无线新闻,http://bxtv.3a.ink/api.php?id=wxxw
 TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB无线新闻,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8
 TVB无线新闻,p3p://167.114.175.6:55331/653e4703000daead0c78dfb07723484e
 TVB无线新闻,p3p://108.181.32.169:19673/66c414110003f1f047eb7cb30cd84a38
-TVB无线新闻,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah006-golive.flv
-TVB无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 TVB无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
-TVB无线新闻,https://cdn.iptv8k.top/dl/jspd.php?id=2&time=20240926215313&ip=111.229.253.40$LR•IPV4『线路1』
-TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn$LR•IPV4『线路4』
-TVB无线新闻,http://ali.hlspull.yximgs.com/live/awei_wxxw.flv
 
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
