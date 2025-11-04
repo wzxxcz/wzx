@@ -811,8 +811,8 @@ beijing_time = utc_time + timedelta(hours=8)
 # 格式化为所需的格式
 formatted_time = beijing_time.strftime("%Y%m%d %H:%M:%S")
 
-about_video1="https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4"
-about_video2="https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4"
+about_video1="https://gitee.com/wzbdyr/xcz/raw/master/about1080p.mp4"
+about_video2="https://github.com/kimwang1978/xcz/raw/main/about1080p.mp4"
 version=formatted_time+","+about_video1
 about="关于本源(小橙子电视),"+about_video2
 
@@ -1115,3 +1115,4 @@ print(f"other行数: {other_lines_hj} ")
 #备用1：http://tonkiang.us
 #备用2：https://www.zoomeye.hk,https://www.shodan.io,https://tv.cctv.com/live/
 #备用3：(BlackList检测对象)http,rtmp,p3p,rtp（rtsp，p2p）
+
