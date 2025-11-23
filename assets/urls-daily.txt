@@ -1,4 +1,5 @@
 https://188766.xyz/itv
+https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://fy.188766.xyz/?ip=&haiwai=true&mima=mianfeibuhuaqian
 https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeibuhuaqian&&haiwai=true
 https://bc.188766.xyz/?ip=&haiwai=true
@@ -99,9 +100,10 @@ https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E
 --https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg.txt
 --https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mg2.m3u
 https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian
-https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mgg.m3u
+--https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mgg.m3u
+https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/mmg.m3u
 https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/txx.m3u
-https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/iqy.m3u
+https://raw.githubusercontent.com/Cx4x/6/refs/heads/main/iiqy.m3u
 --https://www.iyouhun.com/tv/myIPTV/ipv4.m3u
 http://httop.top/iptv.m3u
 https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt
