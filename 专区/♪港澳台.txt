@@ -29,6 +29,9 @@ Plus综合,http://vallest.uk/livehttpplay?channel_id=30023
 Now新闻,http://hls.168.us.kg/u/332/master.m3u8
 Now财经,http://hls.168.us.kg/u/333/master.m3u8
 
+Now新闻,http://cdn.163189.xyz/163189/now
+
+
 无线新闻,https://cdn6.101.qzz.io/163189/wxxw
 无线翡翠,https://cdn6.101.qzz.io/163189/fct
 无线翡翠,https://mytv.cdn.loc.cc/o12.php?id=fct
