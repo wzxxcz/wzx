@@ -11,9 +11,6 @@
 
 翡翠台,http://ali.hlspull.yximgs.com/live/awei_jade.flv
 
-TVB无线新闻,http://vallest.uk/livehttpplay?channel_id=30024
-TVB无线翡翠,http://vallest.uk/livehttpplay?channel_id=20124
-TVB无线明珠,http://vallest.uk/livehttpplay?channel_id=30026
 VIUTV粤,http://vallest.uk/livehttpplay?channel_id=30032
 VIUTV英,http://vallest.uk/livehttpplay?channel_id=30033
 RTHK-31,http://vallest.uk/livehttpplay?channel_id=30066
@@ -118,36 +115,9 @@ HOY76,http://bziyunshao.synology.me:8891/bysid/76
 HOY77,http://bziyunshao.synology.me:8891/bysid/77
 HOY78,http://bziyunshao.synology.me:8891/bysid/78
 
-HOY77,http://ali.hlspull.yximgs.com/live/awei_hoy77.flv
-HOY78,http://ali.hlspull.yximgs.com/live/awei_hoy78.flv
-
-
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
-TVB娱乐新闻,https://live.tvfix.org/live/enews/index.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-天映经典,https://live.tvfix.org/live/tyjd/index.m3u8
-凤凰资讯,https://live.tvfix.org/live/fwzx/1/v4000000/index.m3u8
-ROCK Action,https://live.tvfix.org/live/rockac/index.m3u8
-18台赛马,https://live.tvfix.org/live/c18/index.m3u8
-FashionBox,https://live.tvfix.org/live/fashion/index.m3u8
-TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
-18赛马,https://live.tvfix.org/live/c18/4/v200000/index.m3u8
-TVB Plus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
-Nick Jr,https://live.tvfix.org/live/nickjr/index.m3u8
-PopC,https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
-PopC,https://live.tvfix.org/live/popc/index.m3u8
-AXN,https://live.tvfix.org/live/axn/index.m3u8
-
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-
-凤凰卫视,http://eu.huohuoaa.tech:1025/Smart.php?id=phoenixtv_hd
-凤凰资讯,http://eu.huohuoaa.tech:1025/Smart.php?id=phoenixinfo_hd
-凤凰香港,http://eu.huohuoaa.tech:1025/Smart.php?id=hkphoenix_twn
 
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8$LR•IPV4『线路41』
 凤凰中文,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8577/.m3u8$LR•IPV4『线路45』
