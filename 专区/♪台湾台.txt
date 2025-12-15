@@ -1,29 +1,19 @@
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』
-东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8$LR•IPV4『线路8』
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新闻,http://211.72.65.236:8574/.m3u8
-TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
-TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts$LR•IPV4『线路6』
 
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路6』
-TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路11』
 
-
-中天新闻,http://ali.hlspull.yximgs.com/live/167_ztxw.flv
-中天娱乐,http://ali.hlspull.yximgs.com/live/167ztyl.flv
-八大第一,http://ali.hlspull.yximgs.com/live/awei_bddy.flv
-八大综合,http://ali.hlspull.yximgs.com/live/awei_bdzh.flv
+CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -45,20 +35,16 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『�
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
-三立戏剧,http://50.7.234.10:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 
 中视HD,rtmp://f13h.mine.nu/sat/tv091
 中视HD,http://50.7.234.10:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
 
-中天娱乐,http://50.7.234.10:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
-非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-非凡新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv010
 
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
@@ -70,98 +56,6 @@ MoMoTV,rtmp://f13h.mine.nu/sat/tv761
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
-龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
-龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
-龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
-龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
-龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
-
-华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
-华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-
-EYE-戏剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eyetvxiju_twn
-ELTA影剧,https://haoyunlai.serv00.net/Smartv-1.php?id=eltayingju_twn
-Astr爱奇,https://haoyunlai.serv00.net/Smartv-1.php?id=Qiyi
-AstrQJ国,https://haoyunlai.serv00.net/Smartv-1.php?id=Quanjia
-Astr欢喜,https://haoyunlai.serv00.net/Smartv-1.php?id=Huahee
-
-TVBS新闻,http://122.117.71.103:8543/tvbs新闻.m3u8
-三立新闻,http://122.117.71.103:8542/三立新闻.m3u8
-
-纬来电影,http://108.181.20.197/livehttpplay?channel_id=20199
-龙华日韩,http://108.181.20.197/livehttpplay?channel_id=20081
-龙华偶像,http://108.181.20.197/livehttpplay?channel_id=20023
-TVBS精彩,http://108.181.20.197/livehttpplay?channel_id=20136
-壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
-
-壹新聞,http://108.181.20.197/livehttpplay?channel_id=20028
-年代新聞,http://108.181.20.197/livehttpplay?channel_id=20033
-国兴卫视,http://108.181.20.197/livehttpplay?channel_id=20164
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-
-緯來體育,http://bxtv.3a.ink/api.php?id=wlty
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-
-龙祥电影,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-中天新闻,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-tvbs新闻,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-年代新闻,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-民视闽南,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-中视闽南,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-华视闽南,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-台视闽南,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-tvbs闽南,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-tvbs欢乐,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-公视台语,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-台视综合,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-八大娱乐,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-东森洋片,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-东森幼幼,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-东森财经,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-寰宇财经,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-华艺综合,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-阿里郎综,https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
-AXN电影,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-CInemax,https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
-HBo,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-HBo家庭,https://smart.pendy.dpdns.org/Smart.php?id=fyi_twn
-好莱电影,https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
-龙华经典,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-龙华电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-龙华偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-龙华洋片,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-纬来日本,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-纬来综合,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-纬来精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-靖天国际,https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-靖天卡通,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-大爱壹,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-大爱贰,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-好消息贰,https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
-三立闽南,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-ELta影剧,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-ELta综合,https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-ELTA体1,https://smart.pendy.dpdns.org/Smart.php?id=eltasport_twn
-ELTA体3,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-Eleven一,https://smart.pendy.dpdns.org/Smart.php?id=golfchannel_twn
-博斯无限,https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
-博斯网球,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-博斯运动壹特,https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-博斯运动贰特,https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-博斯高球壹特,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf1_twn
-博斯高球贰特,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-探索亚洲,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
-野生动物,https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
-亚洲美食,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-亚洲旅游,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-亚洲TLC,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
-EYE-旅游,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-EYE-戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-MTv,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
-
 HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
 HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
 
@@ -170,6 +64,3 @@ HITs电影,http://37.27.111.214:8080/live/28/hls.m3u8
 
 Taiwan Good TV General,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8
 Taiwan Good TV Truth,http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-3.m3u8
-
-中天新闻1,https://fenghuang.tv12.xyz/1001.m3u8
-中天新闻2,https://fenghuang.tv12.xyz/1002.m3u8
