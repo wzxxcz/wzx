@@ -6,6 +6,7 @@ https://gitee.com/hw2837/iptv/raw/master/iptv
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/output/ipv4/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/output/ipv4/result.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E6%B5%8B%E8%AF%95/IPTV/all_channels.txt
 http://txt.gt.tc/users/HKTV.txt
 https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://fy.188766.xyz/?ip=&haiwai=true&mima=mianfeibuhuaqian
