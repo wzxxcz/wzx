@@ -7,6 +7,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/h
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/Hotel/hotel.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TvSources/iptv_list.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/fofa/IPTV.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
 https://chuxinya.top/f/vlyxFA/JDTV.txt
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 https://gitee.com/zwssina/yunduanyuan/raw/master/SB
