@@ -93,11 +93,9 @@ https://aktv.space/live.m3u
 https://fy.188766.xyz/?ip=home.kuaidi521.com         
 https://15280.kstore.space/%E5%A5%A5%E5%8F%B0.txt
 http://zoto.work.gd//i/?T=咪咕   
-http://47.120.41.246:8899/zb.txt
 http://go8.myartsonline.com/zx/0/dzh.txt
 https://fy.188766.xyz/?ip=192.168.1.2&mishitong=false&bconly=true
 http://wx.beijingyunmiao.com/df.txt
-http://47.120.41.246:8899/zb.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/cqshushu/tvjk/main/all.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/cqshushu/tvjk/main/lanzhou.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/cqshushu/tvjk/main/nanjing.txt
@@ -158,7 +156,6 @@ https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv.txt
 https://live.izbds.com/tv/iptv4.txt
 --https://tv.850930.xyz/kdsb.txt
 --http://61.160.112.102:35455/tv.m3u
-http://47.120.41.246:8899/zb.txt
 --http://ys.my.to//i/?T=HK
 --http://cccccccoccccccc.ccccocccc.cc/uploads/%E6%8A%AC%E6%89%9B_1.txt
 --http://nas.suntao.online:35455/tv.m3u
