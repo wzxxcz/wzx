@@ -11,6 +11,9 @@ https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/r
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E5%AE%89%E5%BE%BD%E7%BB%84%E6%92%AD/iptv_list.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E6%B5%8B%E8%AF%95/IPTV/all_channels.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E6%B5%8B%E8%AF%95/IPTV/%E5%8C%97%E4%BA%AC%E5%B8%82%E7%94%B5%E4%BF%A1.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/TV-yjc/refs/heads/main/Hotel/iptv.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/TV-yjc/refs/heads/main/IP_Scan/output/%E5%AE%89%E5%BE%BD%E7%94%B5%E4%BF%A1.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/TV-yjc/refs/heads/main/IP_Scan/output/%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A1.txt
 https://chuxinya.top/f/vlyxFA/JDTV.txt
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 https://gitee.com/zwssina/yunduanyuan/raw/master/SB
