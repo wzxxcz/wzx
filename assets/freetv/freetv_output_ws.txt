@@ -1,5 +1,5 @@
 更新时间,#genre#
-20251231 07:50:19,url
+20260101 07:50:24,url
 
 
 freetv_ws,#genre#
@@ -96,12 +96,10 @@ freetv_ws,#genre#
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-11.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-12.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-13.ctv
-广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-2.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-3.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-4.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-5.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-6.ctv
-广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-7.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-8.ctv
 广东卫视,https://stream1.freetv.fun/yan-dong-wei-shi-gao-qing-9.ctv
 广西卫视,https://stream1.freetv.fun/yan-xi-wei-shi-15.m3u8
