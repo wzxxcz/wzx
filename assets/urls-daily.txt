@@ -20,6 +20,9 @@ https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 https://gitee.com/zwssina/yunduanyuan/raw/master/SB
 https://gitee.com/hw2837/iptv/raw/master/iptv
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
+https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
+https://ghproxy.net/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
+https://supprise0901.github.io/TVBox_live/live.txt
 http://txt.gt.tc/users/HKTV.txt
 https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://fy.188766.xyz/?ip=&haiwai=true&mima=mianfeibuhuaqian
