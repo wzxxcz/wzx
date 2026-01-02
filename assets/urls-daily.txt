@@ -1,5 +1,6 @@
 https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true
 https://188766.xyz/itv
+http://43.251.226.89:8080/live.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/output/ipv4/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/output/ipv4/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E6%B5%8B%E8%AF%95/IPTV/all_channels.txt
