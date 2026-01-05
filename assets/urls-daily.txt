@@ -36,9 +36,6 @@ https://php.946985.filegear-sg.me/jackTV.m3u
 http://txt.gt.tc/users/HKTV.txt
 https://gongdian.top/tv/guovin
 https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-https://proxy.lalifeier.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 http://ys.my.to//i/?T=强哥直播新版
 http://ku9.fr.to/ku9/1763234780.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/lem85930/kakaxi-1-IPTV/refs/heads/main/ipv4.txt
@@ -76,7 +73,6 @@ https://gongdian.top/tv/bingcha
 https://fy.188766.xyz/?ip=192.168.1.2&lunbo=false&bconly=true&mima=699144377
 https://fy.188766.xyz/?url=http://tv123.top:35455&mima=699144377
 https://fy.188766.xyz/?ip=113.45.240.129&mima=699144377
-https://ghcy.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://live.catvod.com/tv.m3u
 http://txt.kesug.com/users/hulanlu.txt
 https://15280.kstore.space/%E5%A5%A5%E5%8F%B0.txt
@@ -92,7 +88,6 @@ https://fy.188766.xyz/?ip=192.168.2.231
 https://fy.188766.xyz/?url=http://mursor.ottiptv.cc&mishitong=false&lunbo=false
 https://d.kstore.dev/download/9246/%E7%B4%AB%E6%B0%94%E4%B8%9C%E6%9D%A5%E7%9B%B4%E6%92%AD.txt&&&https://d.kstore.dev/download/9246/%E7%B4%AB%E6%B0%94%E7%9B%B4%E6%92%AD%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%87.jpg
 https://d.kstore.dev/download/9246/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3+%282%29.txt
-https://ghcy.eu.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://fy.188766.xyz/?ip=192.168.1.2冰茶
 https://aktv.space/live.m3u
 https://fy.188766.xyz/?ip=home.kuaidi521.com         
@@ -118,7 +113,6 @@ https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 --http://live.nctv.top/x.txt
 https://188766.xyz/itv
-https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
 https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
