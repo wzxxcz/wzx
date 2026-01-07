@@ -34,6 +34,9 @@ https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/
 https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/main/itvlist.txt
 https://php.946985.filegear-sg.me/jackTV.m3u
 http://txt.gt.tc/users/HKTV.txt
+http://mytv.3d.tc//i/?T=lczb
+https://live.catvod.com/tv.m3u
+http://pan.wdrjk.top/down.php/aad56aa7a7610097bc103077064f0bcb.txt
 https://gongdian.top/tv/guovin
 https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 http://ys.my.to//i/?T=强哥直播新版
