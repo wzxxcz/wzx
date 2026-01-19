@@ -1,3 +1,12 @@
+龙华电影台,http://cdn8.163189.xyz/163189/lhdy
+龙华经典台,http://cdn8.163189.xyz/163189/lhjd
+龙华卡通台,http://cdn8.163189.xyz/163189/lhkt
+龙华偶像台,http://cdn8.163189.xyz/163189/lhox
+龙华日韩台,http://cdn8.163189.xyz/163189/lhrh
+龙华戏剧台,http://cdn8.163189.xyz/163189/lhxj
+龙华洋片台,http://cdn8.163189.xyz/163189/lhyp
+龙华电影台,http://cdn8.163189.xyz/163189/lhdy
+
 东森美洲2,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
