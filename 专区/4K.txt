@@ -20,10 +20,18 @@ CCTV 8K,http://fn.tmde.top:35455/nptv/cctv8k.m3u8
 CCTV 4K,http://xc.mfykeke.top:35455/nptv/cctv4k.m3u8
 CCTV 8K,http://xc.mfykeke.top:35455/nptv/cctv8k.m3u8
 
-北京卫视4K,https://migu.188766.xyz/?migutoken=4de3a99b22fd347ac2c3019df7c6454b&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
-深圳卫视4K,https://migu.188766.xyz/?migutoken=3100906f039cd53c8274bdf515d565e3&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-北京卫视4K,https://migu.188766.xyz/?migutoken=3db112733dbbd9d9081b733f24d7aaa4&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&pp=1
-深圳卫视4K,https://migu.188766.xyz/?migutoken=6dbfdaaddc42715e00238b7ddf205493&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+北京卫视4K,http://43.251.226.89:8080/play/918.m3u8
+深圳卫视4K,http://43.251.226.89:8080/play/919.m3u8
+湖南卫视4K,http://43.251.226.89:8080/play/920.m3u8
+湖南卫视4K,http://43.251.226.89:8080/play/921.m3u8
+浙江卫视4K,http://43.251.226.89:8080/play/922.m3u8
+浙江卫视4K,http://43.251.226.89:8080/play/923.m3u8
+江苏卫视4K,http://43.251.226.89:8080/play/924.m3u8
+江苏卫视4K,http://43.251.226.89:8080/play/925.m3u8
+东方卫视4K,http://43.251.226.89:8080/play/926.m3u8
+苏州4K,http://43.251.226.89:8080/play/927.m3u8
+河北4K,http://43.251.226.89:8080/play/928.m3u8
+
 深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
 深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
 深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
