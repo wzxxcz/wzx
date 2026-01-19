@@ -31,7 +31,6 @@ https://fy.188766.xyz/?ip=&haiwai=true&mima=mianfeibuhuaqian
 https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeibuhuaqian&&haiwai=true
 https://bc.188766.xyz/?ip=&haiwai=true
 https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/main/IPTV.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/main/itvlist.txt
 https://php.946985.filegear-sg.me/jackTV.m3u
 http://txt.gt.tc/users/HKTV.txt
 https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
