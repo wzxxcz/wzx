@@ -3,7 +3,6 @@ https://188766.xyz/itv
 http://43.251.226.89:8080/live.txt
 http://is.is-great.org/0/241626.txt
 http://ku9.fr.to/ku9/1768502278.txt
-https://tv1288.xyz/migu.php
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/output/ipv4/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/output/ipv4/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E6%B5%8B%E8%AF%95/IPTV/all_channels.txt
@@ -39,6 +38,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/
 https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/main/itvlist.txt
 https://php.946985.filegear-sg.me/jackTV.m3u
 http://txt.gt.tc/users/HKTV.txt
+https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
 http://mytv.3d.tc//i/?T=lczb
 https://live.catvod.com/tv.m3u
 http://pan.wdrjk.top/down.php/aad56aa7a7610097bc103077064f0bcb.txt
