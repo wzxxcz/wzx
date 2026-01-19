@@ -37,7 +37,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/zubo/refs/heads/
 https://php.946985.filegear-sg.me/jackTV.m3u
 http://txt.gt.tc/users/HKTV.txt
 https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
-https://live.catvod.com/tv.m3u
 http://pan.wdrjk.top/down.php/aad56aa7a7610097bc103077064f0bcb.txt
 https://gongdian.top/tv/guovin
 https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
@@ -55,7 +54,6 @@ https://gongdian.top/tv/iptv
 https://gongdian.top/tv/bingcha
 https://gongdian.top/tv/develop202
 https://iptv.catvod.com/tv.m3u
-https://live.catvod.com/tv.m3u
 https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://develop202.github.io/migu_video/interface.txt        
 https://fy.188766.xyz/?ip=192.168.2.202&mishitong=true&mima=2233&haiwai=true咪咕秒播     
 https://ghcy.eu.org/https://raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/fyzb/zby0907.txt
@@ -77,7 +75,6 @@ https://gongdian.top/tv/bingcha
 https://fy.188766.xyz/?ip=192.168.1.2&lunbo=false&bconly=true&mima=699144377
 https://fy.188766.xyz/?url=http://tv123.top:35455&mima=699144377
 https://fy.188766.xyz/?ip=113.45.240.129&mima=699144377
-https://live.catvod.com/tv.m3u
 http://txt.kesug.com/users/hulanlu.txt
 https://15280.kstore.space/%E5%A5%A5%E5%8F%B0.txt
 http://rihou.cc:567/gggg.nzk
@@ -121,7 +118,6 @@ https://fy.188766.xyz/?ip=192.168.1.2%E5%86%B0%E8%8C%B6
 http://bxtv.3a.ink/live.txt
 https://15280.kstore.space/%E5%A5%A5%E5%8F%B0.txt
 https://iptv.catvod.com/tv.m3u
-https://live.catvod.com/tv.m3u
 http://mytv.3d.tc//i/?T=%E6%97%A0%E7%BA%BF%E7%94%B5%E8%A7%86
 http://38.165.20.168/js/%E7%9B%B4%E6%92%AD.txt
 --https://chuxinya.top/f/XooOhO/%E6%B8%AF%E6%BE%B3%E5%8F%B0%E8%B5%84%E6%BA%90.txt
