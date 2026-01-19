@@ -1,1 +1,3 @@
-上海新闻综合,http://mg.hmysapp.cn:177/ckmg/zb.php?id=shxwzh
+上海新闻综合,http://43.251.226.89:8080/play/57.m3u8
+上视东方影视,http://43.251.226.89:8080/play/58.m3u8
+上海第一财经,http://43.251.226.89:8080/play/59.m3u8
