@@ -98,7 +98,6 @@ https://gh-proxy.com/https://raw.githubusercontent.com/cqshushu/tvjk/main/ningbo
 https://gh-proxy.com/https://raw.githubusercontent.com/cqshushu/tvjk/main/fuzhou.txt
 https://qixing.myhkw.com/自用测试.txt
 https://live.zbds.top/tv/iptv4.txt
-https://gh-proxy.com/https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/%E7%BB%84%E6%92%AD_%E5%B9%BF%E4%B8%9C%E8%81%94%E9%80%9A.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/yewengood/yahu/refs/heads/main/speedtest/gddx_fofa.txt
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://d.kstore.dev/download/15366/6988.txt
