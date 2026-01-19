@@ -47,7 +47,6 @@ https://fy.188766.xyz/?ip=&bconly=true&mima=bingchawusifengxian&&haiwai=true
 https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian
 https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian&&haiwai=true
 https://gongdian.top/tv/iptv
-https://gongdian.top/tv/bingcha
 https://gongdian.top/tv/develop202
 https://iptv.catvod.com/tv.m3u
 https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://develop202.github.io/migu_video/interface.txt        
@@ -67,7 +66,6 @@ https://fy.188766.xyz/?ip=192.168.1.2&lunbo=false&bconly=true&mima=maiqiandeshis
 https://fy.188766.xyz/?url=http://tv123.top:35455&mima=maiqiandeshisunzi
 https://fy.188766.xyz/?ip=113.45.240.129&mima=maiqiandeshisunzi
 https://fy.188766.xyz/?ip=192.168.1.2&lunbo=false&bconly=true
-https://gongdian.top/tv/bingcha
 https://fy.188766.xyz/?ip=192.168.1.2&lunbo=false&bconly=true&mima=699144377
 https://fy.188766.xyz/?url=http://tv123.top:35455&mima=699144377
 https://fy.188766.xyz/?ip=113.45.240.129&mima=699144377
