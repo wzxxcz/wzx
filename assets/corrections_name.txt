@@ -204,11 +204,6 @@ Fashion 4K,Fashion 4K「时尚」
 CCTV4K,cctv4k
 CCTV8K,cctv8k
 
-
-
-
-
-
 春晚83,1983年春晚
 春晚84,1984年春晚
 春晚85,1985年春晚
