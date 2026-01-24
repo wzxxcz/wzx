@@ -63,3 +63,10 @@ Muzzik Sense Serbia.rs,https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 Muzzik Mts Serbia.rs,https://muzzik-live.morescreens.com/mts-a7/playlist.m3u8
 Muzzik Flashback Serbia.rs,https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 Radio S TV,https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
+静心系列《水晶冰川湾》,https://vd3.bdstatic.com/mda-rmc4iydm1hcz0pae/360p/h264/1765596390753990565/mda-rmc4iydm1hcz0pae.mp4
+静心系列《热带泻湖大桥上-I》,https://vd3.bdstatic.com/mda-rmd27rnn3sp593bm/360p/h264/1765676274352870381/mda-rmd27rnn3sp593bm.mp4
+静心系列《热带泻湖大桥上-II》,https://vd3.bdstatic.com/mda-rmd2xi05rbcxzkdc/360p/h264/1765678346984587087/mda-rmd2xi05rbcxzkdc.mp4
+静心系列《舒适的冬季氛围》,https://vd3.bdstatic.com/mda-rmc4iygt5f2x1ymm/360p/h264/1765596390826681602/mda-rmc4iygt5f2x1ymm.mp4
+静心系列《宁静的冬季旋律》,https://vd3.bdstatic.com/mda-rmc4iy91yc1patnp/360p/h264/1765596385896725263/mda-rmc4iy91yc1patnp.mp4
+静心系列《河畔的大提琴和钢琴》,https://vd3.bdstatic.com/mda-rmc4iydw2bzdy3xj/360p/h264/1765596380252732035/mda-rmc4iydw2bzdy3xj.mp4
+静心系列《拥抱冬天》,https://vd3.bdstatic.com/mda-rmc4iy8bq5jgi38u/360p/h264/1765596374077809105/mda-rmc4iy8bq5jgi38u.mp4
