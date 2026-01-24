@@ -70,7 +70,6 @@ http://mytv.3d.tc//i/?T=无线电视
 http://bxtv.3a.ink/live.txt
 http://iptv.4666888.xyz/FYTV.m3u
 http://iptv.4666888.xyz/FYTV.txt
-http://rihou.cc:555/gggg.nzk
 https://d.kstore.dev/download/9246/%E7%B4%AB%E6%B0%94%E4%B8%9C%E6%9D%A5%E7%9B%B4%E6%92%AD.txt&&&https://d.kstore.dev/download/9246/%E7%B4%AB%E6%B0%94%E7%9B%B4%E6%92%AD%E8%83%8C%E6%99%AF%E5%9B%BE%E7%89%87.jpg
 https://d.kstore.dev/download/9246/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3+%282%29.txt
 https://aktv.space/live.m3u
@@ -161,7 +160,6 @@ https://raw.githubusercontent.com/mlzlzj/hnyuan/refs/heads/main/iptv_list.txt
 --http://kxrj.site:35455/tv.m3u
 --http://ttkx.live:567/gggg.nzk
 --http://kxrj.site:567/gggg.nzk
---http://rihou.cc:555/gggg.nzk
 --http://rihou.cc:567/gggg.nzk
 --https://2883.kstore.vip/gggg.nzk
 --http://ttkx.cc:55/lib/kx2024.txt
