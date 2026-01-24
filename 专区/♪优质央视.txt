@@ -17,6 +17,19 @@ CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
+CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
+CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
+CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
+CCTV5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV5+,http://23.237.228.134/live5/CCTV5p.m3u8
+CCTV7,http://23.237.228.134/live5/CCTV7.m3u8
+CCTV9,http://23.237.228.134/live5/CCTV9.m3u8
+CCTV10,http://23.237.228.134/live5/CCTV10.m3u8
+CCTV12,http://23.237.228.134/live3/CCTV12.m3u8
+CCTV14,http://23.237.228.134/live3/CCTV14.m3u8
+CCTV15,http://23.237.228.134/live3/CCTV15.m3u8
+CCTV17,http://23.237.228.134/live3/CCTV17.m3u8
+
 CCTV1,http://43.251.226.89:8080/play/1.m3u8
 CCTV2,http://43.251.226.89:8080/play/2.m3u8
 CCTV3,http://43.251.226.89:8080/play/3.m3u8
@@ -63,7 +76,7 @@ CCTV13,http://153.0.171.163:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&a
 CCTV14,http://153.0.171.163:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15,http://153.0.171.163:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
+CCTV兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 CCTV央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
 CCTV第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
