@@ -52,7 +52,6 @@ https://raw.githubusercontent.com/lem85930/kakaxi-1-IPTV/refs/heads/main/ipv4.tx
 https://gh-proxy.com/https://raw.githubusercontent.com/wind005/TVlive/refs/heads/main/%E4%BB%A3%E7%90%86%E6%BA%90/%E4%B8%8A%E6%B5%B7%E7%A7%BB%E5%8A%A8-dl.txt
 http://bxtv.3a.ink/live.m3u
 https://gongdian.top/tv/develop202
-https://iptv.catvod.com/tv.m3u
 https://x08.x09.x10.mx/api/m3u-txt.php?type=txt&url=https://develop202.github.io/migu_video/interface.txt           
 https://ghcy.eu.org/https://raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/fyzb/zby0907.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/wind005/TVlive/refs/heads/main/%E4%BB%A3%E7%90%86%E6%BA%90/%E4%B8%8A%E6%B5%B7%E7%A7%BB%E5%8A%A8-dl.txt
@@ -99,8 +98,6 @@ https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%9
 https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
 http://bxtv.3a.ink/live.txt
 https://15280.kstore.space/%E5%A5%A5%E5%8F%B0.txt
-https://iptv.catvod.com/tv.m3u
-https://live.catvod.com/tv.m3u
 http://mytv.3d.tc//i/?T=%E6%97%A0%E7%BA%BF%E7%94%B5%E8%A7%86
 --http://38.165.20.168/js/%E7%9B%B4%E6%92%AD.txt
 --https://chuxinya.top/f/XooOhO/%E6%B8%AF%E6%BE%B3%E5%8F%B0%E8%B5%84%E6%BA%90.txt
