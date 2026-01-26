@@ -9,6 +9,7 @@ https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 http://ku9.fr.to/ku9/1768502278.txt
 https://iptv.catvod.com/tv.m3u
 https://live.catvod.com/tv.m3u
+https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E4%BC%98%E8%B4%A8%E6%BA%90/output/ipv4/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/TV/output/ipv4/result.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/py/%E6%B5%8B%E8%AF%95/IPTV/all_channels.txt
