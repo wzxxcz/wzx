@@ -31,6 +31,11 @@ https://gitee.com/zwssina/yunduanyuan/raw/master/SB
 https://d.kstore.dev/download/15366/6988.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
+https://gh-proxy.com/https://raw.githubusercontent.com/weizhe940605/zhuxinfutvlist/refs/heads/main/txt_files/Sus.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/weizhe940605/zhuxinfutvlist/refs/heads/main/txt_files/Susa.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/weizhe940605/zhuxinfutvlist/refs/heads/main/txt_files/Susaw.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/weizhe940605/ssilitv/refs/heads/main/itvlist.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/weizhe940605/lovelive/refs/heads/main/gotostill.txt
 http://43.251.226.89:8080/live.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro
 https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86%E9%A2%91%E9%81%93%E6%97%A018%E5%86%85%E5%AE%B9
