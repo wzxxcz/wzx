@@ -28,6 +28,7 @@ https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/TV-yjc/refs/h
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/TV-yjc/refs/heads/main/IP_Scan/output/%E5%AE%89%E5%BE%BD%E7%94%B5%E4%BF%A1.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/TV-yjc/refs/heads/main/IP_Scan/output/%E6%B1%9F%E8%8B%8F%E7%94%B5%E4%BF%A1.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt
+https://kakaxi.indevs.in/ipv4.txt
 https://gitee.com/zwssina/yunduanyuan/raw/master/SB
 https://d.kstore.dev/download/15366/6988.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
