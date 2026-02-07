@@ -12,15 +12,16 @@
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
+东森新闻美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?$LR•IPV4『线路2』
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?$LR•IPV4『线路3』
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路6』
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$LR•IPV4『线路11』
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$LR•IPV4『线路8』
 
