@@ -3948,9 +3948,9 @@ Hub Sports 8,https://hls.iill.top/api/Hub-Sports-8/index.m3u8
 Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
 Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
 Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
-鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
-鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
-鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
+鳳凰衛視·中文「回看」,http://dxa.yiandrive.com:39191/phenix/fhzw
+鳳凰衛視·資訊「回看」,http://dxa.yiandrive.com:39191/phenix/fhzx
+鳳凰衛視·香港「回看」,http://dxa.yiandrive.com:39191/phenix/fhhk
 雷霆881「电台」,https://881.touch-u.fun/playlist.m3u8
 叱咤903「电台」,https://903.touch-u.fun/playlist.m3u8
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
