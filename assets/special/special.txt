@@ -4139,6 +4139,14 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 广州新闻,http://dxa.yiandrive.com:39191/gztv/xinwen
 广州法治,http://dxa.yiandrive.com:39191/gztv/fazhi
 广州南国都市,http://dxa.yiandrive.com:39191/gztv/shenghuo
+东方卫视 4K,https://tv.iill.top/kdf/dfws
+五星体育,https://tv.iill.top/kdf/wxty
+第一财经,https://tv.iill.top/kdf/dycj
+上海新闻综合,https://tv.iill.top/kdf/xwzh
+上海都市频道,https://tv.iill.top/kdf/dspd
+新纪实,https://tv.iill.top/kdf/xjs
+魔都眼,https://tv.iill.top/kdf/mdy
+爱上海,https://tv.iill.top/kdf/ash
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 湖南卫视「回看」,https://tv.iill.top/migu/hnws
 辽宁卫视「回看」,https://tv.iill.top/migu/lnws
