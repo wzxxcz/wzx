@@ -17,6 +17,13 @@ CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV2,http://pull-hls-f11.douyincdn.com/media/stream-407062262674621100.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771769775&major_anchor_level=common&sign=98406f42e949db5477a402c85cbee007&t_id=037-20260215221614EEA56BB994BB42D25308-a6AVAz
+CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
+
 CCTV1,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV3,http://23.237.228.134/live5/CCTV3.m3u8
