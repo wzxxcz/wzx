@@ -1,4 +1,5 @@
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+湖南卫视,http://38.75.136.137:98/gslb/dsdqpub/hnwshd.m3u8?auth=testpub
 江苏卫视,http://38.75.136.137:98/gslb/dsdqbv/jswshd.m3u8?auth=test20251009
 浙江卫视,http://38.75.136.137:98/gslb/dsdqpub/zjwshd.m3u8?auth=testpub
 北京卫视,http://38.75.136.137:98/gslb/dsdqpub/bjwshd.m3u8?auth=testpub
@@ -18,6 +19,20 @@
 贵州卫视,http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 广西卫视,http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
 东南卫视,http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+河南卫视,http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
+
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
+湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
+湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/01.m3u8?&HlsSubType=&encrypt=
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
+江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
+山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
+山东卫视,https://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/01.m3u8?&HlsSubType=&encrypt=
+辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
+东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
+广西卫视,http://pull-hls-f11.douyincdn.com/media/stream-695314078702240428.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1771760950&major_anchor_level=common&sign=d9c21ca1151fa649e68dc18c13ac2e23&t_id=037-2026021519491078C5C8D15B8DDFD19426-OM31JH
+
 
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
@@ -230,3 +245,5 @@
 
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
+
+深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
