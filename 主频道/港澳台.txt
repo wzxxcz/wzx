@@ -3,6 +3,7 @@
 凤凰资讯
 凤凰卫视
 翡翠台
+翡翠台4K
 明珠台
 无线翡翠台
 无线新闻
@@ -30,6 +31,7 @@ TVB创世电影
 TVB戏曲
 TVBPLUS
 TVBJ2
+Now新闻
 J2
 VIU
 VIUTV
