@@ -7,6 +7,10 @@
 重温经典,http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887494.m3u8
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 
+喜剧影院,http://74.91.26.218:82/live/vlxjyy.m3u8
+黄百鸣,http://74.91.26.218:82/live/vlhbm.m3u8
+周润发,http://74.91.26.218:82/live/vlzrf.m3u8
+
 HBO,p3p://167.114.175.6:55331/66d22f6b0001f87c739b69c977f063dd
 中国电影,http://bx.757888.xyz/api.php?id=zgdy
 
