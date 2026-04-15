@@ -3,6 +3,7 @@
 維護内容：維護 Gather「調整限制 / 維護資源」,https://epg.iill.top/v/302.mp4
 公告说明：推流源·「隨時拉閘 / 晚安"0-6"」,https://epg.iill.top/v/301.mp4
 建議使用：請保持 个人觀看 請勿頻繁切換,https://epg-1.iill.top/v/301.mp4
+HBO「回看/12H」,https://hls.iill.top/test/HBO/index.m3u8
 CCTV 1 綜合「Relay」,https://v.iill.top/api/CCTV1/index.m3u8
 CCTV 2 財經「Relay」,https://v.iill.top/api/CCTV2/index.m3u8
 CCTV 3 綜藝「Relay」,https://v.iill.top/api/CCTV3/index.m3u8
@@ -35,8 +36,8 @@ CGTN العربية「回看」,https://tv.iill.top/CGTN/cgtn_arabic
 鳳凰衛視·中文「回看」,https://tv.iill.top/phenix/fhzw
 鳳凰衛視·資訊「回看」,https://tv.iill.top/phenix/fhzx
 鳳凰衛視·香港「回看」,https://tv.iill.top/phenix/fhhk
-雷霆881「电台」,https://881.touch-u.fun/playlist.m3u8
-叱咤903「电台」,https://903.touch-u.fun/playlist.m3u8
+雷霆881「电台」,https://rd.167.de5.net/radio/881hd/chunks.m3u8
+叱咤903「电台」,https://rd.167.de5.net/radio/903hd/chunks.m3u8
 Now新聞台,https://t.ttvb.eu.org/tvb/now-332/index.m3u8
 Now財經台,https://t.ttvb.eu.org/tvb/now-333/index.m3u8
 Now Sports 精選,https://t.ttvb.eu.org/tvb/now-630/index.m3u8
@@ -249,7 +250,7 @@ Red Bull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m
 BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
 BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 Discovery,https://hls.iill.top/api/Discovery/index.m3u8
-HBO,https://hls.iill.top/api/HBO/index.m3u8
+HBO,https://hls.iill.top/test/HBO/index.m3u8
 HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
 HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
 HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
